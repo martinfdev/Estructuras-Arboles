@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edd_1s2020_py2_201700656;
+package structure;
 
 /**
  *
@@ -14,7 +14,8 @@ public class EDD_1S2020_PY2_201700656 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      
+      Init start = new Init();
+
     }
     
 }
