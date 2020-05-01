@@ -11,9 +11,9 @@ package structure;
  */
 public class User {
     private int numero_carne;
-    private StringBuilder nombre, apellido, carrera, password;
+    private String nombre, apellido, carrera, password;
 
-    public User(int numero_carne, StringBuilder nombre, StringBuilder apellido, StringBuilder carrera, StringBuilder password) {
+    public User(int numero_carne, String nombre, String apellido, String carrera, String password) {
         this.numero_carne = numero_carne;
         this.nombre = nombre;
         this.apellido = apellido;
@@ -29,36 +29,35 @@ public class User {
         this.numero_carne = numero_carne;
     }
 
-    public StringBuilder getNombre() {
+    public String getNombre() {
         return nombre;
     }
 
-    public void setNombre(StringBuilder nombre) {
+    public void setNombre(String nombre) {
         this.nombre = nombre;
     }
 
-    public StringBuilder getApellido() {
+    public String getApellido() {
         return apellido;
     }
 
-    public void setApellido(StringBuilder apellido) {
+    public void setApellido(String apellido) {
         this.apellido = apellido;
     }
 
-    public StringBuilder getCarrera() {
+    public String getCarrera() {
         return carrera;
     }
 
-    public void setCarrera(StringBuilder carrera) {
+    public void setCarrera(String carrera) {
         this.carrera = carrera;
     }
 
-    public StringBuilder getPassword() {
+    public String getPassword() {
         return password;
     }
 
-    public void setPassword(StringBuilder password) {
+    public void setPassword(String password) {
         this.password = password;
     }
-
 }

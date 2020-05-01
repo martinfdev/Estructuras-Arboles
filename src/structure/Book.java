@@ -10,10 +10,10 @@ package structure;
  * @author pedro
  */
 public class Book {
-    private StringBuilder titulo, autor, editorial, categoria, idioma;
+    private String titulo, autor, editorial, categoria, idioma;
     private int carne_usuario_que_agrega, ISBN, year, edicion;
 
-    public Book(StringBuilder titulo, StringBuilder autor, StringBuilder editorial, StringBuilder categoria, StringBuilder idioma, int carne_usuario_que_agrega, int ISBN, int year, int edicion) {
+    public Book(String titulo, String autor, String editorial, String categoria, String idioma, int carne_usuario_que_agrega, int ISBN, int year, int edicion) {
         this.titulo = titulo;
         this.autor = autor;
         this.editorial = editorial;
@@ -25,43 +25,43 @@ public class Book {
         this.edicion = edicion;
     }
 
-    public StringBuilder getTitulo() {
+    public String getTitulo() {
         return titulo;
     }
 
-    public void setTitulo(StringBuilder titulo) {
+    public void setTitulo(String titulo) {
         this.titulo = titulo;
     }
 
-    public StringBuilder getAutor() {
+    public String getAutor() {
         return autor;
     }
 
-    public void setAutor(StringBuilder autor) {
+    public void setAutor(String autor) {
         this.autor = autor;
     }
 
-    public StringBuilder getEditorial() {
+    public String getEditorial() {
         return editorial;
     }
 
-    public void setEditorial(StringBuilder editorial) {
+    public void setEditorial(String editorial) {
         this.editorial = editorial;
     }
 
-    public StringBuilder getCategoria() {
+    public String getCategoria() {
         return categoria;
     }
 
-    public void setCategoria(StringBuilder categoria) {
+    public void setCategoria(String categoria) {
         this.categoria = categoria;
     }
 
-    public StringBuilder getIdioma() {
+    public String getIdioma() {
         return idioma;
     }
 
-    public void setIdioma(StringBuilder idioma) {
+    public void setIdioma(String idioma) {
         this.idioma = idioma;
     }
 
@@ -96,4 +96,6 @@ public class Book {
     public void setEdicion(int edicion) {
         this.edicion = edicion;
     }
+
+    
 }

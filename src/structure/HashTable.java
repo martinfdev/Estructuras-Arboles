@@ -9,13 +9,6 @@ package structure;
  *
  * @author pedro
  */
-public class EDD_1S2020_PY2_201700656 {
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-      Init start = new Init();
-
-    }
+public class HashTable {
     
 }
