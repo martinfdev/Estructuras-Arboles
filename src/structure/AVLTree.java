@@ -3,6 +3,7 @@ package structure;
 import java.awt.Desktop;
 import java.io.File;
 import java.io.IOException;
+import java.util.Locale;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -14,6 +15,7 @@ public class AVLTree {
 
     private NodeAVL root;
     private int count =0;
+    
     public AVLTree() {
         this.root = null;
     }
@@ -311,5 +313,25 @@ public class AVLTree {
         } catch (IOException ex) {
             Logger.getLogger(AVLTree.class.getName()).log(Level.SEVERE, null, ex);
         }
+    }
+    
+    //regresa el dato dentro de un uno pasando el valor a buscar por parametro
+    private NodeAVL search_node(NodeAVL root, String nombre_categoria){
+    //caso base la raiz es nula 
+        if (root == null || root.getBcategory().getName_category().equals(nombre_categoria)) {
+            return root;
+        }
+        //el valor del dato de la raiz es mayor que el dato  buscado
+        if (root.getBcategory().getName_category().compareTo(nombre_categoria) > 0) {
+            return search_node(root.left, nombre_categoria);
+        }
+        //el valor del dato de la raiz es menor que dato buscado
+        return search_node(root.right, nombre_categoria);
+    }
+    
+    //metodo publico para devolver un objeto de tipo Categoria de libro pide como 
+    //parametro el nombre de la categoria
+    public BooksCategory search(String nombre_categoria){
+        return search_node(root, nombre_categoria).getBcategory();
     }
 }

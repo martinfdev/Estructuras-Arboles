@@ -18,14 +18,17 @@ public class Init {
     private void test() {
 
         //comparacion de cadenas con valor de entero
-      /*  String n1 = "1", n2="110";
-        if (n1.compareTo(n2) == 0)
-            System.out.println(n1+" es igual que "+n2);
-        else if (n1.compareTo(n2) < 0) {
-            System.out.println(n1+" antes que "+n2);
-        }else
-            System.out.println(n2+" antes que "+n1);
-        */ 
+//        String n1 = "zimena", n2 = "wodo ";
+//        if (n1.compareTo(n2) == 0) {
+//            System.out.println(n1 + " es igual que " + n2);
+//            System.out.println(n1.compareTo(n2));
+//        } else if (n1.compareTo(n2) < 0) {
+//            System.out.println(n1 + " antes que " + n2);
+//            System.out.println(n1.compareTo(n2));
+//        } else {
+//            System.out.println(n2 + " antes que " + n1);
+//            System.out.println(n1.compareTo(n2));
+//        }
 //        AVLTree tree = new AVLTree();
 //        tree.insert("a");
 //        tree.insert("b");
@@ -54,16 +57,37 @@ public class Init {
 //        tree.insert("y");
 //        tree.insert("z");
         //tree.report();
+        // System.out.println(tree.search("r").getName_category());
         //System.out.println(tree.hashCode());
-        
 //        LinkedList<User> list = new LinkedList<>();
 //        list.add_head(new User(1, "Pedro", "m", "cs", "adf"));
 //        list.add_head(new User(2, "Juan", "s", "cs", "12"));
 //        list.add_head(new User(3, "mario", "m", "cs", "asfewgfsgfasdw35"));
- //       list.add_queue(new User(4, "Time", "t", "ii", "asdfww54sdf4aagd"));
- //       list.add_head(new User(5, "Face", "f", "sf", "asdfeag47323434"));
- //       list.add_queue(new User(6, "Amanda", "a", "sd","sagfer66547"));
-      
+        //       list.add_queue(new User(4, "Time", "t", "ii", "asdfww54sdf4aagd"));
+        //       list.add_head(new User(5, "Face", "f", "sf", "asdfeag47323434"));
+        //       list.add_queue(new User(6, "Amanda", "a", "sd","sagfer66547"));
+        BTree tb = new BTree(2);
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 10, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 20, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 5, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 6, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 12, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 30, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 7, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 17, 0, 0));
+        tb.insert(10);
+        tb.insert(20);
+        tb.insert(5);
+        tb.insert(6);
+        tb.insert(12);
+        tb.insert(30);
+        tb.insert(7);
+        tb.insert(17);
+        System.out.println("El recorrido del arbol es: ");
+        tb.traverse();
+        System.out.println((tb.search(5) != null));
+        System.out.println((tb.search(15) != null));
+
     }
-    
+
 }
