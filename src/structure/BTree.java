@@ -5,15 +5,19 @@
  */
 package structure;
 
+import java.util.Stack;
+
 /**
  *
  * @author pedro
  */
 public class BTree {
 
-    BNode root; //puntero al nodo raiz
-    int t; //grado minimo
-
+    private BNode root; //puntero al nodo raiz
+    private final int t; //grado minimo
+    private int count = 0;
+    private Stack piladot;
+    
     public BTree(int t) {
         root = null;
         this.t = t;
@@ -27,7 +31,7 @@ public class BTree {
     }
 
     //funcion para buscar una clave en el arbol
-    public BNode search(int k) {
+    public Book search(int k) {
         if (this.root == null) {
             return null;
         } else {
@@ -35,37 +39,37 @@ public class BTree {
         }
     }
 
-    public void insert(int k) {
-        // If tree is empty 
+    public void insert(Book k) {
+        // Si el árbol está vacío
         if (root == null) {
-            // Allocate memory for root 
+            // Asigna memoria para la raiz 
             root = new BNode(t, true);
-            root.key[0] = k;  // Insert key 
-            root.n = 1;  // Update number of keys in root 
-        } else // If tree is not empty 
+            root.key[0] = k;  // Insetar la clave 
+            root.n = 1;  // Actualiza el numero de claves en la raiz 
+        } else // Si el arbol no esta vacio 
         {
-            // If root is full, then tree grows in height 
+            // Si la raíz está llena, entonces el árbol crece en altura
             if (root.n == 2 * t - 1) {
-                // Allocate memory for new root 
+                // Asigna memoria para la nueva raiz
                 BNode s = new BNode(t, false);
 
-                // Make old root as child of new root 
+                // Hacer antigua la raiz como hija de la nueva raiz 
                 s.child[0] = root;
 
-                // Split the old root and move 1 key to the new root 
+                // Divide la raíz anterior y mueve 1 clave a la nueva raíz
                 s.splitChild(0, root);
 
-                // New root has two children now.  Decide which of the 
-                // two children is going to have new key 
+                // La nueva raíz tiene dos hijos ahora. Decidir cuál de los
+                // dos hijos van a tener una nueva clave
                 int i = 0;
-                if (s.key[0] < k) {
+                if (s.key[0].getISBN() < k.getISBN()) {
                     i++;
                 }
                 s.child[i].insertNonFull(k);
 
-                // Change root 
+                // cambiar la raiz 
                 root = s;
-            } else // If root is not full, call insertNonFull for root 
+            } else // Si la raíz no está llena, llamar a insertNonFull para la raíz
             {
                 root.insertNonFull(k);
             }
@@ -74,15 +78,15 @@ public class BTree {
 
     public void remove(int k) {
         if (root == null) {
-            System.out.println("The tree is empty");
+            System.out.println("El arbol esta vacio");
             return;
         }
 
-        // Call the remove function for root 
+        // // Llamar a la función remove para la raiz
         root.remove(k);
 
-        // If the root node has 0 keys, make its first child as the new root 
-        //  if it has a child, otherwise set root as NULL 
+        // Si el nodo raíz tiene 0 claves, hacer su primer hijo como la nueva raíz
+        // si tiene un hijo, de lo contrario establecer la raiz como null
         if (root.n == 0) {
             BNode tmp = root;
             if (root.leaf) {
@@ -93,27 +97,40 @@ public class BTree {
         }
     }
 
-    public void report_graph(BNode root) {
+    private void report_graph(BNode root, StringBuilder dotSource) {
         int i;
-        for (i = 0; i < root.n; i++) {
-            if (root.leaf == false) {
-                System.out.print(root.key[i] + " ");
-                System.out.println("No hojas");
-                report_graph(root.child[i]);
-                System.out.println("Hojas");
-            } else if (root.leaf == true) {
-                System.out.print(root.key[i] + " ");
+        if (root != null) {
+            for (i = 0; i < root.n; i++) {
+                if (root.leaf == false) {
+                   // System.out.println("nodo"+count);
+                    System.out.println("izquierda " + root.key[i].getISBN());
+                    piladot.push(root.key[i].getISBN());//pila
+                    report_graph(root.child[i], dotSource);
+                    System.out.println("");
+                   // System.out.println("nodo"+count);
+                    System.out.println("Derecha " + root.key[i].getISBN());
+                }else
+                    System.out.print("hijo " + root.key[i].getISBN()+"\t");
             }
-        }
-        if (root.leaf == false) {
-            //System.out.println("No");
-            report_graph(root.child[i]);
+            if (root.leaf == false) {
+                count++;
+                report_graph(root.child[i], dotSource);
+            }
+            count++;
         }
     }
 
     public void report() {
-        report_graph(root);
+        
+        StringBuilder dotSource = new StringBuilder();
+        Graphviz grap = new Graphviz();
+        grap.addln(grap.start_graph());
+        grap.addln();
+        report_graph(root, dotSource);//metodo recursivo para recorrer el arbol
         System.out.println("");
+        grap.add(dotSource.toString());
+        grap.add(grap.end_graph());
+        System.out.println(grap.getDotSource());
     }
 
 }

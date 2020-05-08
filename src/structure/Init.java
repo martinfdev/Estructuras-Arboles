@@ -66,7 +66,7 @@ public class Init {
         //       list.add_queue(new User(4, "Time", "t", "ii", "asdfww54sdf4aagd"));
         //       list.add_head(new User(5, "Face", "f", "sf", "asdfeag47323434"));
         //       list.add_queue(new User(6, "Amanda", "a", "sd","sagfer66547"));
-        BTree tb = new BTree(2);
+//        BTree tb = new BTree(3);
 //        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 10, 0, 0));
 //        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 20, 0, 0));
 //        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 5, 0, 0));
@@ -75,19 +75,55 @@ public class Init {
 //        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 30, 0, 0));
 //        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 7, 0, 0));
 //        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 17, 0, 0));
-        tb.insert(10);
-        tb.insert(20);
-        tb.insert(5);
-        tb.insert(6);
-        tb.insert(12);
-        tb.insert(30);
-        tb.insert(7);
-        tb.insert(17);
-        System.out.println("El recorrido del arbol es: ");
-        tb.traverse();
-        System.out.println((tb.search(5) != null));
-        System.out.println((tb.search(15) != null));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 1, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 3, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 7, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 10, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 11, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 13, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 14, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 15, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 18, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 16, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 19, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 24, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 25, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 26, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 21, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 4, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 5, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 20, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 22, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 2, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 17, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 12, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 6, 0, 0));
+//        System.out.println("El recorrido del arbol es: ");
+//        tb.traverse();
+//        
+//        
+//       System.out.println((tb.search(5) != null));
+//       System.out.println((tb.search(100) !=null));
+      //  tb.remove(16);
+      //  tb.remove(15);
+      //  tb.remove(14);
+      //  tb.remove(13);
+      //  tb.remove(12);
+      //  tb.remove(11);
+       // tb.report();
+      //  tb.traverse();
 
+      HashTable test = new HashTable(45);
+      test.insert(null, 20200656);
+      test.insert(null, 20170656);
+      test.insert(null, 20190656);
+      test.insert(null, 20180656);
+      test.insert(null, 20150656);
+      test.insert(null, 20120656);
+      test.insert(null, 20100656);
+      test.insert(null, 20170628);
+      test.insert(null, 20131111);
+      test.print();
     }
 
 }
