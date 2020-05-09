@@ -124,7 +124,7 @@ public class LinkedList<T> {
         return null;
     }
 
-    //imprimir lista
+    //Devuelve dato por dato en la lista
     public T getData() {
         if (!isEmpty()) {
             if (getaux == null) {
@@ -143,4 +143,10 @@ public class LinkedList<T> {
         }
         return null;
     }
+
+    public Node getHead() {
+        return head;
+    }
+    
+    
 }

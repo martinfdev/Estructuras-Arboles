@@ -114,16 +114,21 @@ public class Init {
       //  tb.traverse();
 
       HashTable test = new HashTable(45);
-      test.insert(null, 20200656);
-      test.insert(null, 20170656);
-      test.insert(null, 20190656);
-      test.insert(null, 20180656);
-      test.insert(null, 20150656);
-      test.insert(null, 20120656);
-      test.insert(null, 20100656);
-      test.insert(null, 20170628);
-      test.insert(null, 20131111);
-      test.print();
+      test.insert(new User(20200656, "Pedro", "M F", "ciencias y sistemas", "123"), 20200656);
+      test.insert(new User(20170656, "Maria", "M F", "ciencias y sistemas", "123"), 20170656);
+      test.insert(new User(20190656, "Jose", "M F", "ciencias y sistemas", "123"), 20190656);
+      test.insert(new User(20180656, "Alfaro", "M F", "ciencias y sistemas", "123"), 20180656);
+      test.insert(new User(20150656, "Roser", "M F", "ciencias y sistemas", "123"), 20150656);
+      test.insert(new User(20120656, "Ricardo", "M F", "ciencias y sistemas", "123"), 20120656);
+      test.insert(new User(20100656, "Mateos", "M F", "ciencias y sistemas", "123"), 20100656);
+      test.insert(new User(20170628, "Pablo", "M F", "ciencias y sistemas", "123"), 20170628);
+      test.insert(new User(20100056, "Jackeline", "M F", "ciencias y sistemas", "123"), 20100056);
+      test.insert(new User(20111111, "Jack", "M F", "ciencias y sistemas", "123"), 20111111);
+      test.insert(new User(20141111, "Jack Ojitos", "M F", "ciencias y sistemas", "123"), 20141111);
+      test.insert(new User(20151190, "Jackie Hermosa", "M F", "ciencias y sistemas", "123"), 20151190);
+      test.insert(new User(20161101, "Jackie Preciosa", "M F", "ciencias y sistemas", "123"), 20161101);
+      
+      test.report();
     }
 
 }
