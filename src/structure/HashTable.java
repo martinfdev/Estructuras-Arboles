@@ -76,7 +76,7 @@ public class HashTable<T> {
     }
 
     //metod publico para generar imagen
-    public void report() {
+    public String report() {
         StringBuilder dotsource = new StringBuilder();
         Graphviz graph = new Graphviz();
         graph.addln(graph.start_graph());
@@ -89,6 +89,6 @@ public class HashTable<T> {
         graph.add(graph.end_graph());
         File f = new File("Hashtable.png");
         graph.writeGraphToFile(graph.getGraph(graph.getDotSource(), "png"), f);
-        System.out.println(graph.getDotSource());
+        return graph.getPath();
     }
 }
