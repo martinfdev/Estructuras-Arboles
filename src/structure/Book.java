@@ -13,13 +13,12 @@ public class Book {
     private String titulo, autor, editorial, categoria, idioma;
     private int carne_usuario_que_agrega, ISBN, year, edicion;
 
-    public Book(String titulo, String autor, String editorial, String categoria, String idioma, int carne_usuario_que_agrega, int ISBN, int year, int edicion) {
+    public Book(String titulo, String autor, String editorial, String categoria, String idioma, int ISBN, int year, int edicion) {
         this.titulo = titulo;
         this.autor = autor;
         this.editorial = editorial;
         this.categoria = categoria;
         this.idioma = idioma;
-        this.carne_usuario_que_agrega = carne_usuario_que_agrega;
         this.ISBN = ISBN;
         this.year = year;
         this.edicion = edicion;
