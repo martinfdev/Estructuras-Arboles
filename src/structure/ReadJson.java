@@ -57,7 +57,7 @@ public class ReadJson {
                     JSONObject user = (JSONObject)object;//cast var a JSONObject
                     int cne = Integer.parseInt(user.get("Carnet").toString());
                     tst.insert(new User(cne, user.get("Nombre").toString(), user.get("Apellido").toString(), 
-                            user.get("Carrera").toString(), hash.getSHA256(user.get("Password").toString())), cne);                
+                            user.get("Carrera").toString(), hash.getMD5(user.get("Password").toString())), cne);                
                 });
                 
             } catch (FileNotFoundException | ParseException ex) {
@@ -68,4 +68,8 @@ public class ReadJson {
         }
         tst.report();
     }
+    
+    //generar json para los libros
+    
+    
 }
