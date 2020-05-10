@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package structure;
-
+import interfaz.*;
 /**
  *
  * @author pedro
@@ -12,11 +12,13 @@ package structure;
 public class Init {
 
     public Init() {
-        test();
+       // Login login = new Login();
+       // login.setVisible(true);
+       test();
     }
 
     private void test() {
-
+       
         //comparacion de cadenas con valor de entero
 //        String n1 = "zimena", n2 = "wodo ";
 //        if (n1.compareTo(n2) == 0) {
@@ -163,8 +165,6 @@ public class Init {
 //        }
 //        System.out.println(ld.search("solo me")!=null);
 //        System.out.println(ld.search("se desconecto no quiere platicar")!= null);
-    
-    
     
     }
 }

@@ -13,6 +13,10 @@ public class User {
     private int numero_carne;
     private String nombre, apellido, carrera, password;
 
+    public User() {
+        
+    }
+
     public User(int numero_carne, String nombre, String apellido, String carrera, String password) {
         this.numero_carne = numero_carne;
         this.nombre = nombre;
