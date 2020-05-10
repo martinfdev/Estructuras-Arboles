@@ -12,9 +12,9 @@ package structure;
  */
 public class LinkedList<T> {
 
-    private Node head, queue;
+    private Node<T> head, queue;
     private int size;
-    private Node getaux;
+    private Node<T> getaux;
 
     public LinkedList() {
         head = queue = null;
@@ -28,10 +28,7 @@ public class LinkedList<T> {
 
     //devuelve un booleano con valor true si la la lista esta vacia
     public boolean isEmpty() {
-        if (head == null && queue == null) {
-            return true;
-        }
-        return false;
+        return head == null && queue == null;
     }
 
     //metodo para insertar un nodo dentro de la lista pide como parametro un nodo
@@ -91,6 +88,7 @@ public class LinkedList<T> {
                 if (aux.getData() == data) {
                     head = head.next;
                     size--;
+                    return null;
                 } else if (aux.next.getData() == data) {
                     return aux;
                 }

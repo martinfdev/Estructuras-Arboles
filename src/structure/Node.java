@@ -13,9 +13,11 @@ package structure;
 public class Node<T>  {
     private T data;
     Node next;
+    Node back;
 
     public Node(T data) {
         this.data = data;
+        this.back = this.next = null;
     }
 
     public T getData() {

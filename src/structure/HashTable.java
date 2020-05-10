@@ -91,4 +91,35 @@ public class HashTable<T> {
         graph.writeGraphToFile(graph.getGraph(graph.getDotSource(), "png"), f);
         return graph.getPath();
     }
+    
+    //metodo para buscar en tabla hash
+    public User search(int key){
+        int i = function_hash(key);
+        if (array[i]!=null) {
+            LinkedList<User> tmp = array[i].getList_user();
+            for (int j = 0; j < tmp.getSize(); j++) {
+                if (tmp.getData().getNumero_carne()==key) {
+                    return tmp.getData();
+                }
+            }
+        }
+        return null;
+    }
+    
+    //metodo para elimar de la tabla hash
+    public boolean delete(int key){
+        int i = function_hash(key);
+        if (array[i]!=null) {
+            LinkedList<User> tmp = array[i].getList_user();
+            for (int j = 0; j < tmp.getSize(); j++) {
+                User temp = tmp.getData();
+                if (temp.getNumero_carne()==key) {
+                    tmp.delete_data(temp);
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+    
 }

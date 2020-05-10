@@ -9,6 +9,6 @@ package structure;
  *
  * @author pedro
  */
-public class NodoDL {
+public class Connection {
     
 }
