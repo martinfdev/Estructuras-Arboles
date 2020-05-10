@@ -7,8 +7,6 @@ package structure;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.Iterator;
-import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.json.simple.JSONArray;
@@ -20,8 +18,9 @@ import org.json.simple.parser.*;
  * @author pedro
  */
 public class ReadJson {
-
+    private Encrypted hash;
     public ReadJson() {
+        this.hash = new Encrypted();
     }
 
     //funcion para leer json de los libros
@@ -48,5 +47,25 @@ public class ReadJson {
     }
     
     //funcion para leer archivo json de usuarios
-    
+    public void readJsonUser(String path) {
+        HashTable<User> tst = new HashTable<>(45);
+        if (path!=null) {
+            try {
+                JSONObject u = (JSONObject) new JSONParser().parse(new FileReader(path));
+                JSONArray us =  (JSONArray) u.get("Usuarios");
+                us.forEach((var object) -> {
+                    JSONObject user = (JSONObject)object;//cast var a JSONObject
+                    int cne = Integer.parseInt(user.get("Carnet").toString());
+                    tst.insert(new User(cne, user.get("Nombre").toString(), user.get("Apellido").toString(), 
+                            user.get("Carrera").toString(), hash.getSHA256(user.get("Password").toString())), cne);                
+                });
+                
+            } catch (FileNotFoundException | ParseException ex) {
+                Logger.getLogger(ReadJson.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (IOException ex) {
+                Logger.getLogger(ReadJson.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+        tst.report();
+    }
 }

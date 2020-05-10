@@ -166,7 +166,7 @@ public class Init {
 //        System.out.println(ld.search("solo me")!=null);
 //        System.out.println(ld.search("se desconecto no quiere platicar")!= null);
           ReadJson rj = new ReadJson();
-          rj.readJsonBook("/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/Libros.json");
-    
-    }
+          //rj.readJsonBook("/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/Libros.json");
+          rj.readJsonUser("/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/usuarios.json");
+    } 
 }
