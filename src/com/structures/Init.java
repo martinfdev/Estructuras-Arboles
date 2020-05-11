@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.structure;
+package com.structures;
 
 import com.p2pnetwork.Client;
 import com.p2pnetwork.Peer;

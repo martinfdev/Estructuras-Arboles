@@ -4,8 +4,8 @@
  * and open the template in the editor.
  */
 package com.interfaz;
-import com.structure.User;
-import com.structure.HashTable;
+import com.structures.User;
+import com.structures.HashTable;
 import java.util.Arrays;
 import javax.swing.JOptionPane;
 /**
