@@ -1,4 +1,4 @@
-package structure;
+package com.structure;
 
 import java.awt.Desktop;
 import java.io.File;

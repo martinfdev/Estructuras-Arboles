@@ -3,12 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package structure;
+package com.structure;
 
-import java.math.BigInteger;
+import java.io.UnsupportedEncodingException;
 import java.nio.charset.StandardCharsets;
 import java.security.*;
-import java.util.Base64;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -41,19 +40,26 @@ public class Encrypted {
     }      
 
     //funcion util para generar hash SHA-256
-    public String getSHA256(int index, String Timestamp, String previoushash, String data, BigInteger nonce){
-        String stringToHhash = index+Timestamp+previoushash+data+nonce;
-        String encoded = null;
-        try {
-            MessageDigest md = MessageDigest.getInstance("SHA-256");
-//            md.update();
-            byte[] hash = md.digest(stringToHhash.getBytes(StandardCharsets.UTF_8));
-            encoded = Base64.getEncoder().encodeToString(hash);
-            
-        } catch (NoSuchAlgorithmException ex) {
-            Logger.getLogger(Encrypted.class.getName()).log(Level.SEVERE, null, ex);
-        }
-        return encoded;
+    public static String getSHA256(String stringToHash){
+		try {
+			MessageDigest digest = MessageDigest.getInstance("SHA-256");
+			//Applies sha256 to our input, 
+			byte[] hash = digest.digest(stringToHash.getBytes("UTF-8"));
+			StringBuilder hexString = new StringBuilder(); // This will contain hash as hexidecimal
+			for (int i = 0; i < hash.length; i++) {
+				String hex = Integer.toHexString(0xff & hash[i]);
+				if(hex.length() == 1) hexString.append('0');
+				hexString.append(hex);
+			}
+			return hexString.toString();
+		}
+		catch(UnsupportedEncodingException | NoSuchAlgorithmException e) {
+			throw new RuntimeException(e);
+		}
     }
-
+    
+    //devuelce la dificulaltad de cuantos ceros se generan para encontrar el Nonce para hacer la comparacion  
+	public static String getDificultyString(int difficulty) {
+		return new String(new char[difficulty]).replace('\0', '0');
+	}
 }

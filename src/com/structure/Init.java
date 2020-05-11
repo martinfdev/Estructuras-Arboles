@@ -3,8 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package structure;
-import interfaz.*;
+package com.structure;
 /**
  *
  * @author pedro
@@ -169,6 +168,11 @@ public class Init {
           //rj.readJsonBook("/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/Libros.json");
          // rj.readJsonUser("/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/usuarios.json");
          BlockChain bc = new BlockChain();
-         
+         Block bk = new Block(0, "0", "");//bloque genesis
+         System.out.println("Minando bloque genesis");
+         bk.mineBlock(4);
+        System.out.println("Nonce "+bk.getNonce());
+        System.out.println("Hash "+bk.getHash());
+        System.out.println("Hash anterior "+bk.getPreovioushash());
     } 
 }

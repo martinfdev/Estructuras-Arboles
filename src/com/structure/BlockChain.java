@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package structure;
+package com.structure;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -18,23 +18,28 @@ import java.util.Locale;
  */
 public class BlockChain {
     private DoubleLinkedList<Block> lblock;
-
+    private int index;
+    private final int dificultNonce = 4;
     public BlockChain() {
     lblock = new DoubleLinkedList<>();
-    genesisBlock();
+    this.index = lblock.getSize();
+    }
+    
+    //crear el bloque genesis 
+    private void generateGensisBlock(){
+        Block genesis = new Block(0, "0", "");
+        genesis.mineBlock(index);
     
     }
     
-    private Block genesisBlock(){
-      Block genesis = new Block(0, getDate(), "");
-      return null;  
-    }
     
-    //funcion util para obtener el timestamp
-    private String getDate(){
-        String timestamp;
-         return  timestamp = new SimpleDateFormat("dd-MM-yy-::hh:mm:ss").format(Calendar.getInstance().getTime());
-    }
+    
+   
+    
+   
+    
+    
+    
     
     
     

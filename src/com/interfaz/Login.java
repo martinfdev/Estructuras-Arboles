@@ -3,10 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package interfaz;
+package com.interfaz;
+import com.structure.User;
+import com.structure.HashTable;
 import java.util.Arrays;
 import javax.swing.JOptionPane;
-import structure.*;
 /**
  *
  * @author pedro
