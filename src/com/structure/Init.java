@@ -4,6 +4,11 @@
  * and open the template in the editor.
  */
 package com.structure;
+
+import com.p2pnetwork.Client;
+import com.p2pnetwork.Peer;
+import com.p2pnetwork.Server;
+
 /**
  *
  * @author pedro
@@ -167,12 +172,18 @@ public class Init {
           //ReadJson rj = new ReadJson();
           //rj.readJsonBook("/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/Libros.json");
          // rj.readJsonUser("/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/usuarios.json");
-         BlockChain bc = new BlockChain();
-         Block bk = new Block(0, "0", "");//bloque genesis
-         System.out.println("Minando bloque genesis");
-         bk.mineBlock(4);
-        System.out.println("Nonce "+bk.getNonce());
-        System.out.println("Hash "+bk.getHash());
-        System.out.println("Hash anterior "+bk.getPreovioushash());
+//         BlockChain bc = new BlockChain();
+//         Block bk = new Block(0, "0", "");//bloque genesis
+//         System.out.println("Minando bloque genesis");
+//         bk.mineBlock(4);
+//        System.out.println("Nonce "+bk.getNonce());
+//        System.out.println("Hash "+bk.getHash());
+//        System.out.println("Hash anterior "+bk.getPreovioushash());
+           Peer red = new Peer("localhost", 5000);
+           red.getIPLocal();
+           Client cliente = new Client("localhost", 5000);
+           cliente.send_data("hola");
+           System.out.println("simpre llegaos a este punto");
+         
     } 
 }
