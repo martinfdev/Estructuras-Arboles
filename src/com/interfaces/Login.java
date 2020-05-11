@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.interfaz;
+package com.interfaces;
 import com.structures.User;
 import com.structures.HashTable;
 import java.util.Arrays;
