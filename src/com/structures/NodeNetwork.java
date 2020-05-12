@@ -12,8 +12,8 @@ package com.structures;
 public class NodeNetwork {
     private LinkedList<NodeNet> listNodeNetwork;
     
-    public NodeNetwork() {
-        listNodeNetwork = new LinkedList<>();
+    public NodeNetwork(LinkedList<NodeNet> listaNodeNetwok) {
+        this.listNodeNetwork = listaNodeNetwok;
     }
     
     public void add_node_network(String ip_network, String port){

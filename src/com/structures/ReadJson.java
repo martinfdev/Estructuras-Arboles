@@ -19,11 +19,14 @@ import org.json.simple.parser.*;
  */
 public class ReadJson {
     private Encrypted hash;
-    public ReadJson() {
+    private HashTable<User> tableuser;
+    
+    public ReadJson(HashTable<User> tableuser) {
+        this.tableuser = tableuser;
         this.hash = new Encrypted();
     }
 
-    //funcion para leer json de los libros
+    //funcion para leer json de los libros y crealos automaticamente
     public void readJsonBook(String path)  {
         BTree ab = new BTree(3);//test modify after
         if (path != null) {
@@ -46,9 +49,8 @@ public class ReadJson {
         }
     }
     
-    //funcion para leer archivo json de usuarios
+    //funcion para leer archivo json de usuarios y crearlos automaticamente
     public void readJsonUser(String path) {
-        HashTable<User> tst = new HashTable<>(45);
         if (path!=null) {
             try {
                 JSONObject u = (JSONObject) new JSONParser().parse(new FileReader(path));
@@ -56,20 +58,18 @@ public class ReadJson {
                 us.forEach((var object) -> {
                     JSONObject user = (JSONObject)object;//cast var a JSONObject
                     int cne = Integer.parseInt(user.get("Carnet").toString());
-                    tst.insert(new User(cne, user.get("Nombre").toString(), user.get("Apellido").toString(), 
+                    tableuser.insert(new User(cne, user.get("Nombre").toString(), user.get("Apellido").toString(), 
                             user.get("Carrera").toString(), hash.getMD5(user.get("Password").toString())), cne);                
-                });
-                
+                });  
             } catch (FileNotFoundException | ParseException ex) {
                 Logger.getLogger(ReadJson.class.getName()).log(Level.SEVERE, null, ex);
             } catch (IOException ex) {
                 Logger.getLogger(ReadJson.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
-        tst.report();
     }
     
     //generar json para los libros
     
-    
+    //generar json para operaciones de usuario
 }

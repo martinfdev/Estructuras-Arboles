@@ -5,22 +5,28 @@
  */
 package com.structures;
 
-import com.p2pnetwork.Client;
-import com.p2pnetwork.Peer;
-import com.p2pnetwork.Server;
+import com.interfaces.Login;
+
+
 
 /**
  *
  * @author pedro
  */
 public class Init {
-
+    private HashTable<User> table_user;//tabla has para usuarios
+    private LinkedList<NodeNetwork> node_network;//lista simple de nodos para usuarios
+    private DoubleLinkedList<Block> listblock;//lista doble para los bloques en el block chain
+    
     public Init() {
-       // Login login = new Login();
-       // login.setVisible(true);
+       table_user = new HashTable<>(45);//limite para la tabla has es de 45 y libre con una lista siple de usuarios
+       node_network = new LinkedList<>();
+       listblock = new DoubleLinkedList<>();
+       Login login = new Login(table_user, node_network, listblock);
+       login.setVisible(true);
        test();
     }
-
+    
     private void test() {
        
         //comparacion de cadenas con valor de entero
@@ -179,11 +185,11 @@ public class Init {
 //        System.out.println("Nonce "+bk.getNonce());
 //        System.out.println("Hash "+bk.getHash());
 //        System.out.println("Hash anterior "+bk.getPreovioushash());
-           Peer red = new Peer("localhost", 5000);
-           red.getIPLocal();
-           Client cliente = new Client("localhost", 5000);
-           cliente.send_data("hola");
-           System.out.println("simpre llegaos a este punto");
+//           Peer red = new Peer("localhost", 5000);
+//           red.getIPLocal();
+//           Client cliente = new Client("localhost", 5000);
+//           cliente.send_data("hola");
+//           System.out.println("servidor en escucha segundo plano");
          
     } 
 }
