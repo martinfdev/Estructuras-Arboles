@@ -217,8 +217,9 @@ public class FormUser extends javax.swing.JFrame {
             tableuser.insert(new User(carne, txtNombre.getText(), txtApellido.getText(), txtCarrera.getText(), password), carne);
             clearTxt();
             JOptionPane.showMessageDialog(null, "Registrado!");
-            if(registroLogin)
+            if (registroLogin) {
                 formWindowClosing(null);
+            }
         } else
             JOptionPane.showMessageDialog(null, "No dejar campo vacio!");
     }//GEN-LAST:event_jButton1ActionPerformed
@@ -233,21 +234,27 @@ public class FormUser extends javax.swing.JFrame {
         file.setAcceptAllFileFilterUsed(true);
         int option = file.showOpenDialog(this);
         if (option == JFileChooser.APPROVE_OPTION) {
-             f = file.getSelectedFile();
-             String path = file.getSelectedFile().getPath();
-             rj.readJsonUser(path);
-        }  
+            f = file.getSelectedFile();
+            String path = file.getSelectedFile().getPath();
+            rj.readJsonUser(path);
+            JOptionPane.showMessageDialog(null, "Carga Existosa!");
+            if (registroLogin) {
+                login.setVisible(true);
+                this.dispose();
+                registroLogin = false;
+            }
+        }
     }//GEN-LAST:event_btnBuscarArchivoActionPerformed
 
     //limpiar campos
-    private void clearTxt(){
+    private void clearTxt() {
         txtApellido.setText("");
         txtCarne.setText("");
         txtCarrera.setText("");
         txtNombre.setText("");
         txtPassword.setText("");
     }
-    
+
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnBuscarArchivo;

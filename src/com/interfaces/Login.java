@@ -6,7 +6,7 @@
 package com.interfaces;
 
 import com.structures.*;
-import java.awt.HeadlessException;
+import com.p2pnetwork.*;
 import javax.swing.JOptionPane;
 
 /**
@@ -14,11 +14,13 @@ import javax.swing.JOptionPane;
  * @author pedro
  */
 public class Login extends javax.swing.JFrame {
-
-    private HashTable<User> table_user;//tabla has para usuarios
-    private LinkedList<NodeNetwork> node_network;//lista simple de nodos para usuarios
-    private DoubleLinkedList<Block> listblock;//lista doble para los bloques en el block chain
-    private Encrypted encriptado;
+    HashTable<User> table_user;//tabla has para usuarios
+    LinkedList<NodeNet> node_network;//lista simple de nodos para usuarios
+    DoubleLinkedList<Block> listblock;//lista doble para los bloques en el block chain
+    Encrypted encriptado;
+    Peer servidor;
+    User active_user;
+    AVLTree biblioteca_categoria;
 
     /**
      * Creates new form WindowMain
@@ -26,11 +28,15 @@ public class Login extends javax.swing.JFrame {
      * @param table_user
      * @param node_network
      * @param listblock
+     * @param servidor
+     * @param biblioteca_categoria
      */
-    public Login(HashTable<User> table_user, LinkedList<NodeNetwork> node_network, DoubleLinkedList<Block> listblock) {
+    public Login(HashTable<User> table_user, LinkedList<NodeNet> node_network, DoubleLinkedList<Block> listblock, Peer servidor, AVLTree biblioteca_categoria) {
         this.listblock = listblock;
         this.table_user = table_user;
         this.node_network = node_network;
+        this.servidor = servidor;
+        this.biblioteca_categoria = biblioteca_categoria;
         encriptado = new Encrypted();
         initComponents();
         this.setResizable(false);
@@ -77,7 +83,7 @@ public class Login extends javax.swing.JFrame {
             }
         });
 
-        jLabel4.setText("Registrarse en sitio con sus datos para ser un usuario");
+        jLabel4.setText("Registrarse para poder acceder ");
 
         btnRegistro.setText("Registrarse");
         btnRegistro.addActionListener(new java.awt.event.ActionListener() {
@@ -91,30 +97,28 @@ public class Login extends javax.swing.JFrame {
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addContainerGap()
+                .addContainerGap(85, Short.MAX_VALUE)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addGap(0, 0, Short.MAX_VALUE)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
+                        .addComponent(jLabel2)
+                        .addGap(161, 161, 161))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                                .addComponent(jLabel2)
-                                .addGap(161, 161, 161))
-                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addComponent(jLabel1)
-                                    .addComponent(jLabel3))
-                                .addGap(26, 26, 26)
-                                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                                    .addComponent(btnLogin)
-                                    .addComponent(txtUserName)
-                                    .addComponent(txtPassword, javax.swing.GroupLayout.DEFAULT_SIZE, 167, Short.MAX_VALUE))
-                                .addGap(42, 42, 42))
-                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                                .addComponent(btnRegistro, javax.swing.GroupLayout.PREFERRED_SIZE, 167, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(104, 104, 104))))
-                    .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addComponent(jLabel4, javax.swing.GroupLayout.PREFERRED_SIZE, 357, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(0, 30, Short.MAX_VALUE))))
+                            .addComponent(jLabel1)
+                            .addComponent(jLabel3))
+                        .addGap(26, 26, 26)
+                        .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(btnLogin)
+                            .addComponent(txtUserName)
+                            .addComponent(txtPassword, javax.swing.GroupLayout.DEFAULT_SIZE, 167, Short.MAX_VALUE))
+                        .addGap(42, 42, 42))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
+                        .addComponent(btnRegistro, javax.swing.GroupLayout.PREFERRED_SIZE, 167, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(104, 104, 104))))
+            .addGroup(jPanel1Layout.createSequentialGroup()
+                .addGap(95, 95, 95)
+                .addComponent(jLabel4, javax.swing.GroupLayout.PREFERRED_SIZE, 268, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 30, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -159,7 +163,7 @@ public class Login extends javax.swing.JFrame {
 
     private void btnLoginActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLoginActionPerformed
         if (matchUser()) {
-            WindowMain win = new WindowMain(table_user, node_network, listblock, this);
+            WindowMain win = new WindowMain(table_user, node_network, listblock, this, servidor, biblioteca_categoria);
             win.setVisible(true);
             this.dispose();
         }
@@ -185,9 +189,9 @@ public class Login extends javax.swing.JFrame {
             char[] p = txtPassword.getPassword();
             if (!"".equals(u) && p != null) {
                 int us = Integer.parseInt(u);//parseo de usuario a entero
-                User user = table_user.search(us);
+                active_user = table_user.search(us);
                 String pass = encriptado.getMD5(matchpass(p));//mandamos a codificar el pass con MD5 para si hace match con el guardado
-                if (user.getNumero_carne() == us && pass.equals(user.getPassword())) {
+                if (active_user.getNumero_carne() == us && pass.equals(active_user.getPassword())) {
                     clearTxt();
                     return true;
                 } else {

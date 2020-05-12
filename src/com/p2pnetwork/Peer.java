@@ -14,25 +14,34 @@ import java.util.logging.Logger;
  *
  * @author pedro
  */
-public final class Peer {
-    private final String ip; //ip del servidor al cual se desea conectar
-    private final int port; //puerto local que se habilita para estar a la escucha de peticiones entrantes
+public class Peer {
 
-    public Peer(String ip, int port) {
-       this.ip=ip; 
-       this.port = port;
-       start_server();
+    private String ip; //ip del servidor al cual se desea conectar
+    private int port; //puerto local que se habilita para estar a la escucha de peticiones entrantes
+
+    //constructor por defecto
+    public Peer() {
     }
-    
+
+    //constructor con parametros
+    public Peer(String ip, int port) {
+        this.ip = ip;
+        this.port = port;
+    }
+
     //incia el servidor para la escucha
-    public void start_server(){
-         Runnable ser = new Server(port);
+    public boolean start_server() {
+        if (port > 0) {
+            Runnable ser = new Server(port);
             Thread t = new Thread(ser);
             t.start();
+            return true;
+        }else
+            return false;     
     }
-   
+
     //para obtener nuestra ip local
-    public String getIPLocal(){
+    public String getIPLocal() {
         InetAddress ip = null;
         try {
             ip = InetAddress.getLocalHost();
@@ -42,4 +51,13 @@ public final class Peer {
         }
         return ip.toString();
     }
+
+    public void setIp(String ip) {
+        this.ip = ip;
+    }
+
+    public void setPort(int port) {
+        this.port = port;
+    }
+
 }

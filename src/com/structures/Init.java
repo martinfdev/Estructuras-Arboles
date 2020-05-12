@@ -5,30 +5,34 @@
  */
 package com.structures;
 
+
 import com.interfaces.Login;
-
-
-
+import com.p2pnetwork.*;
 /**
  *
  * @author pedro
  */
 public class Init {
-    private HashTable<User> table_user;//tabla has para usuarios
-    private LinkedList<NodeNetwork> node_network;//lista simple de nodos para usuarios
-    private DoubleLinkedList<Block> listblock;//lista doble para los bloques en el block chain
+
+    HashTable<User> table_user;//tabla has para usuarios
+    LinkedList<NodeNet> node_network;//lista simple de nodos para usuarios
+    DoubleLinkedList<Block> listblock;//lista doble para los bloques en el block chain
+    Peer servidor;
+    AVLTree biblioteca_categoria;
     
-    public Init() {
-       table_user = new HashTable<>(45);//limite para la tabla has es de 45 y libre con una lista siple de usuarios
-       node_network = new LinkedList<>();
-       listblock = new DoubleLinkedList<>();
-       Login login = new Login(table_user, node_network, listblock);
-       login.setVisible(true);
-       test();
+    public Init() {    
+        servidor = new Peer();
+        table_user = new HashTable<>(45);//limite para la tabla has es de 45 y libre con una lista siple de usuarios
+        node_network = new LinkedList<>();
+        listblock = new DoubleLinkedList<>();
+        biblioteca_categoria = new AVLTree();
+        Login login = new Login(table_user, node_network, listblock, servidor, biblioteca_categoria);
+        login.setVisible(true);
+        test();
     }
-    
+
     private void test() {
-       
+
         //comparacion de cadenas con valor de entero
 //        String n1 = "zimena", n2 = "wodo ";
 //        if (n1.compareTo(n2) == 0) {
@@ -175,9 +179,9 @@ public class Init {
 //        }
 //        System.out.println(ld.search("solo me")!=null);
 //        System.out.println(ld.search("se desconecto no quiere platicar")!= null);
-          //ReadJson rj = new ReadJson();
-          //rj.readJsonBook("/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/Libros.json");
-         // rj.readJsonUser("/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/usuarios.json");
+        //ReadJson rj = new ReadJson();
+        //rj.readJsonBook("/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/Libros.json");
+        // rj.readJsonUser("/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/usuarios.json");
 //         BlockChain bc = new BlockChain();
 //         Block bk = new Block(0, "0", "");//bloque genesis
 //         System.out.println("Minando bloque genesis");
@@ -185,11 +189,11 @@ public class Init {
 //        System.out.println("Nonce "+bk.getNonce());
 //        System.out.println("Hash "+bk.getHash());
 //        System.out.println("Hash anterior "+bk.getPreovioushash());
-//           Peer red = new Peer("localhost", 5000);
-//           red.getIPLocal();
-//           Client cliente = new Client("localhost", 5000);
+//           Peer red = new Peer("localhost", 6660);
+//           red.start_server();
+//          // red.getIPLocal();
+//           Client cliente = new Client("localhost", 6660);
 //           cliente.send_data("hola");
 //           System.out.println("servidor en escucha segundo plano");
-         
-    } 
+    }
 }

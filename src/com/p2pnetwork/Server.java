@@ -21,8 +21,7 @@ public class Server implements Runnable{
    private ServerSocket server;
    private DataInputStream in;
    private DataOutputStream out;
-   private String ip;
-   private final int port; //puerto en el que se habilita
+   private int port; //puerto en el que se habilita
 
     public Server(int port) {
         this.port = port;
@@ -31,9 +30,10 @@ public class Server implements Runnable{
    @Override
    public void run(){
        try {
-           ServerSocket serv = new ServerSocket(port);
+           System.out.println(port);
+           server = new ServerSocket(port);
            while (true) {           //aceptamos conexiones infinitamente    
-           Socket conect_in = serv.accept();
+           Socket conect_in = server.accept();
            in = new DataInputStream(conect_in.getInputStream());
            String dato_entrada = in.readUTF(); //temporal
            System.out.println("El cliente manda: "+dato_entrada);

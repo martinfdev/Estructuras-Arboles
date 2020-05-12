@@ -10,7 +10,6 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.swing.JOptionPane;
 
 /**
  *
@@ -25,7 +24,6 @@ public class Client {
     }
     
     //constructor con parametros
-
     public Client(String ip_server, int port) {
         this.ip_server = ip_server;
         this.port = port;
@@ -36,7 +34,9 @@ public class Client {
     public void send_data(String data){
         
         try {
+           
             Socket connect_server =  new Socket(ip_server, port);
+            
             DataOutputStream  get_out_data = new DataOutputStream(connect_server.getOutputStream());
             get_out_data.writeUTF(data);//lo que necesitamos enviar al servidor
             get_out_data.close();            
@@ -45,12 +45,12 @@ public class Client {
             //JOptionPane.showMessageDialog(null, "Conexion Rechazada");
         }
     }
-    
-   
-    
-    
-    
-    
-    
-    
+
+    public void setIp_server(String ip_server) {
+        this.ip_server = ip_server;
+    }
+
+    public void setPort(int port) {
+        this.port = port;
+    }    
 }
