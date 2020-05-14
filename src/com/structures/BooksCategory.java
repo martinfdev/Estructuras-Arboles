@@ -11,9 +11,11 @@ package com.structures;
  */
 public class BooksCategory {
     private String name_category;
+    private BTree category;
 
     public BooksCategory(String name_category) {
         this.name_category = name_category;
+        category = new BTree(3);
     }
 
     public String getName_category() {
@@ -23,6 +25,12 @@ public class BooksCategory {
     public void setName_category(String name_category) {
         this.name_category = name_category;
     }
-    
-    
+
+    public BTree getCategory() {
+        return category;
+    }
+
+    public void setCategory(BTree category) {
+        this.category = category;
+    }
 }

@@ -17,9 +17,9 @@ import javax.swing.filechooser.FileNameExtensionFilter;
  */
 public class FormUser extends javax.swing.JFrame {
 
-    private Login login;
-    private Encrypted encripatacion;
-    private HashTable<User> tableuser;
+    Login login;
+    Encrypted encripatacion;
+    HashTable<User> tableuser;
     private boolean registroLogin;
 
     public FormUser(Login login, boolean registroLogin, HashTable<User> tableuser) {
@@ -225,7 +225,7 @@ public class FormUser extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void btnBuscarArchivoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnBuscarArchivoActionPerformed
-        ReadJson rj = new ReadJson(tableuser);
+        ReadJson rj = new ReadJson(tableuser, login.active_user, login.biblioteca_categoria);
         File f;
         JFileChooser file = new JFileChooser();
         file.setCurrentDirectory(new File(System.getProperty("user.home")));

@@ -158,7 +158,7 @@ public class WindowMain extends javax.swing.JFrame {
     }//GEN-LAST:event_btnConfigNetActionPerformed
 
     private void btnUsuarioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnUsuarioActionPerformed
-          
+        
     }//GEN-LAST:event_btnUsuarioActionPerformed
 
     private void btnReporteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnReporteActionPerformed

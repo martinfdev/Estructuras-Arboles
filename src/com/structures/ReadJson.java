@@ -18,11 +18,15 @@ import org.json.simple.parser.*;
  * @author pedro
  */
 public class ReadJson {
-    private Encrypted hash;
-    private HashTable<User> tableuser;
+    Encrypted hash;
+    HashTable<User> tableuser;
+    User user;
+    AVLTree biblioteca_categoria;
     
-    public ReadJson(HashTable<User> tableuser) {
+    public ReadJson(HashTable<User> tableuser, User user, AVLTree biblioteca_categoria) {
+        this.user = user;
         this.tableuser = tableuser;
+        this.biblioteca_categoria = biblioteca_categoria;
         this.hash = new Encrypted();
     }
 
@@ -35,6 +39,7 @@ public class ReadJson {
                 JSONArray bo = (JSONArray) book.get("libros");
                 bo.forEach((var object) -> {
                    JSONObject nbo =  (JSONObject)object;//convertir object a JSONObject
+                    System.out.println(nbo);
                    ab.insert(new Book(nbo.get("Titulo").toString(), nbo.get("Autor").toString(), 
                              nbo.get("Editorial").toString(), nbo.get("Categoria").toString(), 
                              nbo.get("Idioma").toString(), Integer.parseInt(nbo.get("ISBN").toString()),
