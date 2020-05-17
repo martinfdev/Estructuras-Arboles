@@ -18,14 +18,16 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 public class FormUser extends javax.swing.JFrame {
 
     Login login;
-    Encrypted encripatacion;
+    Encrypted encriptacion;
     HashTable<User> tableuser;
     private boolean registroLogin;
+    WindowMain wm;
 
-    public FormUser(Login login, boolean registroLogin, HashTable<User> tableuser) {
+    public FormUser(Login login, boolean registroLogin, HashTable<User> tableuser, WindowMain wm) {
         this.login = login;
         this.tableuser = tableuser;
         this.registroLogin = registroLogin;
+        this.wm = wm;
         initComponents();
         this.setResizable(false);
         this.setLocationRelativeTo(null);
@@ -205,15 +207,17 @@ public class FormUser extends javax.swing.JFrame {
             registroLogin = false;
             this.dispose();
         } else {
+            wm.setVisible(true);
+            this.dispose();
         }
     }//GEN-LAST:event_formWindowClosing
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         if (!"".equals(txtCarne.getText()) && !"".equals(txtApellido.getText()) && !"".equals(txtCarrera.getText())
                 && !"".equals(txtNombre.getText()) && !"".equals(txtPassword.getText())) {
-            encripatacion = new Encrypted();
+            encriptacion = new Encrypted();
             int carne = Integer.parseInt(txtCarne.getText());
-            String password = encripatacion.getMD5(txtPassword.getText());
+            String password = encriptacion.getMD5(txtPassword.getText());
             tableuser.insert(new User(carne, txtNombre.getText(), txtApellido.getText(), txtCarrera.getText(), password), carne);
             clearTxt();
             JOptionPane.showMessageDialog(null, "Registrado!");

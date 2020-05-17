@@ -20,6 +20,7 @@ public class WindowMain extends javax.swing.JFrame {
     Login login;
     Peer servidor;
     AVLTree biblioteca_categoria;
+    String password;
     
     public WindowMain(HashTable<User> table_user, LinkedList<NodeNet> node_network, DoubleLinkedList<Block> listblock, Login login, Peer servidor, AVLTree biblioteca_categoria) {
         this.table_user = table_user;
@@ -158,7 +159,10 @@ public class WindowMain extends javax.swing.JFrame {
     }//GEN-LAST:event_btnConfigNetActionPerformed
 
     private void btnUsuarioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnUsuarioActionPerformed
-        
+        password = login.password;
+        UserAction ua = new UserAction(table_user, login.active_user, this);
+        ua.setVisible(true);
+        this.dispose();
     }//GEN-LAST:event_btnUsuarioActionPerformed
 
     private void btnReporteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnReporteActionPerformed

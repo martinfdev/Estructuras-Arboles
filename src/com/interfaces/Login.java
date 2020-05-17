@@ -21,6 +21,7 @@ public class Login extends javax.swing.JFrame {
     Peer servidor;
     User active_user;
     AVLTree biblioteca_categoria;
+    String password;
 
     /**
      * Creates new form WindowMain
@@ -177,7 +178,7 @@ public class Login extends javax.swing.JFrame {
     }//GEN-LAST:event_txtUserNameKeyTyped
 
     private void btnRegistroActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnRegistroActionPerformed
-        FormUser ruser = new FormUser(this, true, table_user);
+        FormUser ruser = new FormUser(this, true, table_user, null);
         ruser.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_btnRegistroActionPerformed
@@ -192,6 +193,7 @@ public class Login extends javax.swing.JFrame {
                 active_user = table_user.search(us);
                 String pass = encriptado.getMD5(matchpass(p));//mandamos a codificar el pass con MD5 para si hace match con el guardado
                 if (active_user.getNumero_carne() == us && pass.equals(active_user.getPassword())) {
+                    password = txtPassword.getText();//clonar passs
                     clearTxt();
                     return true;
                 } else {
