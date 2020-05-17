@@ -5,6 +5,7 @@
  */
 package com.structures;
 
+import java.io.File;
 import java.util.Stack;
 
 /**
@@ -15,9 +16,9 @@ public class BTree {
 
     private BNode root; //puntero al nodo raiz
     private final int t; //grado minimo
-    private int count = 0;
-    private Stack piladot;
-    
+    private int count;
+    String tempnivel = "";
+
     public BTree(int t) {
         root = null;
         this.t = t;
@@ -81,7 +82,6 @@ public class BTree {
             System.out.println("El arbol esta vacio");
             return;
         }
-
         // // Llamar a la función remove para la raiz
         root.remove(k);
 
@@ -97,40 +97,52 @@ public class BTree {
         }
     }
 
-    private void report_graph(BNode root, StringBuilder dotSource) {
+    private void report_graph(BNode root, StringBuilder dotSource, Stack pila) {
         int i;
         if (root != null) {
             for (i = 0; i < root.n; i++) {
                 if (root.leaf == false) {
-                   // System.out.println("nodo"+count);
+                    // System.out.println("nodo"+count);
                     System.out.println("izquierda " + root.key[i].getISBN());
-                    piladot.push(root.key[i].getISBN());//pila
-                    report_graph(root.child[i], dotSource);
-                    System.out.println("");
-                   // System.out.println("nodo"+count);
-                    System.out.println("Derecha " + root.key[i].getISBN());
-                }else
-                    System.out.print("hijo " + root.key[i].getISBN()+"\t");
+                    pila.push(root.key[i]);//pila
+                    report_graph(root.child[i], dotSource, pila);
+                    if (pila.peek() == root.key[i]) {
+                        pila.pop();
+                       
+                        dotSource.append("nodo"+count+"[ label = ;");
+                         count++;
+                        System.out.println("");//moviendo para la derecha
+                        System.out.println("Derecha " + root.key[i].getISBN());
+                    }
+                } else  {
+                    System.out.print(root.key[i].getISBN()+"\t");
+                }
             }
             if (root.leaf == false) {
-                count++;
-                report_graph(root.child[i], dotSource);
+                System.out.println("---------------------------------------");
+                report_graph(root.child[i], dotSource, pila);
             }
-            count++;
         }
     }
+    
+   
 
     public void report() {
-        
+        Stack pila = new Stack();
         StringBuilder dotSource = new StringBuilder();
         Graphviz grap = new Graphviz();
         grap.addln(grap.start_graph());
-        grap.addln();
-        report_graph(root, dotSource);//metodo recursivo para recorrer el arbol
-        System.out.println("");
+        grap.addln("rankdir=TB;\nnode [shape = record, color=blue];");
+        report_graph(root, dotSource, pila);//metodo recursivo para recorrer el arbol
+        System.out.println("");//salto de linea temporal
         grap.add(dotSource.toString());
         grap.add(grap.end_graph());
+        File f = new File("Btree.png");
+        grap.writeGraphToFile(grap.getGraph(grap.getDotSource(), "png"), f);
+       
         System.out.println(grap.getDotSource());
+       // System.out.println( grap.getPath());
     }
 
+   
 }

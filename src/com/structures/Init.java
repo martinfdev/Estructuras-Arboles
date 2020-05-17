@@ -21,13 +21,13 @@ public class Init {
     AVLTree biblioteca_categoria;
     
     public Init() {    
-        servidor = new Peer();
-        table_user = new HashTable<>(45);//limite para la tabla has es de 45 y libre con una lista siple de usuarios
-        node_network = new LinkedList<>();
-        listblock = new DoubleLinkedList<>();
-        biblioteca_categoria = new AVLTree();
-        Login login = new Login(table_user, node_network, listblock, servidor, biblioteca_categoria);
-        login.setVisible(true);
+//        servidor = new Peer();
+//        table_user = new HashTable<>(45);//limite para la tabla has es de 45 y libre con una lista siple de usuarios
+//        node_network = new LinkedList<>();
+//        listblock = new DoubleLinkedList<>();
+//        biblioteca_categoria = new AVLTree();
+//        Login login = new Login(table_user, node_network, listblock, servidor, biblioteca_categoria);
+//        login.setVisible(true);
         test();
     }
 
@@ -93,40 +93,42 @@ public class Init {
 //        for (int i = 0; i < list.getSize(); i++) {
 //            System.out.println(list.getData().getNombre());
 //        }
-//        BTree tb = new BTree(3);
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 10, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 20, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 5, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 6, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 12, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 30, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 7, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 17, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 1, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 3, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 7, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 10, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 11, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 13, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 14, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 15, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 18, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 16, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 19, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 24, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 25, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 26, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 21, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 4, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 5, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 20, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 22, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 2, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 17, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 12, 0, 0));
-//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 1, 6, 0, 0));
-//        System.out.println("El recorrido del arbol es: ");
-//        tb.traverse();
+        BTree tb = new BTree(3);
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  10, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  20, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 5, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  6, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  12, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  30, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 7, 0, 0));
+//        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa", 17, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  1, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  3, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  7, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  10, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  11, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  13, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  14, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  15, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  18, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  16, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  19, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  24, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  25, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  26, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  21, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  4, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  5, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  20, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  22, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  2, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  17, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  12, 0, 0));
+        tb.insert(new Book("Jasdufe", "kfshe8is", "djhekjhs", "sdhjfekj", "Espa",  6, 0, 0));
+       // System.out.println("El recorrido del arbol es: ");
+       // tb.traverse();
+        tb.report();
+     
 //        
 //        
 //       System.out.println((tb.search(5) != null));
