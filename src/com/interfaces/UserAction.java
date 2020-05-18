@@ -210,7 +210,7 @@ public class UserAction extends javax.swing.JFrame {
     private void txtCarneKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtCarneKeyTyped
         if ((int) evt.getKeyChar() > 31 && (int) evt.getKeyChar() < 48 || (int) evt.getKeyChar() > 57 && (int) evt.getKeyChar() <= 255) {
             evt.consume();
-            JOptionPane.showMessageDialog(null, "Solo de permiten números");
+            JOptionPane.showMessageDialog(null, "Solo se permiten números");
         }
     }//GEN-LAST:event_txtCarneKeyTyped
 
@@ -249,7 +249,6 @@ public class UserAction extends javax.swing.JFrame {
 
     private void btnEliminarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEliminarActionPerformed
         int op = JOptionPane.showConfirmDialog(null, "Desea eliminar su cuenta?");
-        System.out.println(op);
         if (op==0) {
           int carne = Integer.parseInt(txtCarne.getText());
           boolean deleted = tableuser.delete(carne);

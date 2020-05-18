@@ -50,7 +50,7 @@ public class WindowMain extends javax.swing.JFrame {
         btnConfigNet = new javax.swing.JButton();
         btnUsuario = new javax.swing.JButton();
         lblNameUser = new javax.swing.JLabel();
-        btnCargaMasiva = new javax.swing.JButton();
+        btnMisLibros = new javax.swing.JButton();
         btnBiblioteca = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
@@ -83,7 +83,12 @@ public class WindowMain extends javax.swing.JFrame {
             }
         });
 
-        btnCargaMasiva.setText("CARGA MASIVA");
+        btnMisLibros.setText("MIS LIBROS");
+        btnMisLibros.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnMisLibrosActionPerformed(evt);
+            }
+        });
 
         btnBiblioteca.setText("BIBLIOTECA");
 
@@ -108,7 +113,7 @@ public class WindowMain extends javax.swing.JFrame {
                         .addComponent(btnUsuario, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(btnCargaMasiva, javax.swing.GroupLayout.PREFERRED_SIZE, 198, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                        .addComponent(btnMisLibros, javax.swing.GroupLayout.PREFERRED_SIZE, 198, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addGap(70, 70, 70))
         );
         jPanel1Layout.setVerticalGroup(
@@ -122,7 +127,7 @@ public class WindowMain extends javax.swing.JFrame {
                     .addComponent(btnCatalogo, javax.swing.GroupLayout.PREFERRED_SIZE, 78, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 34, Short.MAX_VALUE)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(btnCargaMasiva, javax.swing.GroupLayout.PREFERRED_SIZE, 78, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(btnMisLibros, javax.swing.GroupLayout.PREFERRED_SIZE, 78, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(btnBiblioteca, javax.swing.GroupLayout.PREFERRED_SIZE, 78, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(33, 33, 33)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
@@ -169,12 +174,18 @@ public class WindowMain extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_btnReporteActionPerformed
 
+    private void btnMisLibrosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnMisLibrosActionPerformed
+        OperacionesLibro  opl =  new OperacionesLibro(biblioteca_categoria, this);
+        opl.setVisible(true);
+        this.dispose();
+    }//GEN-LAST:event_btnMisLibrosActionPerformed
+
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnBiblioteca;
-    private javax.swing.JButton btnCargaMasiva;
     private javax.swing.JButton btnCatalogo;
     private javax.swing.JButton btnConfigNet;
+    private javax.swing.JButton btnMisLibros;
     private javax.swing.JButton btnReporte;
     private javax.swing.JButton btnUsuario;
     private javax.swing.JPanel jPanel1;

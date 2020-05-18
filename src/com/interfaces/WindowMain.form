@@ -67,7 +67,7 @@
                       </Group>
                       <Group type="102" attributes="0">
                           <EmptySpace max="32767" attributes="0"/>
-                          <Component id="btnCargaMasiva" min="-2" pref="198" max="-2" attributes="0"/>
+                          <Component id="btnMisLibros" min="-2" pref="198" max="-2" attributes="0"/>
                       </Group>
                   </Group>
                   <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
@@ -86,7 +86,7 @@
                   </Group>
                   <EmptySpace pref="34" max="32767" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="btnCargaMasiva" alignment="3" min="-2" pref="78" max="-2" attributes="0"/>
+                      <Component id="btnMisLibros" alignment="3" min="-2" pref="78" max="-2" attributes="0"/>
                       <Component id="btnBiblioteca" alignment="3" min="-2" pref="78" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
@@ -131,10 +131,13 @@
         </Component>
         <Component class="javax.swing.JLabel" name="lblNameUser">
         </Component>
-        <Component class="javax.swing.JButton" name="btnCargaMasiva">
+        <Component class="javax.swing.JButton" name="btnMisLibros">
           <Properties>
-            <Property name="text" type="java.lang.String" value="CARGA MASIVA"/>
+            <Property name="text" type="java.lang.String" value="MIS LIBROS"/>
           </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnMisLibrosActionPerformed"/>
+          </Events>
         </Component>
         <Component class="javax.swing.JButton" name="btnBiblioteca">
           <Properties>

@@ -13,8 +13,8 @@ import java.util.logging.Logger;
 public class AVLTree {
 
     private NodeAVL root;
-    private int count =0;
-    
+    private int count = 0;
+
     public AVLTree() {
         this.root = null;
     }
@@ -129,48 +129,57 @@ public class AVLTree {
     }
 
     //metodo para recorrer el arbol en modo pre-orden
-    private void preOrden(NodeAVL root) {
+    private void preOrden(NodeAVL root, LinkedList<BooksCategory> lscategory) {
         if (root != null) {
-            System.out.print(root.getBcategory().getName_category()+ " ");
-            preOrden(root.left);
-            preOrden(root.right);
+            lscategory.add_queue(root.getBcategory());
+            //System.out.print(root.getBcategory().getName_category() + " ");
+            preOrden(root.left, lscategory);
+            preOrden(root.right, lscategory);
         }
     }
 
     //metodo para recorrer el arbol en modo in-orden
-    private void inOrden(NodeAVL root) {
+    private void inOrden(NodeAVL root, LinkedList<BooksCategory> lscategory) {
         if (root != null) {
-            inOrden(root.left);
-            System.out.print(root.getBcategory().getName_category()+ " ");
-            inOrden(root.right);
+            inOrden(root.left, lscategory);
+            lscategory.add_queue(root.getBcategory());
+            //System.out.print(root.getBcategory().getName_category() + " ");
+            inOrden(root.right, lscategory);
         }
     }
 
     //metodo para recorrer el arbol en modo pos-orden
-    private void posOrden(NodeAVL root) {
+    private void posOrden(NodeAVL root, LinkedList<BooksCategory> lscategory) {
         if (root != null) {
-            preOrden(root.left);
-            preOrden(root.right);
-            System.out.print(root.getBcategory().getName_category()+ " ");
+            posOrden(root.left, lscategory);
+            posOrden(root.right, lscategory);
+            lscategory.add_queue(root.getBcategory());
+            //System.out.print(root.getBcategory().getName_category() + " ");
         }
     }
 
     //metodo publico para recorrer el arbol en  pre-orden
-    public void pre_order() {
-        preOrden(root);
-        System.out.println("");
+    public LinkedList<BooksCategory> pre_order() {
+        LinkedList<BooksCategory> lscategory = new LinkedList<>();
+        preOrden(root, lscategory);
+        return lscategory;
+        //System.out.println("");
     }
 
     //metod publico para recorrer el arbol en post-orden
-    public void pos_order() {
-        posOrden(root);
-        System.out.println("");
+    public LinkedList<BooksCategory> pos_order() {
+        LinkedList<BooksCategory> lscategory = new LinkedList<>();
+        posOrden(root, lscategory);
+        return lscategory;
+        //System.out.println("");
     }
 
     //metodo para recorrer el arbol en in-orden
-    public void in_orden() {
-        inOrden(root);
-        System.out.println("");
+    public LinkedList<BooksCategory> in_orden() {
+        LinkedList<BooksCategory> lscategory = new LinkedList<>();
+        inOrden(root, lscategory);
+        return lscategory;
+        //System.out.println("");
     }
 
     //metodo que devuelve el menor de los mayores 
@@ -269,41 +278,41 @@ public class AVLTree {
 
     //metodo para eliminar nodo del arbol visibilidad publica
     public void delete(String nombre_categoria) {
-       root = deleteNode(root, nombre_categoria);
+        root = deleteNode(root, nombre_categoria);
     }
-    
+
     //metodo para generar el dotsuource de graphviz
-    private void reportAVL(NodeAVL node, Graphviz dotsource){
-        
-        if (node!=null) {
-            if (node.left!=null) {
-                dotsource.addln(node.getBcategory().getName_category()+" -> "+node.left.getBcategory().getName_category());
+    private void reportAVL(NodeAVL node, Graphviz dotsource) {
+
+        if (node != null) {
+            if (node.left != null) {
+                dotsource.addln(node.getBcategory().getName_category() + " -> " + node.left.getBcategory().getName_category());
                 reportAVL(node.left, dotsource);
-            }else{
-                dotsource.addln("null"+count+" [shape=point];");
-                dotsource.addln(node.getBcategory().getName_category()+" -> null"+count+";");     
+            } else {
+                dotsource.addln("null" + count + " [shape=point];");
+                dotsource.addln(node.getBcategory().getName_category() + " -> null" + count + ";");
                 count++;
             }
             if (node.right != null) {
-               dotsource.addln(node.getBcategory().getName_category()+" -> "+node.right.getBcategory().getName_category());
+                dotsource.addln(node.getBcategory().getName_category() + " -> " + node.right.getBcategory().getName_category());
                 reportAVL(node.right, dotsource);
-            }else{
-                dotsource.addln("null"+count+" [shape=point];");
-                dotsource.addln(node.getBcategory().getName_category()+" -> null"+count+";");     
+            } else {
+                dotsource.addln("null" + count + " [shape=point];");
+                dotsource.addln(node.getBcategory().getName_category() + " -> null" + count + ";");
                 count++;
             }
         }
     }
-    
+
     //metodo que genera el reporte en graphviz
-    public void report(){
+    public void report() {
         try {
             Graphviz graph = new Graphviz();
             graph.addln(graph.start_graph());
             graph.addln("node[fontname=\"Arial\", color=\"blue\"]");
             graph.addln("edge [color=\"green\"]");
             reportAVL(root, graph);
-            
+
             graph.add(graph.end_graph());
             File out = new File("AVLTree.png");
             graph.writeGraphToFile(graph.getGraph(graph.getDotSource(), "png"), out);
@@ -313,10 +322,10 @@ public class AVLTree {
             Logger.getLogger(AVLTree.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
-    
+
     //regresa el dato dentro de un uno pasando el valor a buscar por parametro
-    private NodeAVL search_node(NodeAVL root, String nombre_categoria){
-    //caso base la raiz es nula 
+    private NodeAVL search_node(NodeAVL root, String nombre_categoria) {
+        //caso base la raiz es nula 
         if (root == null || root.getBcategory().getName_category().equals(nombre_categoria)) {
             return root;
         }
@@ -327,10 +336,14 @@ public class AVLTree {
         //el valor del dato de la raiz es menor que dato buscado
         return search_node(root.right, nombre_categoria);
     }
-    
+
     //metodo publico para devolver un objeto de tipo Categoria de libro pide como 
     //parametro el nombre de la categoria
-    public BooksCategory search(String nombre_categoria){
-        return search_node(root, nombre_categoria).getBcategory();
+    public BooksCategory search(String nombre_categoria) {
+        if (root == null) {
+            return null;
+        } else {
+            return search_node(root, nombre_categoria).getBcategory();
+        }
     }
 }

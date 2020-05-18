@@ -108,14 +108,14 @@ public class BTree {
                     report_graph(root.child[i], dotSource, pila);
                     if (pila.peek() == root.key[i]) {
                         pila.pop();
-                       
-                        dotSource.append("nodo"+count+"[ label = ;");
-                         count++;
+
+                        dotSource.append("nodo" + count + "[ label = ;");
+                        count++;
                         System.out.println("");//moviendo para la derecha
                         System.out.println("Derecha " + root.key[i].getISBN());
                     }
-                } else  {
-                    System.out.print(root.key[i].getISBN()+"\t");
+                } else {
+                    System.out.print(root.key[i].getISBN() + "\t");
                 }
             }
             if (root.leaf == false) {
@@ -124,8 +124,6 @@ public class BTree {
             }
         }
     }
-    
-   
 
     public void report() {
         Stack pila = new Stack();
@@ -139,10 +137,32 @@ public class BTree {
         grap.add(grap.end_graph());
         File f = new File("Btree.png");
         grap.writeGraphToFile(grap.getGraph(grap.getDotSource(), "png"), f);
-       
+
         System.out.println(grap.getDotSource());
-       // System.out.println( grap.getPath());
+        // System.out.println( grap.getPath());
     }
 
-   
+    private void listBook(BNode root, LinkedList<Book> listB) {
+        int i;
+        if (root != null) {
+            for (i = 0; i < root.n; i++) {
+                if (root.leaf == false) {
+                    listBook(root.child[i], listB);
+                    System.out.print(root.key[i].getISBN() + "\t");
+                } else {
+                    listB.add_queue(root.key[i]);
+                    System.out.print(root.key[i].getISBN() + "\t");
+                }
+            }
+            if (root.leaf == false) {
+                listBook(root.child[i], listB);
+            }
+        }
+    }
+
+    public LinkedList<Book> listaLibros() {
+        LinkedList<Book> listB = new LinkedList<>();
+        listBook(root, listB);
+        return listB;
+    }
 }
