@@ -148,10 +148,10 @@ public class BTree {
             for (i = 0; i < root.n; i++) {
                 if (root.leaf == false) {
                     listBook(root.child[i], listB);
-                    System.out.print(root.key[i].getISBN() + "\t");
+                    //System.out.print(root.key[i].getISBN() + "\t");
                 } else {
                     listB.add_queue(root.key[i]);
-                    System.out.print(root.key[i].getISBN() + "\t");
+                    //System.out.print(root.key[i].getISBN() + "\t");
                 }
             }
             if (root.leaf == false) {

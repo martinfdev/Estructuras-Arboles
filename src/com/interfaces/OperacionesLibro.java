@@ -22,6 +22,7 @@ public class OperacionesLibro extends javax.swing.JFrame {
     ReadJson carga_m_libros;
     User actual_user;
     WindowMain wm;
+    private boolean flagedit;
 
     /**
      * Creates new form OperacionesLibro
@@ -33,11 +34,13 @@ public class OperacionesLibro extends javax.swing.JFrame {
         this.categoria_libro = categoria_libro;
         this.wm = wm;
         actual_user = wm.login.active_user;
-        
         initComponents();
         txtUsuario_agrega.setText(actual_user.getNombre());
+        llenarTabla_no_vacio();
         this.setResizable(false);
         this.setLocationRelativeTo(null);
+        disbleTxt();
+        flagedit = false;
     }
 
     /**
@@ -76,10 +79,9 @@ public class OperacionesLibro extends javax.swing.JFrame {
         jLabel10 = new javax.swing.JLabel();
         txtUsuario_agrega = new javax.swing.JTextField();
         btnEditar = new javax.swing.JButton();
-        btnGauardarCambios = new javax.swing.JButton();
+        btnGuardarCambios = new javax.swing.JButton();
         btnEliminar = new javax.swing.JButton();
         btnCrearLibro = new javax.swing.JButton();
-        jcomboCategoria = new javax.swing.JComboBox<>();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
         addWindowListener(new java.awt.event.WindowAdapter() {
@@ -90,6 +92,12 @@ public class OperacionesLibro extends javax.swing.JFrame {
 
         jButton1.setText("BUSCAR");
 
+        txtBuscar.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyTyped(java.awt.event.KeyEvent evt) {
+                txtBuscarKeyTyped(evt);
+            }
+        });
+
         tblBusqueda.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
 
@@ -98,9 +106,16 @@ public class OperacionesLibro extends javax.swing.JFrame {
                 "ISBN", "Nombre"
             }
         ));
+        tblBusqueda.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                tblBusquedaMouseClicked(evt);
+            }
+        });
         jScrollPane1.setViewportView(tblBusqueda);
         if (tblBusqueda.getColumnModel().getColumnCount() > 0) {
-            tblBusqueda.getColumnModel().getColumn(0).setPreferredWidth(20);
+            tblBusqueda.getColumnModel().getColumn(0).setMinWidth(30);
+            tblBusqueda.getColumnModel().getColumn(0).setPreferredWidth(70);
+            tblBusqueda.getColumnModel().getColumn(0).setMaxWidth(100);
         }
 
         jLabel11.setText("Buscar por nombre");
@@ -139,10 +154,25 @@ public class OperacionesLibro extends javax.swing.JFrame {
         jLabel10.setText("Usuario");
 
         btnEditar.setText("EDITAR");
+        btnEditar.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnEditarActionPerformed(evt);
+            }
+        });
 
-        btnGauardarCambios.setText("GUARDAR");
+        btnGuardarCambios.setText("GUARDAR");
+        btnGuardarCambios.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnGuardarCambiosActionPerformed(evt);
+            }
+        });
 
         btnEliminar.setText("ELIMINAR");
+        btnEliminar.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnEliminarActionPerformed(evt);
+            }
+        });
 
         btnCrearLibro.setText("CREAR LIBRO");
         btnCrearLibro.addActionListener(new java.awt.event.ActionListener() {
@@ -161,7 +191,7 @@ public class OperacionesLibro extends javax.swing.JFrame {
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addComponent(btnEditar)
                         .addGap(38, 38, 38)
-                        .addComponent(btnGauardarCambios)
+                        .addComponent(btnGuardarCambios)
                         .addGap(30, 30, 30)
                         .addComponent(btnEliminar))
                     .addGroup(jPanel1Layout.createSequentialGroup()
@@ -198,10 +228,7 @@ public class OperacionesLibro extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                                .addGap(6, 6, 6)
-                                .addComponent(jcomboCategoria, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(txtBuscar, javax.swing.GroupLayout.PREFERRED_SIZE, 180, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(txtBuscar)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                                 .addComponent(jButton1))
                             .addComponent(jScrollPane1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 379, javax.swing.GroupLayout.PREFERRED_SIZE))
@@ -269,7 +296,7 @@ public class OperacionesLibro extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 32, Short.MAX_VALUE)
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(btnEliminar)
-                            .addComponent(btnGauardarCambios)
+                            .addComponent(btnGuardarCambios)
                             .addComponent(btnEditar)))
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addGap(12, 12, 12)
@@ -277,8 +304,7 @@ public class OperacionesLibro extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(jButton1)
-                            .addComponent(txtBuscar, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(jcomboCategoria, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                            .addComponent(txtBuscar, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                         .addGap(18, 18, 18)
                         .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 398, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
@@ -332,16 +358,97 @@ public class OperacionesLibro extends javax.swing.JFrame {
             String path = file.getSelectedFile().getPath();
             carga_m_libros.readJsonBook(path);
             JOptionPane.showMessageDialog(null, "Carga Existosa!");
+            fill_table();
         }
-        fill_table();
+
     }//GEN-LAST:event_btnCarcaLibroActionPerformed
 
     private void txtISBNKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtISBNKeyTyped
         if ((int) evt.getKeyChar() > 31 && (int) evt.getKeyChar() < 48 || (int) evt.getKeyChar() > 57 && (int) evt.getKeyChar() <= 255) {
             evt.consume();
             JOptionPane.showMessageDialog(null, "Solo se permiten números");
-        } 
+        }
     }//GEN-LAST:event_txtISBNKeyTyped
+
+    private void tblBusquedaMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tblBusquedaMouseClicked
+        int isbn = (int) tblBusqueda.getValueAt(tblBusqueda.getSelectedRow(), 0);
+        LinkedList<BooksCategory> lista_categoria = categoria_libro.in_orden();
+        for (int i = 0; i < lista_categoria.getSize(); i++) {
+            BooksCategory temp = lista_categoria.getData();
+ //           jcomboCategoria.addItem(temp.getName_category());
+            LinkedList<Book> lstempbook = temp.getCategory().listaLibros();
+            for (int j = 0; j < lstempbook.getSize(); j++) {
+                Book tempbr = lstempbook.getData();
+                if (tempbr.getISBN() == isbn) {
+                    txtAnio.setText(tempbr.getYear() + "");
+                    txtAutor.setText(tempbr.getAutor());
+                    txtCategoria.setText(tempbr.getCategoria());
+                    txtEdicion.setText(tempbr.getEdicion() + "");
+                    txtEditorial.setText(tempbr.getEditorial());
+                    txtISBN.setText(tempbr.getISBN() + "");
+                    txtIdioma.setText(tempbr.getIdioma());
+                    txtUsuario_agrega.setText(tempbr.getCarne_usuario_que_agrega() + "");
+                    txtTitulo.setText(tempbr.getTitulo());
+                }
+            }
+        }
+    }//GEN-LAST:event_tblBusquedaMouseClicked
+
+    private void btnEditarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEditarActionPerformed
+        if (noEmptytxt()) {
+            int key = Integer.parseInt(txtISBN.getText());
+            if (categoria_libro.search(txtCategoria.getText()).getCategory().search(key).getCarne_usuario_que_agrega() == actual_user.getNumero_carne()) {
+                enableTxt();
+                flagedit = true;
+            } else {
+                JOptionPane.showMessageDialog(null, "No puedes modificar el libro no te pertenece!!");
+            }
+        }
+    }//GEN-LAST:event_btnEditarActionPerformed
+
+    private void btnGuardarCambiosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnGuardarCambiosActionPerformed
+        if (noEmptytxt()) {
+            if (categoria_libro.search(txtCategoria.getText()) != null && flagedit == true) {
+                categoria_libro.search(txtCategoria.getText()).getCategory().search(Integer.parseInt(txtISBN.getText())).setAutor(txtAutor.getText());
+                categoria_libro.search(txtCategoria.getText()).getCategory().search(Integer.parseInt(txtISBN.getText())).setCarne_usuario_que_agrega(actual_user.getNumero_carne());
+                categoria_libro.search(txtCategoria.getText()).getCategory().search(Integer.parseInt(txtISBN.getText())).setCategoria(txtCategoria.getText());
+                categoria_libro.search(txtCategoria.getText()).getCategory().search(Integer.parseInt(txtISBN.getText())).setEdicion(Integer.parseInt(txtEdicion.getText()));
+                categoria_libro.search(txtCategoria.getText()).getCategory().search(Integer.parseInt(txtISBN.getText())).setEditorial(txtEditorial.getText());
+                categoria_libro.search(txtCategoria.getText()).getCategory().search(Integer.parseInt(txtISBN.getText())).setISBN(Integer.parseInt(txtISBN.getText()));
+                categoria_libro.search(txtCategoria.getText()).getCategory().search(Integer.parseInt(txtISBN.getText())).setIdioma(txtIdioma.getText());
+                categoria_libro.search(txtCategoria.getText()).getCategory().search(Integer.parseInt(txtISBN.getText())).setTitulo(txtTitulo.getText());
+                categoria_libro.search(txtCategoria.getText()).getCategory().search(Integer.parseInt(txtISBN.getText())).setYear(Integer.parseInt(txtAnio.getText()));
+                fill_table();
+                flagedit = false;
+                clearTXT();
+                disbleTxt();
+                JOptionPane.showConfirmDialog(null, "Cambio Guardado!");
+            }
+        }
+    }//GEN-LAST:event_btnGuardarCambiosActionPerformed
+
+    private void btnEliminarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEliminarActionPerformed
+        if (noEmptytxt()) {
+            int key = Integer.parseInt(txtISBN.getText());
+            if (categoria_libro.search(txtCategoria.getText()).getCategory().search(key).getCarne_usuario_que_agrega() == actual_user.getNumero_carne()) {
+                int option = JOptionPane.showConfirmDialog(null, "Eliminar el libro: " + txtTitulo.getText());
+                if (option == 0) {
+                    categoria_libro.search(txtCategoria.getText()).getCategory().remove(key);
+                    clearTXT();
+                    fill_table();
+                }
+            } else {
+                JOptionPane.showMessageDialog(null, "No puedes modificar el libro no te pertenece!!");
+            }
+        }
+    }//GEN-LAST:event_btnEliminarActionPerformed
+
+    private void txtBuscarKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtBuscarKeyTyped
+        if (!"".equals(txtBuscar.getText())) {
+            fillTablefilter(txtBuscar.getText());
+        }else
+            fill_table();
+    }//GEN-LAST:event_txtBuscarKeyTyped
 
     private void clearTXT() {
         txtAnio.setText("");
@@ -356,6 +463,7 @@ public class OperacionesLibro extends javax.swing.JFrame {
         txtTitulo.setText("");
     }
 
+    //no tiene que haber ningun campo vacio
     private boolean noEmptytxt() {
         if (!"".equals(txtAnio.getText()) && !"".equals(txtAutor.getText())
                 && !"".equals(txtCategoria.getText()) && !"".equals(txtEdicion.getText())
@@ -368,29 +476,79 @@ public class OperacionesLibro extends javax.swing.JFrame {
             return false;
         }
     }
-    
-    private void fill_table(){
+
+    //metodo para llenar la tabla
+    private void fill_table() {
         DefaultTableModel tabla = (DefaultTableModel) tblBusqueda.getModel();
         tabla.setRowCount(0);
         LinkedList<BooksCategory> lista_categoria = categoria_libro.in_orden();
         for (int i = 0; i < lista_categoria.getSize(); i++) {
             BooksCategory temp = lista_categoria.getData();
-            jcomboCategoria.addItem(temp.getName_category());
+//            jcomboCategoria.addItem(temp.getName_category());
             LinkedList<Book> lstempbook = temp.getCategory().listaLibros();
             for (int j = 0; j < lstempbook.getSize(); j++) {
                 Book tempbr = lstempbook.getData();
-                Object[] tbl = {tempbr.getISBN(),
-                tempbr.getTitulo()
-                };
-            tabla.addRow(tbl);
+                if (tempbr.getCarne_usuario_que_agrega() == actual_user.getNumero_carne()) {
+                    Object[] tbl = {tempbr.getISBN(),
+                        tempbr.getTitulo()
+                    };
+                    tabla.addRow(tbl);
+                }
             }
-            //temp.getCategory().traverse();
         }
     }
-    
-    private void llenarTabla_no_vacio(){
-        
-    
+
+    private void llenarTabla_no_vacio() {
+        if (!categoria_libro.isEmpty()) {
+            fill_table();
+        }
+
+    }
+
+    private void disbleTxt() {
+        txtAnio.setEditable(false);
+        txtAutor.setEditable(false);
+        txtCategoria.setEditable(false);
+        txtEdicion.setEditable(false);
+        txtEditorial.setEditable(false);
+        txtISBN.setEditable(false);
+        txtIdioma.setEditable(false);
+        txtIdioma.setEditable(false);
+        txtUsuario_agrega.setEditable(false);
+        txtTitulo.setEditable(false);
+    }
+
+    private void enableTxt() {
+        txtAnio.setEditable(true);
+        txtAutor.setEditable(true);
+        txtCategoria.setEditable(true);
+        txtEdicion.setEditable(true);
+        txtEditorial.setEditable(true);
+        txtISBN.setEditable(true);
+        txtIdioma.setEditable(true);
+        txtIdioma.setEditable(true);
+        txtUsuario_agrega.setEditable(true);
+        txtTitulo.setEditable(true);
+    }
+
+    private void fillTablefilter(String keytyped) {
+        DefaultTableModel tabla = (DefaultTableModel) tblBusqueda.getModel();
+        tabla.setRowCount(0);
+        LinkedList<BooksCategory> lista_categoria = categoria_libro.in_orden();
+        for (int i = 0; i < lista_categoria.getSize(); i++) {
+            BooksCategory temp = lista_categoria.getData();
+//            jcomboCategoria.addItem(temp.getName_category());
+            LinkedList<Book> lstempbook = temp.getCategory().listaLibros();
+            for (int j = 0; j < lstempbook.getSize(); j++) {
+                Book tempbr = lstempbook.getData();
+                if (tempbr.getCarne_usuario_que_agrega() == actual_user.getNumero_carne() && tempbr.getTitulo().contains(keytyped)) {
+                    Object[] tbl = {tempbr.getISBN(),
+                        tempbr.getTitulo()
+                    };
+                    tabla.addRow(tbl);
+                }
+            }
+        }
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
@@ -398,7 +556,7 @@ public class OperacionesLibro extends javax.swing.JFrame {
     private javax.swing.JButton btnCrearLibro;
     private javax.swing.JButton btnEditar;
     private javax.swing.JButton btnEliminar;
-    private javax.swing.JButton btnGauardarCambios;
+    private javax.swing.JButton btnGuardarCambios;
     private javax.swing.JButton jButton1;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
@@ -413,7 +571,6 @@ public class OperacionesLibro extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel9;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JScrollPane jScrollPane1;
-    private javax.swing.JComboBox<String> jcomboCategoria;
     private javax.swing.JTable tblBusqueda;
     private javax.swing.JTextField txtAnio;
     private javax.swing.JTextField txtAutor;

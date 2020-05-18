@@ -13,8 +13,8 @@ import java.util.logging.Logger;
 public class AVLTree {
 
     private NodeAVL root;
-    private int count = 0;
-
+    private int count = 0; 
+            
     public AVLTree() {
         this.root = null;
     }
@@ -345,5 +345,12 @@ public class AVLTree {
         } else {
             return search_node(root, nombre_categoria).getBcategory();
         }
+    }
+    
+    public boolean isEmpty(){
+        if (root==null) {
+            return true;
+        }
+        return false;
     }
 }
