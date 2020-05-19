@@ -47,30 +47,28 @@
       <Layout>
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
-              <Group type="102" alignment="1" attributes="0">
-                  <EmptySpace min="-2" pref="69" max="-2" attributes="0"/>
-                  <Group type="103" groupAlignment="1" attributes="0">
-                      <Component id="btnReporte" min="-2" pref="198" max="-2" attributes="0"/>
-                      <Component id="btnConfigNet" min="-2" pref="198" max="-2" attributes="0"/>
-                      <Component id="btnBiblioteca" min="-2" pref="198" max="-2" attributes="0"/>
-                  </Group>
+              <Group type="102" attributes="0">
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" attributes="0">
-                          <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="btnReporte" min="-2" pref="198" max="-2" attributes="0"/>
+                              <Component id="btnBiblioteca" alignment="0" min="-2" pref="198" max="-2" attributes="0"/>
+                              <Component id="btnConfigNet" alignment="0" min="-2" pref="198" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="76" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="btnUsuario" max="32767" attributes="0"/>
+                              <Component id="btnMisLibros" alignment="0" pref="228" max="32767" attributes="0"/>
+                              <Component id="btnCatalogo" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="219" max="-2" attributes="0"/>
                           <Component id="lblNameUser" min="-2" pref="67" max="-2" attributes="0"/>
-                          <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
-                          <Component id="btnCatalogo" pref="198" max="32767" attributes="0"/>
-                      </Group>
-                      <Group type="102" attributes="0">
-                          <EmptySpace min="-2" pref="180" max="-2" attributes="0"/>
-                          <Component id="btnUsuario" max="32767" attributes="0"/>
-                      </Group>
-                      <Group type="102" attributes="0">
-                          <EmptySpace max="32767" attributes="0"/>
-                          <Component id="btnMisLibros" min="-2" pref="198" max="-2" attributes="0"/>
                       </Group>
                   </Group>
-                  <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="13" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -79,22 +77,22 @@
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace max="-2" attributes="0"/>
                   <Component id="lblNameUser" min="-2" pref="14" max="-2" attributes="0"/>
-                  <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
                       <Component id="btnReporte" alignment="3" min="-2" pref="78" max="-2" attributes="0"/>
                       <Component id="btnCatalogo" alignment="3" min="-2" pref="78" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace pref="34" max="32767" attributes="0"/>
+                  <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="btnMisLibros" alignment="3" min="-2" pref="78" max="-2" attributes="0"/>
                       <Component id="btnBiblioteca" alignment="3" min="-2" pref="78" max="-2" attributes="0"/>
+                      <Component id="btnMisLibros" alignment="3" min="-2" pref="78" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
                       <Component id="btnConfigNet" alignment="3" min="-2" pref="86" max="-2" attributes="0"/>
                       <Component id="btnUsuario" alignment="3" min="-2" pref="86" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -112,6 +110,9 @@
           <Properties>
             <Property name="text" type="java.lang.String" value="CATALOGO"/>
           </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnCatalogoActionPerformed"/>
+          </Events>
         </Component>
         <Component class="javax.swing.JButton" name="btnConfigNet">
           <Properties>
@@ -141,8 +142,11 @@
         </Component>
         <Component class="javax.swing.JButton" name="btnBiblioteca">
           <Properties>
-            <Property name="text" type="java.lang.String" value="BIBLIOTECA"/>
+            <Property name="text" type="java.lang.String" value="CATEGORIA"/>
           </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnBibliotecaActionPerformed"/>
+          </Events>
         </Component>
       </SubComponents>
     </Container>

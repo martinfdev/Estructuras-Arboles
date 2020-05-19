@@ -3,10 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/src/com/structures/ReadJson.java</file>
-            <file>file:/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/src/com/interfaces/FormUser.java</file>
             <file>file:/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/src/com/structures/BTree.java</file>
             <file>file:/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/src/com/structures/Init.java</file>
+            <file>file:/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/src/com/interfaces/OperacionesLibro.java</file>
             <file>file:/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/src/com/interfaces/WindowMain.java</file>
             <file>file:/home/pedro/NetBeansProjects/EDD_1S2020_PY2_201700656/src/com/structures/BNode.java</file>
         </group>

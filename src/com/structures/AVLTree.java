@@ -13,8 +13,9 @@ import java.util.logging.Logger;
 public class AVLTree {
 
     private NodeAVL root;
-    private int count = 0; 
-            
+    private int count = 0;
+    private boolean repetido;
+
     public AVLTree() {
         this.root = null;
     }
@@ -86,9 +87,9 @@ public class AVLTree {
             node.left = insertNode(node.left, nombre_categoria);
         } else if (val > 0) {
             node.right = insertNode(node.right, nombre_categoria);
-        } else //punto donde el nodo es duplicado no hace ninguna operacion
+        } else //punto donde el nodo es duplicado no hace ninguna operacion duplicado
         {
-            System.out.println("Elemento duplicado " + nombre_categoria);
+            repetido = true;
             return node;
         }
 
@@ -125,7 +126,9 @@ public class AVLTree {
 
     //metodo publico para insertar datos tipo string en el arbol 
     public void insert(String nombre_categoria) {
+        repetido = false;
         root = insertNode(root, nombre_categoria);
+
     }
 
     //metodo para recorrer el arbol en modo pre-orden
@@ -305,22 +308,19 @@ public class AVLTree {
     }
 
     //metodo que genera el reporte en graphviz
-    public void report() {
-        try {
-            Graphviz graph = new Graphviz();
-            graph.addln(graph.start_graph());
-            graph.addln("node[fontname=\"Arial\", color=\"blue\"]");
-            graph.addln("edge [color=\"green\"]");
-            reportAVL(root, graph);
+    public String report() {
 
-            graph.add(graph.end_graph());
-            File out = new File("AVLTree.png");
-            graph.writeGraphToFile(graph.getGraph(graph.getDotSource(), "png"), out);
-            Desktop.getDesktop().open(out);
-            //System.out.println(graph.getDotSource());
-        } catch (IOException ex) {
-            Logger.getLogger(AVLTree.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        Graphviz graph = new Graphviz();
+        graph.addln(graph.start_graph());
+        graph.addln("node[fontname=\"Arial\", color=\"blue\"]");
+        graph.addln("edge [color=\"green\"]");
+        reportAVL(root, graph);
+        graph.add(graph.end_graph());
+        File out = new File("AVLTree.png");
+        graph.writeGraphToFile(graph.getGraph(graph.getDotSource(), "png"), out);
+        //Desktop.getDesktop().open(out);
+        //System.out.println(graph.getDotSource());
+        return graph.getPath(); 
     }
 
     //regresa el dato dentro de un uno pasando el valor a buscar por parametro
@@ -346,11 +346,15 @@ public class AVLTree {
             return search_node(root, nombre_categoria).getBcategory();
         }
     }
-    
-    public boolean isEmpty(){
-        if (root==null) {
+
+    public boolean isEmpty() {
+        if (root == null) {
             return true;
         }
         return false;
+    }
+
+    public boolean repetido() {
+        return repetido;
     }
 }

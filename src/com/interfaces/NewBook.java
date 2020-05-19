@@ -32,6 +32,8 @@ public class NewBook extends javax.swing.JFrame {
         initComponents();
         this.setLocationRelativeTo(null);
         this.setResizable(false);
+        fillCategory();
+        txtUsuario_agrega.setText(actual_user.getNumero_carne() + "");
     }
 
     /**
@@ -57,13 +59,14 @@ public class NewBook extends javax.swing.JFrame {
         jLabel6 = new javax.swing.JLabel();
         txtEdicion = new javax.swing.JTextField();
         jLabel8 = new javax.swing.JLabel();
-        txtCategoria = new javax.swing.JTextField();
         jLabel9 = new javax.swing.JLabel();
         txtIdioma = new javax.swing.JTextField();
         jLabel10 = new javax.swing.JLabel();
         txtUsuario_agrega = new javax.swing.JTextField();
         jLabel7 = new javax.swing.JLabel();
         btnGuardar = new javax.swing.JButton();
+        jcomboCategoria = new javax.swing.JComboBox<>();
+        jButton1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
         addWindowListener(new java.awt.event.WindowAdapter() {
@@ -72,11 +75,6 @@ public class NewBook extends javax.swing.JFrame {
             }
         });
 
-        txtISBN.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                txtISBNActionPerformed(evt);
-            }
-        });
         txtISBN.addKeyListener(new java.awt.event.KeyAdapter() {
             public void keyTyped(java.awt.event.KeyEvent evt) {
                 txtISBNKeyTyped(evt);
@@ -93,7 +91,19 @@ public class NewBook extends javax.swing.JFrame {
 
         jLabel5.setText("Año");
 
+        txtAnio.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyTyped(java.awt.event.KeyEvent evt) {
+                txtAnioKeyTyped(evt);
+            }
+        });
+
         jLabel6.setText("Edicion");
+
+        txtEdicion.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyTyped(java.awt.event.KeyEvent evt) {
+                txtEdicionKeyTyped(evt);
+            }
+        });
 
         jLabel8.setText("Categoria");
 
@@ -101,12 +111,19 @@ public class NewBook extends javax.swing.JFrame {
 
         jLabel10.setText("Usuario");
 
-        jLabel7.setText("Nuevo Libro");
+        jLabel7.setText("Crear Libro");
 
         btnGuardar.setText("GUARDAR");
         btnGuardar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnGuardarActionPerformed(evt);
+            }
+        });
+
+        jButton1.setText("CREAR CATEGORIA");
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
             }
         });
 
@@ -137,17 +154,20 @@ public class NewBook extends javax.swing.JFrame {
                                     .addContainerGap()
                                     .addComponent(jLabel8))))
                         .addGap(41, 41, 41)
-                        .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(txtAutor, javax.swing.GroupLayout.PREFERRED_SIZE, 230, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(txtTitulo, javax.swing.GroupLayout.PREFERRED_SIZE, 230, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(txtEditorial, javax.swing.GroupLayout.PREFERRED_SIZE, 230, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(txtAnio, javax.swing.GroupLayout.PREFERRED_SIZE, 230, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(txtEdicion, javax.swing.GroupLayout.PREFERRED_SIZE, 230, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(txtCategoria, javax.swing.GroupLayout.PREFERRED_SIZE, 230, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(txtIdioma, javax.swing.GroupLayout.PREFERRED_SIZE, 230, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(txtUsuario_agrega, javax.swing.GroupLayout.PREFERRED_SIZE, 230, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(txtISBN, javax.swing.GroupLayout.PREFERRED_SIZE, 230, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                .addGap(0, 26, Short.MAX_VALUE))
+                        .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(txtAutor)
+                            .addComponent(txtTitulo)
+                            .addComponent(txtEditorial)
+                            .addComponent(txtAnio)
+                            .addComponent(txtEdicion)
+                            .addComponent(txtIdioma)
+                            .addComponent(txtUsuario_agrega)
+                            .addComponent(txtISBN)
+                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
+                                .addComponent(jcomboCategoria, javax.swing.GroupLayout.PREFERRED_SIZE, 112, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(jButton1)))))
+                .addGap(0, 13, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(btnGuardar, javax.swing.GroupLayout.PREFERRED_SIZE, 103, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -185,7 +205,8 @@ public class NewBook extends javax.swing.JFrame {
                 .addGap(24, 24, 24)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel8)
-                    .addComponent(txtCategoria, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(jcomboCategoria, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jButton1))
                 .addGap(32, 32, 32)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel9)
@@ -207,9 +228,7 @@ public class NewBook extends javax.swing.JFrame {
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 0, Short.MAX_VALUE))
+            .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
         );
 
         pack();
@@ -217,7 +236,10 @@ public class NewBook extends javax.swing.JFrame {
 
     private void btnGuardarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnGuardarActionPerformed
         if (noEmptytxt()) {
-            
+            if (createBook()) {
+                clearTXT();
+                JOptionPane.showMessageDialog(null, "Libro Creado!");
+            }else{ JOptionPane.showMessageDialog(null, "Fallo en la crecion del libro!");}
         }
     }//GEN-LAST:event_btnGuardarActionPerformed
 
@@ -225,22 +247,40 @@ public class NewBook extends javax.swing.JFrame {
         if ((int) evt.getKeyChar() > 31 && (int) evt.getKeyChar() < 48 || (int) evt.getKeyChar() > 57 && (int) evt.getKeyChar() <= 255) {
             evt.consume();
             JOptionPane.showMessageDialog(null, "Solo se permiten números");
-        }      
+        }
     }//GEN-LAST:event_txtISBNKeyTyped
 
-    private void txtISBNActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtISBNActionPerformed
-
-    }//GEN-LAST:event_txtISBNActionPerformed
-
     private void formWindowClosing(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowClosing
-       ol.setVisible(true);
-       this.dispose();
+        ol.setVisible(true);
+        ol.fill_table();
+        ol.clearTXT();
+        this.dispose();
     }//GEN-LAST:event_formWindowClosing
+
+    private void txtAnioKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtAnioKeyTyped
+        if ((int) evt.getKeyChar() > 31 && (int) evt.getKeyChar() < 48 || (int) evt.getKeyChar() > 57 && (int) evt.getKeyChar() <= 255) {
+            evt.consume();
+            JOptionPane.showMessageDialog(null, "Escriba el año en numeros");
+        }
+    }//GEN-LAST:event_txtAnioKeyTyped
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        AdminCategoria a_categoria = new AdminCategoria(categoria_libro, this, null, actual_user, false);
+        a_categoria.setVisible(true);
+        this.dispose();
+    }//GEN-LAST:event_jButton1ActionPerformed
+
+    private void txtEdicionKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtEdicionKeyTyped
+        if ((int) evt.getKeyChar() > 31 && (int) evt.getKeyChar() < 48 || (int) evt.getKeyChar() > 57 && (int) evt.getKeyChar() <= 255) {
+            evt.consume();
+            JOptionPane.showMessageDialog(null, "Solo se permiten números");
+        }
+    }//GEN-LAST:event_txtEdicionKeyTyped
 
     private void clearTXT() {
         txtAnio.setText("");
         txtAutor.setText("");
-        txtCategoria.setText("");
+//        txtCategoria.setText("");
         txtEdicion.setText("");
         txtEditorial.setText("");
         txtISBN.setText("");
@@ -252,7 +292,7 @@ public class NewBook extends javax.swing.JFrame {
 
     private boolean noEmptytxt() {
         if (!"".equals(txtAnio.getText()) && !"".equals(txtAutor.getText())
-                && !"".equals(txtCategoria.getText()) && !"".equals(txtEdicion.getText())
+                && !"".equals(txtEdicion.getText())
                 && !"".equals(txtEditorial.getText()) && !"".equals(txtISBN.getText())
                 && !"".equals(txtIdioma.getText()) && !"".equals(txtTitulo.getText())
                 && !"".equals(txtUsuario_agrega.getText())) {
@@ -263,8 +303,35 @@ public class NewBook extends javax.swing.JFrame {
         }
     }
 
+    public void fillCategory() {
+        jcomboCategoria.removeAllItems();
+        LinkedList<BooksCategory> lsBC = categoria_libro.in_orden();
+        for (int i = 0; i < lsBC.getSize(); i++) {
+            jcomboCategoria.addItem(lsBC.getData().getName_category());
+        }
+    }
+
+    private boolean createBook() {
+        String titulo = txtTitulo.getText();
+        String autor = txtAutor.getText();
+        String editorial = txtEditorial.getText();
+        String idioma = txtIdioma.getText();
+        int ISBN = Integer.parseInt(txtISBN.getText());
+        int year = Integer.parseInt(txtAnio.getText());
+        int edicion = Integer.parseInt(txtEdicion.getText());
+        int carne_usuario_que_agrega = actual_user.getNumero_carne();
+        String categoria = jcomboCategoria.getSelectedItem().toString();
+        if (categoria_libro.search(categoria)!=null) {
+            Book k = new Book(titulo, autor, editorial, categoria, idioma, ISBN, year, edicion, carne_usuario_que_agrega);
+            categoria_libro.search(categoria).getCategory().insert(k);
+            return true;
+        }else
+            return false;
+    }
+
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnGuardar;
+    private javax.swing.JButton jButton1;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel2;
@@ -276,9 +343,9 @@ public class NewBook extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel8;
     private javax.swing.JLabel jLabel9;
     private javax.swing.JPanel jPanel1;
+    private javax.swing.JComboBox<String> jcomboCategoria;
     private javax.swing.JTextField txtAnio;
     private javax.swing.JTextField txtAutor;
-    private javax.swing.JTextField txtCategoria;
     private javax.swing.JTextField txtEdicion;
     private javax.swing.JTextField txtEditorial;
     private javax.swing.JTextField txtISBN;

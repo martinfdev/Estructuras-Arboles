@@ -31,10 +31,7 @@
     </DimensionLayout>
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Group type="102" alignment="0" attributes="0">
-              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
-              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-          </Group>
+          <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
       </Group>
     </DimensionLayout>
   </Layout>
@@ -73,20 +70,24 @@
                               </Group>
                           </Group>
                           <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Component id="txtAutor" min="-2" pref="230" max="-2" attributes="0"/>
-                              <Component id="txtTitulo" min="-2" pref="230" max="-2" attributes="0"/>
-                              <Component id="txtEditorial" alignment="0" min="-2" pref="230" max="-2" attributes="0"/>
-                              <Component id="txtAnio" alignment="0" min="-2" pref="230" max="-2" attributes="0"/>
-                              <Component id="txtEdicion" alignment="0" min="-2" pref="230" max="-2" attributes="0"/>
-                              <Component id="txtCategoria" alignment="0" min="-2" pref="230" max="-2" attributes="0"/>
-                              <Component id="txtIdioma" alignment="0" min="-2" pref="230" max="-2" attributes="0"/>
-                              <Component id="txtUsuario_agrega" min="-2" pref="230" max="-2" attributes="0"/>
-                              <Component id="txtISBN" min="-2" pref="230" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="txtAutor" max="32767" attributes="0"/>
+                              <Component id="txtTitulo" max="32767" attributes="0"/>
+                              <Component id="txtEditorial" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtAnio" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtEdicion" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtIdioma" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtUsuario_agrega" max="32767" attributes="0"/>
+                              <Component id="txtISBN" max="32767" attributes="0"/>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="jcomboCategoria" min="-2" pref="112" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                              </Group>
                           </Group>
                       </Group>
                   </Group>
-                  <EmptySpace min="0" pref="26" max="32767" attributes="0"/>
+                  <EmptySpace min="0" pref="13" max="32767" attributes="0"/>
               </Group>
               <Group type="102" alignment="1" attributes="0">
                   <EmptySpace max="32767" attributes="0"/>
@@ -133,7 +134,8 @@
                   <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
                       <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="txtCategoria" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jcomboCategoria" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
@@ -155,7 +157,6 @@
       <SubComponents>
         <Component class="javax.swing.JTextField" name="txtISBN">
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtISBNActionPerformed"/>
             <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="txtISBNKeyTyped"/>
           </Events>
         </Component>
@@ -191,6 +192,9 @@
           </Properties>
         </Component>
         <Component class="javax.swing.JTextField" name="txtAnio">
+          <Events>
+            <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="txtAnioKeyTyped"/>
+          </Events>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel6">
           <Properties>
@@ -198,13 +202,14 @@
           </Properties>
         </Component>
         <Component class="javax.swing.JTextField" name="txtEdicion">
+          <Events>
+            <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="txtEdicionKeyTyped"/>
+          </Events>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel8">
           <Properties>
             <Property name="text" type="java.lang.String" value="Categoria"/>
           </Properties>
-        </Component>
-        <Component class="javax.swing.JTextField" name="txtCategoria">
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel9">
           <Properties>
@@ -222,7 +227,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel7">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Nuevo Libro"/>
+            <Property name="text" type="java.lang.String" value="Crear Libro"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JButton" name="btnGuardar">
@@ -231,6 +236,24 @@
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnGuardarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="jcomboCategoria">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="0"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="CREAR CATEGORIA"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
           </Events>
         </Component>
       </SubComponents>
