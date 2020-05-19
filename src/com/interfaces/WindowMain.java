@@ -168,7 +168,9 @@ public class WindowMain extends javax.swing.JFrame {
     }//GEN-LAST:event_formWindowClosing
 
     private void btnConfigNetActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnConfigNetActionPerformed
-        
+        ConfigNetwork cnet = new ConfigNetwork(node_network, servidor, this, listblock);
+        cnet.setVisible(true);
+        this.dispose();
     }//GEN-LAST:event_btnConfigNetActionPerformed
 
     private void btnUsuarioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnUsuarioActionPerformed

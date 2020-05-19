@@ -4,25 +4,35 @@
  * and open the template in the editor.
  */
 package com.interfaces;
+
 import com.structures.*;
 import com.p2pnetwork.*;
 import javax.swing.JOptionPane;
+
 /**
  *
  * @author pedro
  */
 public class ConfigNetwork extends javax.swing.JFrame {
-    private LinkedList<NodeNet> listNodeNetwork;
+
+    LinkedList<NodeNet> node_network;//lista simple de nodos para usuarios
+    DoubleLinkedList<Block> listblock;//lista doble para los bloques en el block chain
     private Peer servidor;
     private Client cliente;
+    WindowMain wm;
+
     /**
      * Creates new form ConfigNetwork
      */
-    public ConfigNetwork(){}
-    
-    public ConfigNetwork(LinkedList<NodeNet> listNodeNetwork, Peer servidor) {
+    public ConfigNetwork() {
+    }
+
+    public ConfigNetwork(LinkedList<NodeNet> node_network, Peer servidor, WindowMain wm,  DoubleLinkedList<Block> listblock) {
         this.servidor = servidor;
-        this.listNodeNetwork = listNodeNetwork;
+        this.node_network = node_network;
+        this.wm = wm;
+        this.cliente = wm.login.cliente;
+        this.listblock = listblock;
         initComponents();
         this.setResizable(false);
         this.setLocationRelativeTo(null);
@@ -52,7 +62,12 @@ public class ConfigNetwork extends javax.swing.JFrame {
         txtIpServer = new javax.swing.JTextField();
         txtPortServer = new javax.swing.JTextField();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
+        addWindowListener(new java.awt.event.WindowAdapter() {
+            public void windowClosing(java.awt.event.WindowEvent evt) {
+                formWindowClosing(evt);
+            }
+        });
 
         jLabel3.setText("Configuracion modo servidor");
 
@@ -188,17 +203,18 @@ public class ConfigNetwork extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnModserverActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnModserverActionPerformed
-        String my_ip  = txtMyip.getText();
+        String my_ip = txtMyip.getText();
         int port_listen = Integer.parseInt(txtPortListen.getText());
         if (!"".equals(my_ip) && port_listen > 0) {
             NodeNet nodn = new NodeNet(my_ip, port_listen);
-            listNodeNetwork.add_queue(nodn); //agregamos nuestro servidor a las lista de redes
+            node_network.add_queue(nodn); //agregamos nuestro servidor a las lista de redes
             //agregamos los valores dela ip como el puerto quese pondra a escuchar
             servidor.setIp(my_ip);
             servidor.setPort(port_listen);
             //ponemos a correr el servidor
-            if(servidor.start_server())
+            if (servidor.start_server()) {
                 JOptionPane.showMessageDialog(null, "Modo servidor habilitado");
+            }
         }
     }//GEN-LAST:event_btnModserverActionPerformed
 
@@ -218,12 +234,18 @@ public class ConfigNetwork extends javax.swing.JFrame {
 
     private void btnServerconnectActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnServerconnectActionPerformed
         String ip_server = txtIpServer.getText();
-        int port_server =  Integer.parseInt(txtPortServer.getText());
+        int port_server = Integer.parseInt(txtPortServer.getText());
         if (!"".equals(ip_server) && port_server > 0) {
             cliente.setIp_server(ip_server);
             cliente.setPort(port_server);
+            cliente.send_data("datos de prueba en la consola");
         }
     }//GEN-LAST:event_btnServerconnectActionPerformed
+
+    private void formWindowClosing(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowClosing
+        wm.setVisible(true);
+        this.dispose();
+    }//GEN-LAST:event_formWindowClosing
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

@@ -5,6 +5,8 @@
  */
 package com.p2pnetwork;
 
+import com.structures.LinkedList;
+import com.structures.NodeNet;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
@@ -32,12 +34,12 @@ public class Server implements Runnable{
        try {
            System.out.println(port);
            server = new ServerSocket(port);
-           while (true) {           //aceptamos conexiones infinitamente    
-           Socket conect_in = server.accept();
-           in = new DataInputStream(conect_in.getInputStream());
-           String dato_entrada = in.readUTF(); //temporal
-           System.out.println("El cliente manda: "+dato_entrada);
-           conect_in.close();
+           while (true) {           try ( //aceptamos conexiones infinitamente
+                   Socket conect_in = server.accept()) {
+               in = new DataInputStream(conect_in.getInputStream());
+               String dato_entrada = in.readUTF(); //temporal
+               System.out.println(dato_entrada);
+               }
            }
        } catch (IOException ex) {
            Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);

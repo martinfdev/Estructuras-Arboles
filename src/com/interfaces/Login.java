@@ -22,6 +22,7 @@ public class Login extends javax.swing.JFrame {
     User active_user;
     AVLTree biblioteca_categoria;
     String password;
+    Client cliente;
 
     /**
      * Creates new form WindowMain
@@ -39,6 +40,7 @@ public class Login extends javax.swing.JFrame {
         this.servidor = servidor;
         this.biblioteca_categoria = biblioteca_categoria;
         encriptado = new Encrypted();
+        cliente = new Client();
         initComponents();
         this.setResizable(false);
         this.setLocationRelativeTo(null);
