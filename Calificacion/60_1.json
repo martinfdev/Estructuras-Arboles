@@ -1,0 +1,602 @@
+[
+  {
+    "ISBN": 15284,
+    "Anio": 1974,
+    "Idioma": "Frances",
+    "Titulo": "How to make bookshelves & cabinets",
+    "Editorial": "A New Directions Book",
+    "Autor": "FUNDACION PROYECTO DE VIDA-GUATEAMALA",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15287,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "The Making of Canada, The North",
+    "Editorial": "A Plume Book",
+    "Autor": "FUNDACION RAFAEL LEOZ PARA LA INVESTIGACION Y PROMOCION DE LA ARQUITECTURA SOCIAL",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15288,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "The Making of Canada, Ontario",
+    "Editorial": "A&E Home Video",
+    "Autor": "FUNDACION ROZAS-BOTRAN",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15289,
+    "Anio": 1985,
+    "Idioma": "Espaniol",
+    "Titulo": "Canada's vacationlands",
+    "Editorial": "A&E Mundo",
+    "Autor": "FUNDACION SOLAR",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15290,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "The Making of Canada, Quebec",
+    "Editorial": "A&E TELEVISION NETWORK",
+    "Autor": "FUNDACION SOROS (GUATEMALA)",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15291,
+    "Anio": 1984,
+    "Idioma": "Ruso",
+    "Titulo": "The Making of America, Alaska",
+    "Editorial": "A. & C. Black",
+    "Autor": "FUNDACION SOROS GUATEMALA",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15292,
+    "Anio": 1994,
+    "Idioma": "Mandarin",
+    "Titulo": "Boston to Washington circa 1830",
+    "Editorial": "A. A. Knopf",
+    "Autor": "FUNDAZUCAR",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 15294,
+    "Anio": 1993,
+    "Idioma": "Ingles",
+    "Titulo": "Coastal California",
+    "Editorial": "A. AL. BURT",
+    "Autor": "FUNDEMOS",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15295,
+    "Anio": 1983,
+    "Idioma": "Espaniol",
+    "Titulo": "The Making of America, Hawaii",
+    "Editorial": "A. Pedone",
+    "Autor": "FUNES, AXEL GILBERTO",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15296,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "Special places of the World, New York City",
+    "Editorial": "A. REDONDO",
+    "Autor": "FUNES, MAURICIO",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15297,
+    "Anio": 1994,
+    "Idioma": "Ruso",
+    "Titulo": "Alaska",
+    "Editorial": "A. Taffin-Lefort",
+    "Autor": "FUNK & WAGNALLS",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15298,
+    "Anio": 2000,
+    "Idioma": "Mandarin",
+    "Titulo": "Western migration: dreams of gold and better life drive mass movement, 1841-1869",
+    "Editorial": "A. W. Sijthoff",
+    "Autor": "FUNKE, CORNELIA",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15299,
+    "Anio": 1997,
+    "Idioma": "Ingles",
+    "Titulo": "Great peoples of the past: The Mesoamericans",
+    "Editorial": "A. W. Sythoff",
+    "Autor": "FURDA, IVAN",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15300,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Grandes pueblos del pasado: MesoamErica",
+    "Editorial": "A.A.",
+    "Autor": "FURLAN, TUTI",
+    "Edicion": 3,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15301,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "Spain in the Americas",
+    "Editorial": "A.C.A.M.",
+    "Autor": "FURNAS, C. C",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15302,
+    "Anio": 1999,
+    "Idioma": "Ruso",
+    "Titulo": "Millennium in maps, Cultures",
+    "Editorial": "A.C.M.E.",
+    "Autor": "FURRH, MARY LEIGH",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15305,
+    "Anio": 1997,
+    "Idioma": "Mandarin",
+    "Titulo": "Millennium in maps, Exploration",
+    "Editorial": "A.D.A. Edita",
+    "Autor": "FURTADO, CELSO",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15306,
+    "Anio": 1995,
+    "Idioma": "Ingles",
+    "Titulo": "Egypt's Nile Valley, The North",
+    "Editorial": "A.F.A.",
+    "Autor": "FURTH, HANS G",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15307,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Grandes pueblos del pasado: Los griegos",
+    "Editorial": "A.G.A.Y.C.",
+    "Autor": "FUSCO, RENATO DE",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15309,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Flexibilidad del derecho colectivo de trabajo",
+    "Editorial": "A.I.D.I.P.E.",
+    "Autor": "FUSCO, RENATO DE",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15310,
+    "Anio": 1996,
+    "Idioma": "Ruso",
+    "Titulo": "Las Sociedades de inversion en Guatemala; problematica y soluciones",
+    "Editorial": "A.L. Mateos",
+    "Autor": "FUSFELD, HERBERT I",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15311,
+    "Anio": 1996,
+    "Idioma": "Mandarin",
+    "Titulo": "Sistemas juridicos de proteccion de la persona : derecho humanitario y derecho de los derechos humanos",
+    "Editorial": "A.L.A.",
+    "Autor": "FUSI, ROLANDO",
+    "Edicion": 10,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15312,
+    "Anio": 1992,
+    "Idioma": "Ingles",
+    "Titulo": "Hacia una nueva regulacion legal del agente independiente de comercio",
+    "Editorial": "A.T.E.",
+    "Autor": "FUSTER, JOAQUIN M",
+    "Edicion": 9,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15313,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "Los Impuestos y su efecto en la inversion extranjera",
+    "Editorial": "AATCC",
+    "Autor": "G.M.Z",
+    "Edicion": 5,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15314,
+    "Anio": 1965,
+    "Idioma": "Espaniol",
+    "Titulo": "Television para los ninios : analisis sobre los efectos de la television",
+    "Editorial": "AB Allhems Tryckerier",
+    "Autor": "GAARDER, JOSTEIN",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15315,
+    "Anio": 1949,
+    "Idioma": "Ruso",
+    "Titulo": "Companieros eternos",
+    "Editorial": "Abaco",
+    "Autor": "GABALDON MARQUEZ, JOAQUIN",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15317,
+    "Anio": 1988,
+    "Idioma": "Ingles",
+    "Titulo": "La Mente del estratega: el triunfo de los japoneses en el mundo de los negocios",
+    "Editorial": "Abacus",
+    "Autor": "GABARRO, JOHN J",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15318,
+    "Anio": 1980,
+    "Idioma": "Espaniol",
+    "Titulo": "Graphic idea notebook: inventive techniques for designing printed pages",
+    "Editorial": "Abada",
+    "Autor": "GABIOLA, JOSE DOMINGO",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15319,
+    "Anio": 1978,
+    "Idioma": "Espaniol",
+    "Titulo": "Fast furniture: the Zegel system",
+    "Editorial": "ABBEVILLE PRESS",
+    "Autor": "GABIOLA, SABINO",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15320,
+    "Anio": 1978,
+    "Idioma": "Ruso",
+    "Titulo": "Add a room: successful ideas for more living space",
+    "Editorial": "Abbeydale Press",
+    "Autor": "GABOUREL SOLORZANO, OLGA GLORIA",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15322,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Democracia en Guatemala : la mision de un pueblo entero; informe de la Mision",
+    "Editorial": "ABC",
+    "Autor": "GABRIEL COMAS, MICHELLE",
+    "Edicion": 8,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15323,
+    "Anio": 1974,
+    "Idioma": "Espaniol",
+    "Titulo": "La Libertad y la ley",
+    "Editorial": "Abelard-Schuman",
+    "Autor": "GABRIEL GONZALEZ, NORMAN",
+    "Edicion": 8,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15324,
+    "Anio": 1943,
+    "Idioma": "Espaniol",
+    "Titulo": "La Filosofia de Platon",
+    "Editorial": "Abeledo Perrot",
+    "Autor": "GABRIEL TURCIOS, MARIO HUMBERTO",
+    "Edicion": 8,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 15325,
+    "Anio": 1979,
+    "Idioma": "Espaniol",
+    "Titulo": "The little house",
+    "Editorial": "Abeledo-Perrot",
+    "Autor": "GABRIEL Y GALAN, JOSE MARIA",
+    "Edicion": 7,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 15326,
+    "Anio": 1989,
+    "Idioma": "Espaniol",
+    "Titulo": "Marketing de abajo hacia arriba; la tactica dicta la estrategia",
+    "Editorial": "AbeledoPerrot",
+    "Autor": "GABRIEL, JEAN-PIERRE",
+    "Edicion": 6,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 15327,
+    "Anio": 1958,
+    "Idioma": "Espaniol",
+    "Titulo": "Filosofia y ciencia de la educacion",
+    "Editorial": "Ablex Publishing",
+    "Autor": "GABRIEL, JOHN",
+    "Edicion": 5,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 15328,
+    "Anio": 1957,
+    "Idioma": "Espaniol",
+    "Titulo": "Economic models an exposition",
+    "Editorial": "Abrams Comicarts",
+    "Autor": "GABRIEL, JOHN WILLIAM",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15329,
+    "Anio": 1992,
+    "Idioma": "Aleman",
+    "Titulo": "Dominacion y acuerdo",
+    "Editorial": "Julio",
+    "Autor": "GABRIEL, JOSE",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15330,
+    "Anio": 1984,
+    "Idioma": "Espaniol",
+    "Titulo": "How to replace & install doors & windows",
+    "Editorial": "AC",
+    "Autor": "GABRIEL, LEO",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15332,
+    "Anio": 1984,
+    "Idioma": "Ingles",
+    "Titulo": "Homes for creative living",
+    "Editorial": "Academia Antioquenia de Historia",
+    "Autor": "GADDIS, JOHN LEWIS",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15333,
+    "Anio": 1968,
+    "Idioma": "Frances",
+    "Titulo": "Book of holiday and weekend houses",
+    "Editorial": "Academia Boyacense de Historia",
+    "Autor": "GADEA VILLEDA, ANGIE RUTH",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15334,
+    "Anio": 1956,
+    "Idioma": "Frances",
+    "Titulo": "Designs and how to use them",
+    "Editorial": "Academia Colombiana de Historia",
+    "Autor": "GADINO, ALFREDO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15335,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Necesidad de una ley que regule la privatizacion de empresas estatales",
+    "Editorial": "Academia Colombiana de Jurisprudencia",
+    "Autor": "GADSDEN ESCOBAR, GABRIELA",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15336,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Suspension del acto administrativo cuando es impugnado por recurso idoneo",
+    "Editorial": "Academia de CentroamErica",
+    "Autor": "GADZALA, DANIEL E",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15337,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "El abuso de la invocacion de los derechos humanos",
+    "Editorial": "Academia de Diplomacia de Chile",
+    "Autor": "GAEBLER, TED",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15338,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Incongruencias y lagunas legales en materia del derecho de antejuicio en Guatemala",
+    "Editorial": "Academia de Geografia e Historia de Costa Rica",
+    "Autor": "GAEDEKE, RALPH M",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15339,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Critica a la teoria pura del derecho",
+    "Editorial": "Academia de Geografia e Historia de Guatemala, AGHG",
+    "Autor": "GAETA, SAVERIO",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 15341,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "La No aplicabilidad del decreto 78-71 del Congreso de la Republica al contrato de franquicia comercial",
+    "Editorial": "Academia de Guerra Naval",
+    "Autor": "GAFFNEY, PATRICK",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15342,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "La Crisis de la funcion de notario en Guatemala",
+    "Editorial": "Academia Gallega de Jurisprudencia y Legislacion",
+    "Autor": "GAFO, JAVIER",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15343,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "El subarrendamiento y el debido proceso",
+    "Editorial": "ACADEMIA GIL",
+    "Autor": "GAGE, TOMAS",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15344,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "La Necesidad e importancia de la desmonopolizacion y privatizacion de los servicios publicos",
+    "Editorial": "Academia Guatemalteca de la Lengua",
+    "Autor": "GAGLIARDI, PETE",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15345,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "El derecho de retencion en el Codigo de Comercio",
+    "Editorial": "Academia Iberoamericana de Poesia",
+    "Autor": "GAGNE, ROBERT M",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15346,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Naturaleza juridica de la constancia que sustituye al cheque en caso de pago parcial",
+    "Editorial": "Academia MExicana de Jurisprudencia y Legislacion, Correspondiente de la de Espania",
+    "Autor": "GAHL, ROBERT A",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15347,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "El uso obligatorio de la marca registrada",
+    "Editorial": "Academia Nacional de la Historia",
+    "Autor": "GAINSBOURG, CHARLOTTE",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15349,
+    "Anio": 1993,
+    "Idioma": "Aleman",
+    "Titulo": "El elemento capacidad en la contratacion mercantil realizada por menores de edad",
+    "Editorial": "Academias Pitman",
+    "Autor": "GAIR, ANGELA",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15350,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "El Parlamento Centroamericano instrumento de integracion politica regional",
+    "Editorial": "Academic Press",
+    "Autor": "GAIRIN, J",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15351,
+    "Anio": 1998,
+    "Idioma": "Ingles",
+    "Titulo": "Admisibilidad de medios de impugnacion en los conflictos colectivos de caracter economico social",
+    "Editorial": "AcadEmica Centroamericana",
+    "Autor": "GAITAN ALFARO, HECTOR",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15352,
+    "Anio": 1999,
+    "Idioma": "Frances",
+    "Titulo": "Los Malos tratamientos de obra, las rinias y disputas continuas, las injurias graves y ofensas al honor y, en general la conducta que haga insoportable la vida en comun : Â¿Causal o causales de divorcio? Contenido en el inciso segundo del articulo 155",
+    "Editorial": "AcadEmicas",
+    "Autor": "GAITAN ALFARO, HECTOR",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15353,
+    "Anio": 1999,
+    "Idioma": "Frances",
+    "Titulo": "La Prescripcion en los casos de despido directo",
+    "Editorial": "ACADEMY",
+    "Autor": "GAITAN DAVILA, JUAN CARLOS",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15354,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Analisis de las reformas al incidente de nulidad y la violacion al principio de preclusion",
+    "Editorial": "Academy of American Fr",
+    "Autor": "",
+    "Edicion": "",
+    "Categoria": ""
+  }
+]

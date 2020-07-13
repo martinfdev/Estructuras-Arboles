@@ -1,0 +1,703 @@
+{
+  "Usuarios": [{
+      "Carnet": 201612300,
+      "Nombre": "Vanessa",
+      "Apellido": "Scampion",
+      "Carrera": "Industrial",
+      "Password": "rzrF60mi"
+    },
+    {
+      "Carnet": 201612301,
+      "Nombre": "Rosabelle",
+      "Apellido": "Trays",
+      "Carrera": "Industrial",
+      "Password": "WlmM9N"
+    },
+    {
+      "Carnet": 201612302,
+      "Nombre": "Ethelbert",
+      "Apellido": "Furminger",
+      "Carrera": "Industrial",
+      "Password": "6WkF9Azak5sf"
+    },
+    {
+      "Carnet": 201612303,
+      "Nombre": "Mohammed",
+      "Apellido": "Sherred",
+      "Carrera": "Industrial",
+      "Password": "bpSCVE"
+    },
+    {
+      "Carnet": 201634604,
+      "Nombre": "Maisie",
+      "Apellido": "Clara",
+      "Carrera": "Industrial",
+      "Password": "gmIWoa6dOb"
+    },
+    {
+      "Carnet": 201634605,
+      "Nombre": "Ana",
+      "Apellido": "Summersby",
+      "Carrera": "Industrial",
+      "Password": "W9NVXoIi5WyJ"
+    },
+    {
+      "Carnet": 201634606,
+      "Nombre": "Sammy",
+      "Apellido": "Jumonet",
+      "Carrera": "Industrial",
+      "Password": "gErbvg9GEyp"
+    },
+    {
+      "Carnet": 201649407,
+      "Nombre": "Anett",
+      "Apellido": "McCourtie",
+      "Carrera": "Industrial",
+      "Password": "lk0ltsDtx0vJ"
+    },
+    {
+      "Carnet": 201649408,
+      "Nombre": "Evonne",
+      "Apellido": "Jozsef",
+      "Carrera": "Industrial",
+      "Password": "l0XmLHa"
+    },
+    {
+      "Carnet": 201649409,
+      "Nombre": "Arleen",
+      "Apellido": "Jobson",
+      "Carrera": "Industrial",
+      "Password": "5i7h20aOp8n"
+    },
+    {
+      "Carnet": 201649410,
+      "Nombre": "Margaux",
+      "Apellido": "Bercevelo",
+      "Carrera": "Industrial",
+      "Password": "3aX7SG"
+    },
+    {
+      "Carnet": 201349961,
+      "Nombre": "Timi",
+      "Apellido": "Dudeney",
+      "Carrera": "Industrial",
+      "Password": "PmwJ5CziU"
+    },
+    {
+      "Carnet": 201349961,
+      "Nombre": "Rupert",
+      "Apellido": "Garritley",
+      "Carrera": "Industrial",
+      "Password": "WQmrpB"
+    },
+    {
+      "Carnet": 201349963,
+      "Nombre": "Bat",
+      "Apellido": "Twitty",
+      "Carrera": "Industrial",
+      "Password": "Xsc1uRmo4Ew"
+    },
+    {
+      "Carnet": 201349961,
+      "Nombre": "Dannie",
+      "Apellido": "Clayborn",
+      "Carrera": "Industrial",
+      "Password": "GNeg8fq"
+    },
+    {
+      "Carnet": 201634991,
+      "Nombre": "Terrill",
+      "Apellido": "Howroyd",
+      "Carrera": "Industrial",
+      "Password": "BHZ3of"
+    },
+    {
+      "Carnet": 201613556,
+      "Nombre": "Sheilakathryn",
+      "Apellido": "Heyns",
+      "Carrera": "Industrial",
+      "Password": "tVCH6x"
+    },
+    {
+      "Carnet": 201617853,
+      "Nombre": "Elysee",
+      "Apellido": "Mayho",
+      "Carrera": "Industrial",
+      "Password": "BkkbeYW"
+    },
+    {
+      "Carnet": 201685318,
+      "Nombre": "Jamie",
+      "Apellido": "McKinless",
+      "Carrera": "Industrial",
+      "Password": "6jpRk5i"
+    },
+    {
+      "Carnet": 201653119,
+      "Nombre": "Shay",
+      "Apellido": "Duggon",
+      "Carrera": "Industrial",
+      "Password": "TXFNEPv"
+    },
+    {
+      "Carnet": 201653120,
+      "Nombre": "Netti",
+      "Apellido": "Paybody",
+      "Carrera": "Industrial",
+      "Password": "vOxOn7HqRr"
+    },
+    {
+      "Carnet": 201531621,
+      "Nombre": "Brannon",
+      "Apellido": "Dominguez",
+      "Carrera": "Industrial",
+      "Password": "Lr1jHvd8yWP"
+    },
+    {
+      "Carnet": 201625312,
+      "Nombre": "Miriam",
+      "Apellido": "Dudley",
+      "Carrera": "Industrial",
+      "Password": "po60X3c"
+    },
+    {
+      "Carnet": 201625313,
+      "Nombre": "Langston",
+      "Apellido": "Togwell",
+      "Carrera": "Industrial",
+      "Password": "UYZ7N2"
+    },
+    {
+      "Carnet": 201634524,
+      "Nombre": "Felipa",
+      "Apellido": "Colomb",
+      "Carrera": "Industrial",
+      "Password": "PQYpkbBHcPa"
+    },
+    {
+      "Carnet": 201345625,
+      "Nombre": "Alyda",
+      "Apellido": "Gavriel",
+      "Carrera": "Industrial",
+      "Password": "e7iXwg"
+    },
+    {
+      "Carnet": 201626345,
+      "Nombre": "Christyna",
+      "Apellido": "Bodiam",
+      "Carrera": "Industrial",
+      "Password": "IbWp9JvMywdR"
+    },
+    {
+      "Carnet": 201623457,
+      "Nombre": "Berke",
+      "Apellido": "Emerton",
+      "Carrera": "Industrial",
+      "Password": "K7E9fJqWfF1"
+    },
+    {
+      "Carnet": 201670728,
+      "Nombre": "Nevins",
+      "Apellido": "Sambiedge",
+      "Carrera": "Industrial",
+      "Password": "werYLE8a0p4"
+    },
+    {
+      "Carnet": 201670729,
+      "Nombre": "Annette",
+      "Apellido": "Allot",
+      "Carrera": "Industrial",
+      "Password": "yE2CGjbs"
+    },
+    {
+      "Carnet": 201670730,
+      "Nombre": "Samuel",
+      "Apellido": "Armand",
+      "Carrera": "Industrial",
+      "Password": "Okq1mqenC2kr"
+    },
+    {
+      "Carnet": 201670731,
+      "Nombre": "Nissie",
+      "Apellido": "Omond",
+      "Carrera": "Industrial",
+      "Password": "D7S8PKCvCp"
+    },
+    {
+      "Carnet": 201670732,
+      "Nombre": "Jamil",
+      "Apellido": "Congdon",
+      "Carrera": "Industrial",
+      "Password": "mXFi8AxPBbz"
+    },
+    {
+      "Carnet": 201670733,
+      "Nombre": "Moria",
+      "Apellido": "Absalom",
+      "Carrera": "Industrial",
+      "Password": "2JRbTh6qA"
+    },
+    {
+      "Carnet": 201637074,
+      "Nombre": "Sabina",
+      "Apellido": "Browse",
+      "Carrera": "Industrial",
+      "Password": "q481kebh"
+    },
+    {
+      "Carnet": 201707635,
+      "Nombre": "Jimmie",
+      "Apellido": "Swaffer",
+      "Carrera": "Industrial",
+      "Password": "p9YUStaT"
+    },
+    {
+      "Carnet": 201636101,
+      "Nombre": "Giulia",
+      "Apellido": "Veryan",
+      "Carrera": "Industrial",
+      "Password": "dHHeYdNjY"
+    },
+    {
+      "Carnet": 201637102,
+      "Nombre": "Jarrett",
+      "Apellido": "Learie",
+      "Carrera": "Industrial",
+      "Password": "qrFYh7aK"
+    },
+    {
+      "Carnet": 201638304,
+      "Nombre": "Jordan",
+      "Apellido": "Lumox",
+      "Carrera": "Industrial",
+      "Password": "gPj5k5RsRe"
+    },
+    {
+      "Carnet": 201639107,
+      "Nombre": "Merwyn",
+      "Apellido": "Kasman",
+      "Carrera": "Industrial",
+      "Password": "khxtIhB1KX"
+    },
+    {
+      "Carnet": 201640404,
+      "Nombre": "Guss",
+      "Apellido": "Twigger",
+      "Carrera": "Industrial",
+      "Password": "Cx78qgSE40f"
+    },
+    {
+      "Carnet": 201641303,
+      "Nombre": "Phelia",
+      "Apellido": "Ewestace",
+      "Carrera": "Industrial",
+      "Password": "RnthyDR7TN6"
+    },
+    {
+      "Carnet": 201642680,
+      "Nombre": "Arielle",
+      "Apellido": "Purdom",
+      "Carrera": "Industrial",
+      "Password": "4z2Q8zc7JhM"
+    },
+    {
+      "Carnet": 201643302,
+      "Nombre": "Baxter",
+      "Apellido": "Minchinton",
+      "Carrera": "Industrial",
+      "Password": "9YGTFqdGSN"
+    },
+    {
+      "Carnet": 201644400,
+      "Nombre": "Matty",
+      "Apellido": "Thumim",
+      "Carrera": "Industrial",
+      "Password": "HyVKKzw"
+    },
+    {
+      "Carnet": 201645360,
+      "Nombre": "Obediah",
+      "Apellido": "Kerans",
+      "Carrera": "Industrial",
+      "Password": "OT413I0ZETWy"
+    },
+    {
+      "Carnet": 201646203,
+      "Nombre": "Daune",
+      "Apellido": "Gunnell",
+      "Carrera": "Industrial",
+      "Password": "1bwJ2QZ"
+    },
+    {
+      "Carnet": 201647404,
+      "Nombre": "Rory",
+      "Apellido": "Nairy",
+      "Carrera": "Industrial",
+      "Password": "PtPNWKDtd7vq"
+    },
+    {
+      "Carnet": 201648603,
+      "Nombre": "Norah",
+      "Apellido": "Chatenet",
+      "Carrera": "Industrial",
+      "Password": "5OP9JAXo5p"
+    },
+    {
+      "Carnet": 201649203,
+      "Nombre": "Celestine",
+      "Apellido": "Robbe",
+      "Carrera": "Industrial",
+      "Password": "AzXc7WVXn"
+    },
+    {
+      "Carnet": 201650106,
+      "Nombre": "Lana",
+      "Apellido": "Leeming",
+      "Carrera": "Industrial",
+      "Password": "zoHt2VbF"
+    },
+    {
+      "Carnet": 201651704,
+      "Nombre": "Shirlene",
+      "Apellido": "Penberthy",
+      "Carrera": "Industrial",
+      "Password": "T2EHckt"
+    },
+    {
+      "Carnet": 201652303,
+      "Nombre": "Cleo",
+      "Apellido": "Hodgets",
+      "Carrera": "Industrial",
+      "Password": "dfK5S0KGHj"
+    },
+    {
+      "Carnet": 201653203,
+      "Nombre": "Parnell",
+      "Apellido": "Provis",
+      "Carrera": "Industrial",
+      "Password": "SgnCdjf"
+    },
+    {
+      "Carnet": 201654222,
+      "Nombre": "Filippo",
+      "Apellido": "Marco",
+      "Carrera": "Industrial",
+      "Password": "t4WhIYxh7xQh"
+    },
+    {
+      "Carnet": 201630055,
+      "Nombre": "Fayth",
+      "Apellido": "Hryniewicz",
+      "Carrera": "Industrial",
+      "Password": "2j1lvZyWbJuj"
+    },
+    {
+      "Carnet": 201630056,
+      "Nombre": "Hastie",
+      "Apellido": "Hoggetts",
+      "Carrera": "Industrial",
+      "Password": "xe8vRJ"
+    },
+    {
+      "Carnet": 201653007,
+      "Nombre": "Addie",
+      "Apellido": "Sinott",
+      "Carrera": "Industrial",
+      "Password": "ZLbrKeMBwVq"
+    },
+    {
+      "Carnet": 201653008,
+      "Nombre": "Georgiana",
+      "Apellido": "Buterton",
+      "Carrera": "Industrial",
+      "Password": "uLJbR70pNr"
+    },
+    {
+      "Carnet": 201630059,
+      "Nombre": "Ashla",
+      "Apellido": "Byrkmyr",
+      "Carrera": "Industrial",
+      "Password": "98GxH5Vk"
+    },
+    {
+      "Carnet": 201662020,
+      "Nombre": "Eziechiele",
+      "Apellido": "Lieber",
+      "Carrera": "Industrial",
+      "Password": "xogLeutS"
+    },
+    {
+      "Carnet": 201662021,
+      "Nombre": "Franklin",
+      "Apellido": "Suggett",
+      "Carrera": "Industrial",
+      "Password": "tZQcV0z9qNlH"
+    },
+    {
+      "Carnet": 201662022,
+      "Nombre": "Ynes",
+      "Apellido": "Rizzardo",
+      "Carrera": "Industrial",
+      "Password": "KjG8inO2HQ"
+    },
+    {
+      "Carnet": 201662023,
+      "Nombre": "Elita",
+      "Apellido": "Leveridge",
+      "Carrera": "Industrial",
+      "Password": "QDeF9GB"
+    },
+    {
+      "Carnet": 201662024,
+      "Nombre": "Farr",
+      "Apellido": "Filippone",
+      "Carrera": "Industrial",
+      "Password": "vFhIr8B0itXO"
+    },
+    {
+      "Carnet": 201660105,
+      "Nombre": "Carine",
+      "Apellido": "Horsewood",
+      "Carrera": "Industrial",
+      "Password": "sID9VL"
+    },
+    {
+      "Carnet": 201660106,
+      "Nombre": "Druci",
+      "Apellido": "MacCaughan",
+      "Carrera": "Industrial",
+      "Password": "um579jiE"
+    },
+    {
+      "Carnet": 201660107,
+      "Nombre": "Anselma",
+      "Apellido": "Leband",
+      "Carrera": "Industrial",
+      "Password": "oKDGkVFSZ7w"
+    },
+    {
+      "Carnet": 201660108,
+      "Nombre": "Almeta",
+      "Apellido": "Isakovitch",
+      "Carrera": "Industrial",
+      "Password": "PXtUQkOo5jv"
+    },
+    {
+      "Carnet": 201660109,
+      "Nombre": "Donnell",
+      "Apellido": "Deschlein",
+      "Carrera": "Industrial",
+      "Password": "yYFeb3v"
+    },
+    {
+      "Carnet": 201010670,
+      "Nombre": "Netty",
+      "Apellido": "Dasent",
+      "Carrera": "Industrial",
+      "Password": "T6OiU9ltLdqu"
+    },
+    {
+      "Carnet": 201010671,
+      "Nombre": "Roxanne",
+      "Apellido": "Scrivenor",
+      "Carrera": "Industrial",
+      "Password": "kf0dWeLBC3Y"
+    },
+    {
+      "Carnet": 201010672,
+      "Nombre": "Ethelda",
+      "Apellido": "Sidden",
+      "Carrera": "Industrial",
+      "Password": "7Sb7Om"
+    },
+    {
+      "Carnet": 201010673,
+      "Nombre": "Branden",
+      "Apellido": "Redford",
+      "Carrera": "Industrial",
+      "Password": "8CswnqD"
+    },
+    {
+      "Carnet": 201010674,
+      "Nombre": "Casie",
+      "Apellido": "Gerran",
+      "Carrera": "Industrial",
+      "Password": "R9mYUt04"
+    },
+    {
+      "Carnet": 201219675,
+      "Nombre": "Bennie",
+      "Apellido": "Di Boldi",
+      "Carrera": "Industrial",
+      "Password": "DtLqj8xd02Vf"
+    },
+    {
+      "Carnet": 201219676,
+      "Nombre": "Nil",
+      "Apellido": "Hollows",
+      "Carrera": "Industrial",
+      "Password": "ERgET2g42Xn9"
+    },
+    {
+      "Carnet": 201219677,
+      "Nombre": "Rudie",
+      "Apellido": "Clare",
+      "Carrera": "Industrial",
+      "Password": "GPFdo1"
+    },
+    {
+      "Carnet": 201219678,
+      "Nombre": "Sherie",
+      "Apellido": "Bembrigg",
+      "Carrera": "Industrial",
+      "Password": "hDlPLF"
+    },
+    {
+      "Carnet": 201219679,
+      "Nombre": "Penelope",
+      "Apellido": "Cadden",
+      "Carrera": "Industrial",
+      "Password": "XFkNUh"
+    },
+    {
+      "Carnet": 201304680,
+      "Nombre": "Bendite",
+      "Apellido": "Fairbeard",
+      "Carrera": "Industrial",
+      "Password": "E9Ij1i"
+    },
+    {
+      "Carnet": 201304681,
+      "Nombre": "Luther",
+      "Apellido": "Garret",
+      "Carrera": "Industrial",
+      "Password": "KwFAJHD4Tl"
+    },
+    {
+      "Carnet": 201304682,
+      "Nombre": "Natal",
+      "Apellido": "Verrills",
+      "Carrera": "Industrial",
+      "Password": "ACKgGTQ"
+    },
+    {
+      "Carnet": 201304683,
+      "Nombre": "Tammy",
+      "Apellido": "Bankhurst",
+      "Carrera": "Industrial",
+      "Password": "E8fIKnA"
+    },
+    {
+      "Carnet": 201304684,
+      "Nombre": "Olag",
+      "Apellido": "Loos",
+      "Carrera": "Industrial",
+      "Password": "fYR8rtO"
+    },
+    {
+      "Carnet": 201600285,
+      "Nombre": "Chariot",
+      "Apellido": "Lambol",
+      "Carrera": "Industrial",
+      "Password": "s7eR0BPBZds"
+    },
+    {
+      "Carnet": 201600286,
+      "Nombre": "Erinn",
+      "Apellido": "Earney",
+      "Carrera": "Industrial",
+      "Password": "jZmYlfIHdxvy"
+    },
+    {
+      "Carnet": 201600287,
+      "Nombre": "Celeste",
+      "Apellido": "Ganders",
+      "Carrera": "Industrial",
+      "Password": "zlZtT3Vgk9d"
+    },
+    {
+      "Carnet": 201600288,
+      "Nombre": "Cecil",
+      "Apellido": "Gunson",
+      "Carrera": "Industrial",
+      "Password": "V7Isfl"
+    },
+    {
+      "Carnet": 201600289,
+      "Nombre": "Bevan",
+      "Apellido": "Whitesel",
+      "Carrera": "Industrial",
+      "Password": "2jVCU8b1KM"
+    },
+    {
+      "Carnet": 201690060,
+      "Nombre": "Corrina",
+      "Apellido": "Woodnutt",
+      "Carrera": "Industrial",
+      "Password": "34GAHoKz"
+    },
+    {
+      "Carnet": 201691060,
+      "Nombre": "Anne-corinne",
+      "Apellido": "Greenroa",
+      "Carrera": "Industrial",
+      "Password": "cNKvhYYc"
+    },
+    {
+      "Carnet": 201692060,
+      "Nombre": "Florie",
+      "Apellido": "Becerra",
+      "Carrera": "Industrial",
+      "Password": "aS0JcSvnOp"
+    },
+    {
+      "Carnet": 201693060,
+      "Nombre": "Leese",
+      "Apellido": "Lamboll",
+      "Carrera": "Industrial",
+      "Password": "zi4VIAjLUm1A"
+    },
+    {
+      "Carnet": 201694060,
+      "Nombre": "Averill",
+      "Apellido": "Gofton",
+      "Carrera": "Industrial",
+      "Password": "zl7qEZcW"
+    },
+    {
+      "Carnet": 201692353,
+      "Nombre": "Louise",
+      "Apellido": "Berling",
+      "Carrera": "Industrial",
+      "Password": "BNxKYBicrtfl"
+    },
+    {
+      "Carnet": 201696900,
+      "Nombre": "Brinn",
+      "Apellido": "Abry",
+      "Carrera": "Industrial",
+      "Password": "EcsDAZhbX"
+    },
+    {
+      "Carnet": 201900697,
+      "Nombre": "Kellen",
+      "Apellido": "Tiebe",
+      "Carrera": "Industrial",
+      "Password": "yTeCk5pK"
+    },
+    {
+      "Carnet": 201630098,
+      "Nombre": "Juanita",
+      "Apellido": "Keig",
+      "Carrera": "Industrial",
+      "Password": "TYhMCYnHDR"
+    },
+    {
+      "Carnet": 201300699,
+      "Nombre": "Abbie",
+      "Apellido": "Traher",
+      "Carrera": "Industrial",
+      "Password": "V55YLdkeVYbo"
+    }
+  ]
+}

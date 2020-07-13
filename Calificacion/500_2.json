@@ -1,0 +1,5002 @@
+[
+  {
+    "ISBN": 11584,
+    "Anio": 2001,
+    "Idioma": "Aleman",
+    "Titulo": "Letter to artists",
+    "Editorial": "Academia Gallega de Jurisprudencia y Legislacion",
+    "Autor": "ETAYO MIQUEO, JOSE JAVIER",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 11585,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Â¿QuE quiere decir gEnero? : en torno a un nuevo modo de hablar",
+    "Editorial": "ACADEMIA GIL",
+    "Autor": "ETIENNE BERUMEN, GUILLERMO",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 11586,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "El poder de la confianza : el beato Josemaria Escriva de Balaguer y las mujeres",
+    "Editorial": "Academia Guatemalteca de la Lengua",
+    "Autor": "ETTINGER, JAN VAN",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13195,
+    "Anio": 1963,
+    "Idioma": "Ruso",
+    "Titulo": "Apuntes del primer curso de fisica (mecanica)",
+    "Editorial": "AECI",
+    "Autor": "ETTINGER, KARL E",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13196,
+    "Anio": 1970,
+    "Idioma": "Mandarin",
+    "Titulo": "Mecanica de los fluidos",
+    "Editorial": "AECID",
+    "Autor": "ETXEBERRIA, XABIER",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13197,
+    "Anio": 1975,
+    "Idioma": "Ingles",
+    "Titulo": "Fluid mechanics",
+    "Editorial": "AEDOS",
+    "Autor": "ETZEL, MICHAEL J",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13199,
+    "Anio": 1968,
+    "Idioma": "Espaniol",
+    "Titulo": "Fundamentals of college chemistry",
+    "Editorial": "AEJMC",
+    "Autor": "ETZIONI, AMITAI",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13201,
+    "Anio": 1966,
+    "Idioma": "Espaniol",
+    "Titulo": "Fisica general",
+    "Editorial": "AENOR",
+    "Autor": "EUCKEN, RUDOLF CHRISTOPH",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13202,
+    "Anio": 1965,
+    "Idioma": "Ruso",
+    "Titulo": "Calculus with analytic geometry",
+    "Editorial": "AFANES",
+    "Autor": "EUCKEN, WALTER",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13203,
+    "Anio": 1963,
+    "Idioma": "Espaniol",
+    "Titulo": "Fisica",
+    "Editorial": "AFHA",
+    "Autor": "EUGUI, JULIO",
+    "Edicion": 3,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 13205,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Cuadernos UPSA-GUATE",
+    "Editorial": "AFHA Internacional",
+    "Autor": "EULENBERG, MILTON D",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13210,
+    "Anio": 1971,
+    "Idioma": "Espaniol",
+    "Titulo": "Linear algebra with applications; including linear programming",
+    "Editorial": "Afinidades",
+    "Autor": "EUN GRUPO",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13211,
+    "Anio": 1972,
+    "Idioma": "Espaniol",
+    "Titulo": "The Calculus with analytic geometry",
+    "Editorial": "AFRODISIO AGUADO",
+    "Autor": "EUN, CHEOL S",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13212,
+    "Anio": 1965,
+    "Idioma": "Espaniol",
+    "Titulo": "Fisica moderna",
+    "Editorial": "AFS",
+    "Autor": "EURIPIDES",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13216,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Teoria y problemas de resistencia de materiales",
+    "Editorial": "Agata",
+    "Autor": "EURIPIDES",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13217,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Teoria y problemas circuitos elEctricos",
+    "Editorial": "AGAYC",
+    "Autor": "EUROPEAN COMMISSION HUMANITARIAN AID OFFICE, ECHO",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13222,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Academia Guatemalteca de la Lengua",
+    "Editorial": "Agencia Alemana de Energia",
+    "Autor": "EVA AREVALO, EMILIO ALEJANDRO",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13223,
+    "Anio": 1986,
+    "Idioma": "Aleman",
+    "Titulo": "Camino de servidumbre",
+    "Editorial": "Agencia de Comunicacion Internacional de los Estados Unidos de AmErica",
+    "Autor": "EVANS ESTRADA, GABRIEL",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13224,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Curso basico de calculo y disenio de estructuras metalicas en ordenador; adaptado al Eurocodigo 3 y al LRFD (AISC)",
+    "Editorial": "Agencia EFE",
+    "Autor": "EVANS, ALAN",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13226,
+    "Anio": 2000,
+    "Idioma": "Ingles",
+    "Titulo": "Curso basico de calculo y disenio de estructuras metalicas en ordenador; adaptado al Eurocodigo 3 y al LRFD (AISC)",
+    "Editorial": "Agencia Espaniola de Cooperacion Internacional para el Desarrollo, AECID",
+    "Autor": "EVANS, BILL",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13227,
+    "Anio": 1996,
+    "Idioma": "Frances",
+    "Titulo": "Fisica",
+    "Editorial": "AGENCIA ESPANIOLA DE COOPERACION INTERNACIONAL, AECI",
+    "Autor": "EVANS, DUNCAN",
+    "Edicion": 4,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13228,
+    "Anio": 1998,
+    "Idioma": "Frances",
+    "Titulo": "Barcelona 4 visions",
+    "Editorial": "Agencia Internacional de Libreria",
+    "Autor": "EVANS, EDWIN",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13232,
+    "Anio": 1946,
+    "Idioma": "Espaniol",
+    "Titulo": "El evangelio, el catecismo y la historia",
+    "Editorial": "Agencia para la Planeacion del Desarrollo Urbano de Nuevo Leon",
+    "Autor": "EVANS, G. BLAKEMORE",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13233,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "La Santidad sacerdotal en la vida del Beato Mons. Josemaria Escriva de Balaguer",
+    "Editorial": "AGENGIA ESPANIOLA DE COOPERACION INTERNACIONAL / OIT",
+    "Autor": "EVANS, IVOR H",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13234,
+    "Anio": 1963,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduccion al calculo diferencial e integral",
+    "Editorial": "AGEXPRONT",
+    "Autor": "EVANS, JAMES R",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13235,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Chemical principles",
+    "Editorial": "Agfa-Gevaert",
+    "Autor": "EVANS, JEFFREY E",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13236,
+    "Anio": 1971,
+    "Idioma": "Espaniol",
+    "Titulo": "Circuits, devices, and systems : a first course in electrical engineering",
+    "Editorial": "Agora",
+    "Autor": "EVANS, JOEL R",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13237,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "La rentabilidad social de la investigacion agricola gubernamental en granos basicos : el caso del ICTA en maiz y arroz en guatemala, 1973-1990",
+    "Editorial": "Agrifor Consult",
+    "Autor": "EVANS, JOHN SIDNEY",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13239,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Informe del secretario general de las Naciones Unidas sobre la verificacion de los acuerdos de paz de Guatemala (1 de julio 2000 â€“ 31 de marzo del 2001)",
+    "Editorial": "AGUADO",
+    "Autor": "EVANS-PRITCHARD, EDWARD EVAN",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13241,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Principles of hospitality law / Michael Boella, Alan Pannet.",
+    "Editorial": "20th Century Fox",
+    "Autor": "EVELEGH, TESSA",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13243,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Housekeeping management",
+    "Editorial": "3M Espania",
+    "Autor": "EVELY, LOUIS",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13254,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Food and beverage management",
+    "Editorial": "3R EDITORES",
+    "Autor": "EVERETT, JUDITH C",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13255,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Managing for quality in the hospitality industry",
+    "Editorial": "A Lessons in Leadership Publications",
+    "Autor": "EVRAIFF, WILLIAM",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13257,
+    "Anio": 1994,
+    "Idioma": "Aleman",
+    "Titulo": "Food and beverage service",
+    "Editorial": "A New Directions Book",
+    "Autor": "EWALD, ROBERT HAROLD",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13263,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Peace and development",
+    "Editorial": "A Plume Book",
+    "Autor": "EWEN, DAVID",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13264,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "Advances in the compliance of the commitments derived from the peace agreements",
+    "Editorial": "A&E Home Video",
+    "Autor": "EWERS, GILLIAN",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13265,
+    "Anio": 2000,
+    "Idioma": "Frances",
+    "Titulo": "Prostitucion y pornografia infantil : !un secreto a voces!",
+    "Editorial": "A&E Mundo",
+    "Autor": "EWING, ELIZABETH",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13266,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Poverty reduction strategy",
+    "Editorial": "A&E TELEVISION NETWORK",
+    "Autor": "EXHIBITION THE VOYAGE OF A CLOTH",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13267,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Estrategia de reduccion de la pobreza",
+    "Editorial": "A. & C. Black",
+    "Autor": "EXNER, FRANZ",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13268,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "La tEcnica como recurso de la creatividad grafica",
+    "Editorial": "A. A. Knopf",
+    "Autor": "EXPOSITO Y CASASUS, JUAN JOSE",
+    "Edicion": 10,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13269,
+    "Anio": 1953,
+    "Idioma": "Espaniol",
+    "Titulo": "Los Filosofos griegos; de Tales a Aristoteles",
+    "Editorial": "A. AL. BURT",
+    "Autor": "EYMERY, GERARD",
+    "Edicion": 9,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13270,
+    "Anio": 1970,
+    "Idioma": "Espaniol",
+    "Titulo": "Crecimiento y cambio de la Iglesia Catolica guatemalteca 1944-1966",
+    "Editorial": "A. Pedone",
+    "Autor": "EYRE, LINDA",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13273,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Rusticatio mexicana",
+    "Editorial": "A. Taffin-Lefort",
+    "Autor": "EYRE, RICHARD",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13275,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Los Mayas del siglo XVI",
+    "Editorial": "A. W. Sijthoff",
+    "Autor": "EZELL, HAZEL F",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13278,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "La Educacion superior en el siglo XXI vision et accion, la promocion de una cultura de paz",
+    "Editorial": "A. W. Sythoff",
+    "Autor": "EZQUERRA REVILLA, IGNACIO",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13279,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "La educacion superior en el siglo XXI vision et accion; mujeres y educacion superior : cuestiones y perspectivas",
+    "Editorial": "A.A.",
+    "Autor": "FABBRI, DINO",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13281,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "La educacion superior en el siglo XXI vision et accion; La formacion del personal de la educacion superior : una mision permanente",
+    "Editorial": "A.C.A.M.",
+    "Autor": "FABBRI, PAOLO",
+    "Edicion": 5,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13282,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "La educacion superior en el siglo XXI vision y accion",
+    "Editorial": "A.C.M.E.",
+    "Autor": "FABELA, ISIDRO",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13283,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Memoria del simposio internacional sobre derecho, justicia agraria y ambiental para la paz",
+    "Editorial": "A.D.A. Edita",
+    "Autor": "FABER, FREDERICH WILLIAM",
+    "Edicion": 8,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13286,
+    "Anio": 2000,
+    "Idioma": "Ingles",
+    "Titulo": "TEcnicas culinarias (dulces)",
+    "Editorial": "A.I.D.I.P.E.",
+    "Autor": "FABIAN CAPARROS, EDUARDO A",
+    "Edicion": 8,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 13288,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Curso basico de formacion politica: v 1: Etica social y politica",
+    "Editorial": "A.L. Mateos",
+    "Autor": "FABIAN CASTELLANOS, EDDA ZULEMA",
+    "Edicion": 8,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13290,
+    "Anio": 1990,
+    "Idioma": "Frances",
+    "Titulo": "Rationality in action: contemporary approaches",
+    "Editorial": "A.L.A.",
+    "Autor": "FABIAN CENICEROS, EVA CRISTINA",
+    "Edicion": 7,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13292,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Tiempo de caminar : semblanza de Mons. Josemaria Escriva de Balaguer",
+    "Editorial": "A.T.E.",
+    "Autor": "FABIAN, MONROE H",
+    "Edicion": 6,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13301,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "La Revolucion del servicio: lo unico que cuenta es un cliente satisfecho",
+    "Editorial": "AATCC",
+    "Autor": "FABOZZI, FRANK J",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13302,
+    "Anio": 1998,
+    "Idioma": "Aleman",
+    "Titulo": "Front office procedures",
+    "Editorial": "AB Allhems Tryckerier",
+    "Autor": "FABRA, NILO MARIA",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13304,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Training for the hospital industry",
+    "Editorial": "Abaco",
+    "Autor": "FABREGAT, LLUIS",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13305,
+    "Anio": 1995,
+    "Idioma": "Ingles",
+    "Titulo": "Understanding hospitality law",
+    "Editorial": "Abaco de Rodolfo Depalma",
+    "Autor": "FABREGUES, JEAN DE",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13307,
+    "Anio": 1995,
+    "Idioma": "Frances",
+    "Titulo": "Hospitality supervision",
+    "Editorial": "Abacus",
+    "Autor": "FABRICANT, LUIS",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13310,
+    "Anio": 1994,
+    "Idioma": "Frances",
+    "Titulo": "El Popol Vuh",
+    "Editorial": "Abada",
+    "Autor": "FABRO, CORNELIO",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13311,
+    "Anio": 1952,
+    "Idioma": "Espaniol",
+    "Titulo": "AritmEtica elemental",
+    "Editorial": "ABBEVILLE PRESS",
+    "Autor": "FABRY, JOSEPH",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13312,
+    "Anio": 1945,
+    "Idioma": "Espaniol",
+    "Titulo": "La educacion del hombre segun Platon",
+    "Editorial": "Abbeydale Press",
+    "Autor": "FABRY, JOSEPH B",
+    "Edicion": 2,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13331,
+    "Anio": 1978,
+    "Idioma": "Espaniol",
+    "Titulo": "Cuestiones y respuestas VI (esquemas de documentacion doctrinal)",
+    "Editorial": "Abbott",
+    "Autor": "FACK, FRITZ ULLRICH",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13332,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "Panorama de la educacion espaniola",
+    "Editorial": "ABC",
+    "Autor": "FACULTAD DE CIENCIAS JURIDICAS Y SOCIALES DE GUATEMALA",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13334,
+    "Anio": 1999,
+    "Idioma": "Ruso",
+    "Titulo": "Hablar con Dios, v 2: Cuaresma. Semana Santa. Pascua",
+    "Editorial": "Abelard-Schuman",
+    "Autor": "FACULTAD DE INGENIERIA. UNIVERSIDAD DE SAN CARLOS DE GUATEMALA",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13336,
+    "Anio": 1987,
+    "Idioma": "Mandarin",
+    "Titulo": "SPSS Enfoque aplicado",
+    "Editorial": "Abeledo Perrot",
+    "Autor": "FACULTAD LATINOAMERICANA DE CIENCIAS SOCIALES, FLACSO",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13337,
+    "Anio": 1945,
+    "Idioma": "Ingles",
+    "Titulo": "Cuentos [y] Dos Cuentos",
+    "Editorial": "Abeledo-Perrot",
+    "Autor": "FADUL VEGA, SAMUEL",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13338,
+    "Anio": 1945,
+    "Idioma": "Espaniol",
+    "Titulo": "Dos Cuentos [y] Cuentos",
+    "Editorial": "AbeledoPerrot",
+    "Autor": "FAERNA GARCIA-BERMEJO, JOSE MARIA",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13343,
+    "Anio": 1983,
+    "Idioma": "Ruso",
+    "Titulo": "Visita 'Ad Limina Apostolorum' de los obispos de la Provincia Eclesiastica de Guatemala, Noviembre de 1983",
+    "Editorial": "Abrams Comicarts",
+    "Autor": "FAGAN, LESLIE T",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13345,
+    "Anio": 1974,
+    "Idioma": "Mandarin",
+    "Titulo": "Compendio de didactica general",
+    "Editorial": "Noviembre",
+    "Autor": "FAGEN, RICHARD R",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13346,
+    "Anio": 1948,
+    "Idioma": "Ingles",
+    "Titulo": "There is a tide",
+    "Editorial": "AC",
+    "Autor": "FAHEY, DARYL R",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13347,
+    "Anio": 1975,
+    "Idioma": "Espaniol",
+    "Titulo": "Best sellers",
+    "Editorial": "Academia Antioquenia de Historia",
+    "Autor": "FAHEY, LIAM",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13348,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "El educador y el mEtodo de los tests",
+    "Editorial": "Academia Boyacense de Historia",
+    "Autor": "FÃ„HRMANN, WILLI",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13353,
+    "Anio": 1993,
+    "Idioma": "Ruso",
+    "Titulo": "Ventana al mundo",
+    "Editorial": "Academia Colombiana de Historia",
+    "Autor": "FAHSEN ORTEGA, FEDERICO",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13354,
+    "Anio": 1999,
+    "Idioma": "Mandarin",
+    "Titulo": "Universidad de La Sabana : 20 anios",
+    "Editorial": "Academia Colombiana de Jurisprudencia",
+    "Autor": "FAHSEN PEREZCANTO, STEPHANIE",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13356,
+    "Anio": 1994,
+    "Idioma": "Ingles",
+    "Titulo": "The National parks of Canada",
+    "Editorial": "Academia de CentroamErica",
+    "Autor": "FAHY, JAMES",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13359,
+    "Anio": 1965,
+    "Idioma": "Espaniol",
+    "Titulo": "Cantera bruta; antologia",
+    "Editorial": "Academia de Diplomacia de Chile",
+    "Autor": "FAIERS, JULIA",
+    "Edicion": 4,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13360,
+    "Anio": 1989,
+    "Idioma": "Espaniol",
+    "Titulo": "Idioma quichE language: inglEs/quichE/espaniol",
+    "Editorial": "Academia de Geografia e Historia de Costa Rica",
+    "Autor": "FAILLACE RUANO, CINZIA ZURINA",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13361,
+    "Anio": 1980,
+    "Idioma": "Ruso",
+    "Titulo": "Gramatica kekchi",
+    "Editorial": "Academia de Geografia e Historia de Guatemala, AGHG",
+    "Autor": "FAINE CASAS, ISIDRE",
+    "Edicion": 4,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13362,
+    "Anio": 2001,
+    "Idioma": "Mandarin",
+    "Titulo": "Perfil de los pueblos : Maya, Garifuna y Xinca de Guatemala",
+    "Editorial": "Academia de Guerra Naval",
+    "Autor": "FAIR, GORDON MASKEW",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13364,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "Historia del cafE de Guatemala / Regina Wagner.",
+    "Editorial": "Academia Gallega de Jurisprudencia y Legislacion",
+    "Autor": "FAIR, HUGO",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13365,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Guatemala 1944 : crisis y revolucion; ocaso y quiebra de una forma estatal",
+    "Editorial": "ACADEMIA GIL",
+    "Autor": "FAIR, RAY C",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13366,
+    "Anio": 1979,
+    "Idioma": "Espaniol",
+    "Titulo": "Micro-theory and economic choices",
+    "Editorial": "Academia Guatemalteca de la Lengua",
+    "Autor": "FAIRBANKS, ARTHUR",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13368,
+    "Anio": 2002,
+    "Idioma": "Ruso",
+    "Titulo": "Â¿La mujer o el segundo sexo?: dos propuestas de educacion segun Edith Stein y Simone de Beauvoir",
+    "Editorial": "Academia Iberoamericana de Poesia",
+    "Autor": "FAIRES, J. DOUGLAS",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13369,
+    "Anio": 2001,
+    "Idioma": "Mandarin",
+    "Titulo": "IPPF : la multinacional de la muerte. GEnero y derechos humanos",
+    "Editorial": "Academia MExicana de Jurisprudencia y Legislacion, Correspondiente de la de Espania",
+    "Autor": "FAIRFAX, WILLIAM",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13370,
+    "Anio": 1986,
+    "Idioma": "Ingles",
+    "Titulo": "Principles of marketing",
+    "Editorial": "Academia Nacional de la Historia",
+    "Autor": "FAIRWEATHER, LESLIE",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13373,
+    "Anio": 1994,
+    "Idioma": "Espaniol",
+    "Titulo": "Business statistics : understanding populations and processes",
+    "Editorial": "Academias Pitman",
+    "Autor": "FAIRWEATHER, W.L.B",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13374,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Production and operations management : manufacturing and services",
+    "Editorial": "Academic Press",
+    "Autor": "FAITANIN, PAULO",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13375,
+    "Anio": 1999,
+    "Idioma": "Ruso",
+    "Titulo": "La Hija del capitan / A. S. Pushkin ; prologo de Guillermo Suazo Pascual.",
+    "Editorial": "AcadEmica Centroamericana",
+    "Autor": "FAJARDO CORDON, GABRIELA MARIA",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13378,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduction to mathematical programming applications and algorithms",
+    "Editorial": "AcadEmicas",
+    "Autor": "FAJARDO GARCIA-SALAS, ANA SOFIA",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13388,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Business Statistics, a Decision-Making Approach",
+    "Editorial": "ACADEMY",
+    "Autor": "FAJARDO GODINEZ, JULIO CESAR",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 13389,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Business Statistics, a Decision-Making Approach",
+    "Editorial": "Academy of American Franciscan History",
+    "Autor": "FAJNZYLBER, PABLO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13390,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "A first course in business statistics: annotated instructor's edition",
+    "Editorial": "Acali",
+    "Autor": "FALASCA, STEFANIA",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13391,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "A first course in business statistics: annotated instructor's edition",
+    "Editorial": "Acantilado",
+    "Autor": "FALCHETTI, OSCAR",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13392,
+    "Anio": 1994,
+    "Idioma": "Espaniol",
+    "Titulo": "Statistics for business & economics",
+    "Editorial": "ACANTO",
+    "Autor": "FALCON, ANTONI",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13393,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Vivir : una decision",
+    "Editorial": "ACC Art Books",
+    "Autor": "FALGAS, JAIME",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13395,
+    "Anio": 1980,
+    "Idioma": "Espaniol",
+    "Titulo": "How to do your own wood finishing",
+    "Editorial": "ACCE",
+    "Autor": "FALGUERA LOPEZ, JOSE LUIS",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13396,
+    "Anio": 1984,
+    "Idioma": "Aleman",
+    "Titulo": "La Papisa",
+    "Editorial": "Access Press",
+    "Autor": "FALGUERAS SALINAS, IGNACIO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13397,
+    "Anio": 1963,
+    "Idioma": "Espaniol",
+    "Titulo": "The Spy who came in from the cold / John Le CarrE.",
+    "Editorial": "Accion Catolica Guatemalteca",
+    "Autor": "FALINO, JAMES",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13398,
+    "Anio": 1997,
+    "Idioma": "Ingles",
+    "Titulo": "Mundo, vocacion cristiana y contemplacion en la Teologia Mistica y en la predicacion al pueblo de Jean Gerson (1363-1429)",
+    "Editorial": "Accion Ciudadana",
+    "Autor": "FALKNER, MIKE",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13399,
+    "Anio": 1994,
+    "Idioma": "Frances",
+    "Titulo": "Competing for the future / Gary Hamel, C. K. Prahalad.",
+    "Editorial": "Accion Democratica Boliviana",
+    "Autor": "FALL MEETING",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13400,
+    "Anio": 1964,
+    "Idioma": "Frances",
+    "Titulo": "Los Grandes problemas de la politica",
+    "Editorial": "Accion Social Empresarial, ASE",
+    "Autor": "FALL MEETING",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13401,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "La excelencia en el servicio",
+    "Editorial": "ACE Books",
+    "Autor": "FALL MEETING ACS",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13416,
+    "Anio": 1989,
+    "Idioma": "Espaniol",
+    "Titulo": "Project management: a managerial approach",
+    "Editorial": "Acento",
+    "Autor": "FALLA BIANCHI DE PINTOR, ANNA LORENA",
+    "Edicion": 10,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13417,
+    "Anio": 1988,
+    "Idioma": "Espaniol",
+    "Titulo": "Marketing management: analysis, planning, implementation, and control",
+    "Editorial": "ACEPRENSA",
+    "Autor": "FALLA BIANCHI, CLARA HILDA",
+    "Edicion": 9,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13418,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduction to mathematical programming",
+    "Editorial": "ACER",
+    "Autor": "FALLA GONZALEZ, CARLOS MANUEL",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13419,
+    "Anio": 1989,
+    "Idioma": "Espaniol",
+    "Titulo": "Law, business, and society",
+    "Editorial": "ACERVO",
+    "Autor": "FALLA JIMENEZ, JOSE ORLANDO",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13420,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Iniciacion a la metafisica",
+    "Editorial": "Acervo Cultural",
+    "Autor": "FALLA SANCHEZ, RICARDO",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13421,
+    "Anio": 1966,
+    "Idioma": "Espaniol",
+    "Titulo": "Como tratar a ninios y adolescentes",
+    "Editorial": "Achenbach Foundation for Graphic Arts",
+    "Autor": "FALLA, ERNESTO",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13423,
+    "Anio": 1928,
+    "Idioma": "Espaniol",
+    "Titulo": "Au pays du Nep et de la TchEka; dans les prisons de l'U.R.S.S.",
+    "Editorial": "ACME",
+    "Autor": "FALLA, JUAN JOSE",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13425,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Juan de Dios Mayorga y Lanuza, procer y martir de la independencia de Centro AmErica",
+    "Editorial": "ACNUR",
+    "Autor": "FALLA, SALVADOR",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13426,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Teculutan historico",
+    "Editorial": "ACOME",
+    "Autor": "FALLA, SALVADOR",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13427,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "In der Schule des Schmerzes",
+    "Editorial": "ACOUSTIC COMMUNICATIONS GROUP",
+    "Autor": "FALLACI, ORIANA",
+    "Edicion": 8,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13428,
+    "Anio": 2002,
+    "Idioma": "Aleman",
+    "Titulo": "Analisis del concepto de derecho",
+    "Editorial": "ACPD",
+    "Autor": "FALLAS SIBAJA, CARLOS LUIS",
+    "Edicion": 8,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13429,
+    "Anio": 1854,
+    "Idioma": "Espaniol",
+    "Titulo": "Estudios filosoficos sobre el cristianismo, tomo 1 / por Augusto Nicolas",
+    "Editorial": "ACRIBIA",
+    "Autor": "FALS BORDA, ORLANDO",
+    "Edicion": 8,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13430,
+    "Anio": 1986,
+    "Idioma": "Ingles",
+    "Titulo": "Poesia tradicional de los judios espanioles",
+    "Editorial": "Acropolis",
+    "Autor": "FAMILIA ZEA BATRES",
+    "Edicion": 7,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13431,
+    "Anio": 1979,
+    "Idioma": "Frances",
+    "Titulo": "Home and workshop guide to glues and adhesives",
+    "Editorial": "Actar",
+    "Autor": "FAMILY OF THE AMERICAS FOUNDATION",
+    "Edicion": 6,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13433,
+    "Anio": 1988,
+    "Idioma": "Espaniol",
+    "Titulo": "Corporate Finance",
+    "Editorial": "Actualidad Economica",
+    "Autor": "FAMILY OF THE AMERICAS FOUNDATIONS",
+    "Edicion": 5,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13434,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Manual de bioEtica",
+    "Editorial": "Acuity Productions",
+    "Autor": "FANELLI, GIOVANNI",
+    "Edicion": 4,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13435,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Leyendas de Guatemala / Miguel Angel Asturias.",
+    "Editorial": "Ad Qualite",
+    "Autor": "FANFANI, AMINTORE",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13436,
+    "Anio": 1949,
+    "Idioma": "Espaniol",
+    "Titulo": "Homonomia (la nueva ciencia cosmica)",
+    "Editorial": "Ad-Hoc",
+    "Autor": "FANJUL, OSCAR",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13437,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Historia de la Universidad de San Carlos de Guatemala; Epoca republicana : (1821-1994)",
+    "Editorial": "ADAE",
+    "Autor": "FANON, FRANTZ",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13441,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "Catecismo constitucional",
+    "Editorial": "Adams",
+    "Autor": "FARACE, JOE",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13446,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Dinero y banca",
+    "Editorial": "Addison Wesley",
+    "Autor": "FARADAY, MICHAEL",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13448,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduction to mathematical programming",
+    "Editorial": "ADDISON WESLEY LONGMAN",
+    "Autor": "FARAUDO GENER, XAVIER",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13449,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Serie obras selectas del derecho procesal, v 1 Nocion de acto jurisdiccional",
+    "Editorial": "ADDISON WESLEY-LONGMAN",
+    "Autor": "FARB, PETER",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13450,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Serie obras selectas del derecho procesal, v 2: Naturaleza de la cosa juzgada",
+    "Editorial": "ADDISON-WESLEY",
+    "Autor": "FARBER, JERRY",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13461,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Vulnerabilidad de la seguridad hotelera debido a la alta rotacion de personal",
+    "Editorial": "ADDISON-WESLEY IBEROAMERICANA",
+    "Autor": "FARBER, MARIO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13462,
+    "Anio": 2002,
+    "Idioma": "Aleman",
+    "Titulo": "Estudio de mercado para profesionales de la industria hotelera",
+    "Editorial": "Adelphi",
+    "Autor": "FARBER, RAYMOND G",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13463,
+    "Anio": 1985,
+    "Idioma": "Espaniol",
+    "Titulo": "Keynes",
+    "Editorial": "ADEMATE",
+    "Autor": "FARDO, STEPEHEN W",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13464,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "Estudio de factibilidad de residencias para personas de la tercera edad en Guatemala",
+    "Editorial": "ADESCA",
+    "Autor": "FARE, MARIO",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 13465,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "Restauracion y rehabilitacion del edificio de la Casa del Ninio No. 1",
+    "Editorial": "ADESDEG",
+    "Autor": "FARFAN CONTRERAS, RITA MARLENY",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13467,
+    "Anio": 2000,
+    "Idioma": "Frances",
+    "Titulo": "Centro cultural en Hacienda JosE Milla y Vidaurre; Quezada, Jutiapa",
+    "Editorial": "ADEU",
+    "Autor": "FARFAN PAZ, PAOLA MISHELLE",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13471,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Casa de la cultura en Salama, Baja Verapaz",
+    "Editorial": "Administracion Libreria de Victoriano Suarez",
+    "Autor": "FARFAN ROSALES, JORGE FERNANDO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13472,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Centro de capacitacion para personas con Sindrome Down",
+    "Editorial": "Adobe Press",
+    "Autor": "FARFAN, OSCAR MANOLO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13473,
+    "Anio": 2001,
+    "Idioma": "Aleman",
+    "Titulo": "Criterios de disenio para un parque de rehabilitacion y recreacion, enfocado al minusvalido",
+    "Editorial": "ADPLEX AmEricas",
+    "Autor": "FARGE, OLIVER LA",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13483,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "El derecho del trabajo en la globalizacion de la economia",
+    "Editorial": "AECI",
+    "Autor": "FARHOOMAND, ALI",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13485,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "La Universidad de la Companiia de Jesus a la luz del carisma ignaciano",
+    "Editorial": "AECID",
+    "Autor": "FARIA, A.J",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13486,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Carta democratica interamericana",
+    "Editorial": "AEDOS",
+    "Autor": "FARIA, J. RAFAEL",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13487,
+    "Anio": 1985,
+    "Idioma": "Frances",
+    "Titulo": "Carlos MErida, precursor del arte contemporaneo latinoamericano",
+    "Editorial": "AEJMC",
+    "Autor": "FARIAS GALIANO, VICTOR MANUEL",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13488,
+    "Anio": 1970,
+    "Idioma": "Espaniol",
+    "Titulo": "Sistema de estructuras",
+    "Editorial": "AENOR",
+    "Autor": "FARIAS RODIL, SOFIA",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13506,
+    "Anio": 1962,
+    "Idioma": "Espaniol",
+    "Titulo": "La Evolucion de la humanidad, v 142: El periodico: origenes, evolucion y funcion de la prensa periodica / Georges Weill ; traduccion al espaniol por Virgilio Belendez.",
+    "Editorial": "AFANES",
+    "Autor": "FARIAS, JAVIER",
+    "Edicion": 4,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13507,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "La evolucion de la humanidad; v 44: Jesus",
+    "Editorial": "AFHA",
+    "Autor": "FARIAS, PRISCILA L",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13508,
+    "Anio": 1959,
+    "Idioma": "Espaniol",
+    "Titulo": "La evolucion de la humanidad, v 43: El mundo judio hacia los tiempos de Jesus",
+    "Editorial": "AFHA Internacional",
+    "Autor": "FARINA, MARIO V",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13511,
+    "Anio": 1961,
+    "Idioma": "Ruso",
+    "Titulo": "La Evolucion de la humanidad, v 45: Cristo",
+    "Editorial": "Afinidades",
+    "Autor": "FARINA, RAFAEL",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13532,
+    "Anio": 1955,
+    "Idioma": "Mandarin",
+    "Titulo": "La evolucion de la humanidad, v 1 La tierra antes de la historia; los origenes de la vida y del hombre",
+    "Editorial": "AFRODISIO AGUADO",
+    "Autor": "FARMER, GENE",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13533,
+    "Anio": 1960,
+    "Idioma": "Ingles",
+    "Titulo": "La evolucion de la humanidad, v 12: El genio griego en la religion",
+    "Editorial": "AFS",
+    "Autor": "FARMER, LAURENCE",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13534,
+    "Anio": 1959,
+    "Idioma": "Espaniol",
+    "Titulo": "La evolucion de la humanidad, v 29 La civilizacion china; la vida publica y la vida privada",
+    "Editorial": "Agata",
+    "Autor": "FARNSWORTH, E. ALLAN",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13537,
+    "Anio": 1956,
+    "Idioma": "Espaniol",
+    "Titulo": "La Evolucion de la humanidad, v 41: Israel: desde los origenes hasta mediados del siglo VIII (a. de C.)",
+    "Editorial": "AGAYC",
+    "Autor": "FARRAN, ANDREU",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13540,
+    "Anio": 1952,
+    "Idioma": "Ruso",
+    "Titulo": "Exequias de la lengua castellana",
+    "Editorial": "Agencia Alemana de Energia",
+    "Autor": "FARRAR, GILBERT P",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13541,
+    "Anio": 1949,
+    "Idioma": "Mandarin",
+    "Titulo": "La Ruta del doctor Shannon / A. J. Cronin.",
+    "Editorial": "Agencia de Comunicacion Internacional de los Estados Unidos de AmErica",
+    "Autor": "FARRE, LUIS",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13545,
+    "Anio": 1975,
+    "Idioma": "Ingles",
+    "Titulo": "El comedor; consejos practicos y ejemplos de instalacion",
+    "Editorial": "Agencia EFE",
+    "Autor": "FARRELL, WALTER",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13546,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Kitchens; the best of fine homebuilding",
+    "Editorial": "Agencia Espaniola de Cooperacion Internacional para el Desarrollo, AECID",
+    "Autor": "FARRINGTON, BENJAMIN",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13547,
+    "Anio": 1971,
+    "Idioma": "Espaniol",
+    "Titulo": "Lazarillo de Tormes. El diablo cojuelo",
+    "Editorial": "AGENCIA ESPANIOLA DE COOPERACION INTERNACIONAL, AECI",
+    "Autor": "FASAL, JOHN H",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13548,
+    "Anio": 1945,
+    "Idioma": "Ruso",
+    "Titulo": "Napoleon",
+    "Editorial": "Agencia Internacional de Libreria",
+    "Autor": "FASHION ON STAGE",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13549,
+    "Anio": 1998,
+    "Idioma": "Mandarin",
+    "Titulo": "Introduccion al codigo procesal penal",
+    "Editorial": "Agencia para la Planeacion del Desarrollo Urbano de Nuevo Leon",
+    "Autor": "FAST, HOWARD MELVIN",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13550,
+    "Anio": 1996,
+    "Idioma": "Ingles",
+    "Titulo": "Future libraries, future catalogues",
+    "Editorial": "AGENGIA ESPANIOLA DE COOPERACION INTERNACIONAL / OIT",
+    "Autor": "FAT, CHOW YUN",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13551,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "La revalorizacion del art nouveau en Guatemala (un caso : la casa FEnix)",
+    "Editorial": "AGEXPRONT",
+    "Autor": "FATAS, GUILLERMO",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13552,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "Logica y nociones de teoria del conocimiento",
+    "Editorial": "Agfa-Gevaert",
+    "Autor": "FATONE, VICENTE",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13553,
+    "Anio": 1954,
+    "Idioma": "Ruso",
+    "Titulo": "The Ramayana",
+    "Editorial": "Agora",
+    "Autor": "FAUCHOIS, GEORGES",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13554,
+    "Anio": 1953,
+    "Idioma": "Mandarin",
+    "Titulo": "El problema del conocimiento en la filosofia y en la ciencia moderna 1 : El renacer del problema del conocimiento. El descubrimiento del concepto de la naturaleza. Los fundamentos del idealismo",
+    "Editorial": "Agrifor Consult",
+    "Autor": "FAULKNER, WILLIAM",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13555,
+    "Anio": 1967,
+    "Idioma": "Ingles",
+    "Titulo": "Introduccion a la filosofia de la educacion : analisis de las teorias modernas",
+    "Editorial": "AGUADO",
+    "Autor": "FAUNCE, SARAH",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13556,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "Cuentos de Belice",
+    "Editorial": "Aguila",
+    "Autor": "FAURE, EDGAR",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13557,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "Adolescencia",
+    "Editorial": "20th Century Fox",
+    "Autor": "FAURE, GABRIEL",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13559,
+    "Anio": 1960,
+    "Idioma": "Ruso",
+    "Titulo": "Chinto; o sea la historia de Jacinto Gorza Pinielas, contada por El mismo",
+    "Editorial": "3M Espania",
+    "Autor": "FAUS BELAU, ANGEL",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13563,
+    "Anio": 1944,
+    "Idioma": "Mandarin",
+    "Titulo": "Lincoln",
+    "Editorial": "3R EDITORES",
+    "Autor": "FAUSTLE, ALFRED",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13565,
+    "Anio": 1962,
+    "Idioma": "Espaniol",
+    "Titulo": "El trotamundos",
+    "Editorial": "A New Directions Book",
+    "Autor": "FAVERGER, G",
+    "Edicion": 10,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13566,
+    "Anio": 1978,
+    "Idioma": "Espaniol",
+    "Titulo": "El principe / Nicolas Maquiavelo.",
+    "Editorial": "A Plume Book",
+    "Autor": "FAW, TERRY",
+    "Edicion": 9,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13569,
+    "Anio": 1951,
+    "Idioma": "Ruso",
+    "Titulo": "El principe / Nicolas Maquiavelo ; comentarios Napoleon Bonaparte.",
+    "Editorial": "A&E Home Video",
+    "Autor": "FAY, BERNARD",
+    "Edicion": 5,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13570,
+    "Anio": 1957,
+    "Idioma": "Espaniol",
+    "Titulo": "Napoleon (pasion-grandeza-tragedia)",
+    "Editorial": "A&E Mundo",
+    "Autor": "FAY, MARIANNE",
+    "Edicion": 5,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13571,
+    "Anio": 1960,
+    "Idioma": "Espaniol",
+    "Titulo": "Doctor Zhivago",
+    "Editorial": "A&E TELEVISION NETWORK",
+    "Autor": "FAYET, MICHELLE",
+    "Edicion": 5,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 13572,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "A tale of two cities",
+    "Editorial": "A. & C. Black",
+    "Autor": "FAYOL, HENRI",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13574,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduccion al derecho",
+    "Editorial": "A. AL. BURT",
+    "Autor": "FAZIO FERNANDEZ, MARIANO",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13576,
+    "Anio": 1958,
+    "Idioma": "Espaniol",
+    "Titulo": "El vidrio en la construccion",
+    "Editorial": "A. Pedone",
+    "Autor": "FAZIO VENGOA, HUGO",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13577,
+    "Anio": 1968,
+    "Idioma": "Espaniol",
+    "Titulo": "Barandilla, rejas, cancelas de hierro",
+    "Editorial": "A. REDONDO",
+    "Autor": "FEA, UGO",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13578,
+    "Anio": 1967,
+    "Idioma": "Espaniol",
+    "Titulo": "Chimeneas y lares",
+    "Editorial": "A. Taffin-Lefort",
+    "Autor": "FEBRERO LORENZO, MARIA ANUNCIACION",
+    "Edicion": 8,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13579,
+    "Anio": 1965,
+    "Idioma": "Aleman",
+    "Titulo": "Cubiertas, tabiques de madera",
+    "Editorial": "A. W. Sijthoff",
+    "Autor": "FEBRERO, JOSEF",
+    "Edicion": 8,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13581,
+    "Anio": 1953,
+    "Idioma": "Espaniol",
+    "Titulo": "Antologia pedagogica de Platon",
+    "Editorial": "A. W. Sythoff",
+    "Autor": "FEBRES CORDERO, FRANCISCO",
+    "Edicion": 8,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13584,
+    "Anio": 1952,
+    "Idioma": "Frances",
+    "Titulo": "Manual de tipografia y linotipia",
+    "Editorial": "A.C.A.M.",
+    "Autor": "FEBRES POBEDA, CARLOS",
+    "Edicion": 7,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13585,
+    "Anio": 1941,
+    "Idioma": "Frances",
+    "Titulo": "The Book of furniture and decoration: period and modern",
+    "Editorial": "A.C.M.E.",
+    "Autor": "FEBVRE, LUCIEN PAUL VICTOR",
+    "Edicion": 6,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13586,
+    "Anio": 1967,
+    "Idioma": "Espaniol",
+    "Titulo": "El evangelio de la gracia / Maurizio Flick, Zoltan Alszeghy ; traduccion por Juan A. Paredes y Raimundo Rincon.",
+    "Editorial": "A.D.A. Edita",
+    "Autor": "FECKES, CARLOS",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13587,
+    "Anio": 1952,
+    "Idioma": "Espaniol",
+    "Titulo": "Florilegio del cancionero Vaticano",
+    "Editorial": "A.F.A.",
+    "Autor": "FEDEGUAPA",
+    "Edicion": 4,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13589,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "David Vela : un perfil biografico",
+    "Editorial": "A.G.A.Y.C.",
+    "Autor": "FEDERACION CENTROAMERICANA DE PERIODISTAS",
+    "Edicion": 3,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13591,
+    "Anio": 1958,
+    "Idioma": "Espaniol",
+    "Titulo": "San Francisco de Asis : su vida y su obra",
+    "Editorial": "A.I.D.I.P.E.",
+    "Autor": "FEDERACION DE CAJAS DE AHORROS VASCO-NAVARRAS",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13592,
+    "Anio": 1948,
+    "Idioma": "Espaniol",
+    "Titulo": "Carlomagno: su vida y su obra",
+    "Editorial": "A.L. Mateos",
+    "Autor": "FEDERACION NACIONAL DE COOPERATIVAS DE AHORRO, CREDITO Y SERVICIOS VARIOS DE GUATEMALA",
+    "Edicion": 3,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13593,
+    "Anio": 1949,
+    "Idioma": "Espaniol",
+    "Titulo": "Filosofia medieval",
+    "Editorial": "A.L.A.",
+    "Autor": "FEDERAL ELECTRIC CORPORATION",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13596,
+    "Anio": 1978,
+    "Idioma": "Espaniol",
+    "Titulo": "Psicoanalisis y existencialismo: de la psicoterapia a la logoterapia / Viktor Frankl",
+    "Editorial": "A.T.E.",
+    "Autor": "FEDERAL RESEARCH DIVISION, LIBRARY OF CONGRESS",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13597,
+    "Anio": 1970,
+    "Idioma": "Espaniol",
+    "Titulo": "Huasipungo",
+    "Editorial": "AATCC",
+    "Autor": "FEDUCHI, LUIS",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13599,
+    "Anio": 1938,
+    "Idioma": "Espaniol",
+    "Titulo": "La Celestina o comedia de Calisto y Melibea",
+    "Editorial": "AB Allhems Tryckerier",
+    "Autor": "FEEHAN, CHRISTINE",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13600,
+    "Anio": 1963,
+    "Idioma": "Espaniol",
+    "Titulo": "Antologia pedagogica de San Agustin",
+    "Editorial": "Abaco",
+    "Autor": "FEFFER, MELVIN",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13601,
+    "Anio": 1971,
+    "Idioma": "Espaniol",
+    "Titulo": "La Vida del buscon llamado don Pablos",
+    "Editorial": "Abaco de Rodolfo Depalma",
+    "Autor": "FEIERABEND, PETER",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13604,
+    "Anio": 1996,
+    "Idioma": "Aleman",
+    "Titulo": "El don de la vida; textos del Magisterio de la Iglesia sobre bioEtica",
+    "Editorial": "Abada",
+    "Autor": "FEIGENBAUM, ARMAND V",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13607,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "BioEtica fundamental /Niceto Blazquez, Luis Miguel Pastor.",
+    "Editorial": "ABBEVILLE PRESS",
+    "Autor": "FEINER, JOHANNES",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13608,
+    "Anio": 2000,
+    "Idioma": "Ingles",
+    "Titulo": "BioEtica: la nueva ciencia de la vida / Niceto Blazquez.",
+    "Editorial": "Abbeydale Press",
+    "Autor": "FEINGOLD, MIRELLA",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13609,
+    "Anio": 1960,
+    "Idioma": "Frances",
+    "Titulo": "La Guerra y la paz",
+    "Editorial": "Abbott",
+    "Autor": "FEININGER, ANDREAS",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13610,
+    "Anio": 1999,
+    "Idioma": "Frances",
+    "Titulo": "Material didactico para la ensenianza de los componentes basicos del cartel publicitario",
+    "Editorial": "ABC",
+    "Autor": "FEINSTEIN, IRWIN K",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13612,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Disenio y elaboracion de un manual sobre tEcnicas graficas y aplicacion creativa de la letra",
+    "Editorial": "Abeledo Perrot",
+    "Autor": "FELBER, CHRISTIAN",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13613,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Comunicacion visual no verbal pro-alfabetizacion, validado en area del Mezquital",
+    "Editorial": "Abeledo-Perrot",
+    "Autor": "FELDER, HILARINO",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13614,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Bolsas y cajas con motivos de textiles de la artesania guatemalteca",
+    "Editorial": "AbeledoPerrot",
+    "Autor": "FELDMAN, EDWIN B",
+    "Edicion": 2,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13615,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Disenio de manual para diseniar troqueles de cajas plegables de carton",
+    "Editorial": "Ablex Publishing",
+    "Autor": "FELDMAN, NOAH",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13616,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Disenio de folleto educativo introductorio respecto de 'Disenio grafico digital'",
+    "Editorial": "Abrams Comicarts",
+    "Autor": "FELDMAN, ROBERT S",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13617,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Disenio de manual de iniciacion, ilustrado, del programa Freehand para disenio grafico",
+    "Editorial": "Diciembre",
+    "Autor": "FELDMAN, RUTH DUSKIN",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13618,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Disenio de campania de comunicacion para el Proyecto Ecologico Cinturon Verde de La Antigua Guatemala",
+    "Editorial": "AC",
+    "Autor": "FELDMAR, CLAUDIA",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13619,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Campania grafica para enseniar a clasificar la basura, en centro comerciales, con fines de reciclaje",
+    "Editorial": "Academia Antioquenia de Historia",
+    "Autor": "FELDMAR, JAMIE",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13620,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Manual de preescritura y prelectura para el nivel preprimario de las escuelas nacionales del area urbana",
+    "Editorial": "Academia Boyacense de Historia",
+    "Autor": "FELIPE MARTINEZ, YOLANDA REGINA",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13621,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Campania para informar y educar acerca de la desinfeccion, buen uso y conservacion del agua",
+    "Editorial": "Academia Colombiana de Historia",
+    "Autor": "FELIX ARRIOLA, MARIA MARTA",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13622,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Utilizacion de un sonorama para concientizar a estudiantes del nivel basico de la capital de Guatemala sobre la contaminacion ambiental por basura",
+    "Editorial": "Academia Colombiana de Jurisprudencia",
+    "Autor": "FELL, RENE",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13623,
+    "Anio": 1997,
+    "Idioma": "Aleman",
+    "Titulo": "Disenio de un manual para la organizacion profesional del diseniador grafico",
+    "Editorial": "Academia de CentroamErica",
+    "Autor": "FELLENSTEIN, CRAIG",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13624,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Imagen corporativa y promocion municipalidad de Sumpango SacatepEquez",
+    "Editorial": "Academia de Diplomacia de Chile",
+    "Autor": "FELTEN, EDWARD",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13625,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "Creacion de escudo e imagen corporativa para la comuna del municipio de Jalapa",
+    "Editorial": "Academia de Geografia e Historia de Costa Rica",
+    "Autor": "FENECH, MIGUEL",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13626,
+    "Anio": 1997,
+    "Idioma": "Frances",
+    "Titulo": "Atlas historico",
+    "Editorial": "Academia de Geografia e Historia de Guatemala, AGHG",
+    "Autor": "FENELON, FRANCOIS DE SALIGNAC DE LA MOTHE",
+    "Edicion": 4,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 13627,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Elaboracion de una nueva imagen corporativa para Fundacion Micros ONG",
+    "Editorial": "Academia de Guerra Naval",
+    "Autor": "FENKER, RICHARD MATHES",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13628,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Material de apoyo grafico para el Museo de Historia Natural y Jardin Botanico",
+    "Editorial": "Academia Gallega de Jurisprudencia y Legislacion",
+    "Autor": "FENNESSY, PHIL",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13629,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Material didactico para el manual de normas graficas en la asignatura de disenio visual 2",
+    "Editorial": "ACADEMIA GIL",
+    "Autor": "FENOCHIETTO, CARLOS EDUARDO",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13630,
+    "Anio": 2001,
+    "Idioma": "Aleman",
+    "Titulo": "Disenio y construccion del sitio web de la Unidad Nacional de Oncologia Pediatrica de Guatemala",
+    "Editorial": "Academia Guatemalteca de la Lengua",
+    "Autor": "FENOY RUIZ, EUGENIO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13631,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Elaboracion de material didactico visual para la ensenianza de la retorica de la imagen",
+    "Editorial": "Academia Iberoamericana de Poesia",
+    "Autor": "FENTON, CARROLL LANE",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13632,
+    "Anio": 1999,
+    "Idioma": "Ingles",
+    "Titulo": "Disenio de material didactico para el aprendizaje de Disenio editorial en libros y revistas",
+    "Editorial": "Academia MExicana de Jurisprudencia y Legislacion, Correspondiente de la de Espania",
+    "Autor": "FENTON, JOHN",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13633,
+    "Anio": 1998,
+    "Idioma": "Frances",
+    "Titulo": "Material didactico para el tema 'Iluminacion' en la asignatura de Fotografia",
+    "Editorial": "Academia Nacional de la Historia",
+    "Autor": "FENTON, MILDRED ADAMS",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13634,
+    "Anio": 1998,
+    "Idioma": "Frances",
+    "Titulo": "Elaboracion de un cuaderno de estimulacion temprana para ninios de preparatoria con problemas auditivos",
+    "Editorial": "Academias Pitman",
+    "Autor": "FENWICK, CHARLES GHEQUIERE",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13635,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Diagramacion e ilustracion del folleto Relaciones Humanas y Publicas",
+    "Editorial": "Academic Press",
+    "Autor": "FERBER, EDNA",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13636,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Creacion de un folleto turistico para el pueblo de San Sebastian Retalhuleu, con Enfasis en sus principales festividades religiosas",
+    "Editorial": "AcadEmica Centroamericana",
+    "Autor": "FERBER, ELIZABETH",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13637,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Diagramacion de un texto de educacion superior a distancia, para lideres comunitarios",
+    "Editorial": "AcadEmicas",
+    "Autor": "FEREGRINO TABOADA, ENRIQUE",
+    "Edicion": 3,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13638,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Historias en imagenes como apoyo de la expresion escrita, para la asignatura de Teoria de la Comunicacion 2",
+    "Editorial": "ACADEMY",
+    "Autor": "FERES JUNIOR, JOÃ„O",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13639,
+    "Anio": 1998,
+    "Idioma": "Ruso",
+    "Titulo": "Manual de tErminos tEcnicos para disenio grafico",
+    "Editorial": "Academy of American Franciscan History",
+    "Autor": "FERGUSON, CHARLES",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13640,
+    "Anio": 1992,
+    "Idioma": "Mandarin",
+    "Titulo": "Design of machinery: an introduction to the synthesis and analysis of mechanisms and machines",
+    "Editorial": "Acali",
+    "Autor": "FERGUSON, GLORIA",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13642,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "Disenio de material grafico para mejorar la comunicacion visual de FUNDEMI",
+    "Editorial": "Acantilado",
+    "Autor": "FERGUSON, JUDITH",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13643,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Manual para la elaboracion de murales didacticos en la ensenianza de la historia del arte",
+    "Editorial": "ACANTO",
+    "Autor": "FERGUSON, NIALL",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13646,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Material didactico visual para el tema fotografia de figura humana",
+    "Editorial": "ACC Art Books",
+    "Autor": "FERGUSON, PHIL M",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13648,
+    "Anio": 2001,
+    "Idioma": "Ruso",
+    "Titulo": "Disenio de un folleto de Flexografia para la asignacion de Procesos de Reproduccion 2",
+    "Editorial": "ACCE",
+    "Autor": "FERINO PAGDEN, SYLVIA",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13650,
+    "Anio": 1997,
+    "Idioma": "Mandarin",
+    "Titulo": "Disenio de material didactico en transparencias para la unidad de introduccion a la semiologia",
+    "Editorial": "Access Press",
+    "Autor": "FERLENGA, ALBERTO",
+    "Edicion": 10,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13651,
+    "Anio": 1997,
+    "Idioma": "Ingles",
+    "Titulo": "Ilustracion y diagramacion de un libro de texto para pre-primaria con contenidos del folclor guatemalteco",
+    "Editorial": "Accion Catolica Guatemalteca",
+    "Autor": "FERMI, LAURA",
+    "Edicion": 9,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13652,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Elaboracion de material grafico para una campania de conservacion de la ciudad de Antigua Guatemala",
+    "Editorial": "Accion Ciudadana",
+    "Autor": "FERNALD, JAMES CHAMPLI",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13654,
+    "Anio": 1958,
+    "Idioma": "Espaniol",
+    "Titulo": "Historia del cristianismo, v 1",
+    "Editorial": "Accion Democratica Boliviana",
+    "Autor": "FERNANDEZ AGUADO, JAVIER",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13657,
+    "Anio": 1930,
+    "Idioma": "Ruso",
+    "Titulo": "Maria de JerusalEn / Jean Ravennes ; obra traducica del francEs por Boris Bureba.",
+    "Editorial": "Accion Social Empresarial, ASE",
+    "Autor": "FERNANDEZ ALONSO, LORENZO",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13660,
+    "Anio": 1940,
+    "Idioma": "Ingles",
+    "Titulo": "Pride and Prejudice",
+    "Editorial": "Acento",
+    "Autor": "FERNANDEZ ALVAREZ, ERICK FRANCISCO",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13664,
+    "Anio": 1949,
+    "Idioma": "Espaniol",
+    "Titulo": "San Juan Bosco",
+    "Editorial": "ACEPRENSA",
+    "Autor": "FERNANDEZ ALVAREZ, SANDRA BEATRIZ",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13665,
+    "Anio": 1940,
+    "Idioma": "Espaniol",
+    "Titulo": "La Perfecta casada. Poesias",
+    "Editorial": "ACER",
+    "Autor": "FERNANDEZ ANZUETO DE MAZARIEGOS, OLGA",
+    "Edicion": 5,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13666,
+    "Anio": 2001,
+    "Idioma": "Ruso",
+    "Titulo": "Elaboracion de material visual didactico para la exposicion y comprension del tema tEcnicas visuales",
+    "Editorial": "ACERVO",
+    "Autor": "FERNANDEZ ANZUETO, RODOLFO",
+    "Edicion": 4,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13667,
+    "Anio": 1975,
+    "Idioma": "Mandarin",
+    "Titulo": "Creating modern furniture: trends, techniques, appreciation",
+    "Editorial": "Acervo Cultural",
+    "Autor": "FERNANDEZ APARICIO, CARMEN",
+    "Edicion": 8,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13668,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "Informe sobre el desarrollo humano 2001 : Poner el adelanto tecnologico al servicio del desarrollo humano",
+    "Editorial": "Achenbach Foundation for Graphic Arts",
+    "Autor": "FERNANDEZ ARDAVIN, LUIS",
+    "Edicion": 8,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13669,
+    "Anio": 1958,
+    "Idioma": "Espaniol",
+    "Titulo": "Lenguas indigenas americanas",
+    "Editorial": "ACME",
+    "Autor": "FERNANDEZ AREAL, MANUEL",
+    "Edicion": 8,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13670,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Lecturas de antropologia social y cultural : la cultura y las culturas",
+    "Editorial": "Acme Agency",
+    "Autor": "FERNANDEZ ARENA, JOSE ANTONIO",
+    "Edicion": 7,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13674,
+    "Anio": 1998,
+    "Idioma": "Ruso",
+    "Titulo": "Macroeconomia",
+    "Editorial": "ACNUR",
+    "Autor": "FERNANDEZ ARENAS, JOSE",
+    "Edicion": 6,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13675,
+    "Anio": 1965,
+    "Idioma": "Mandarin",
+    "Titulo": "Enciclopedia autodidactica Quillet, v 1",
+    "Editorial": "ACOME",
+    "Autor": "FERNANDEZ ARRIBAS, JAVIER",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13677,
+    "Anio": 1965,
+    "Idioma": "Ingles",
+    "Titulo": "Enciclopedia autodidactica Quillet, v 2.",
+    "Editorial": "ACOUSTIC COMMUNICATIONS GROUP",
+    "Autor": "FERNANDEZ ARROYO, ESVIN ARMANDO",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13679,
+    "Anio": 1965,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia autodidactica Quillet, v 3.",
+    "Editorial": "ACPD",
+    "Autor": "FERNANDEZ ARROYO, LUIS ALBERTO",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13680,
+    "Anio": 1965,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia autodidactica Quillet, v 4",
+    "Editorial": "ACRIBIA",
+    "Autor": "FERNANDEZ BAROJA, FERNANDA",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13681,
+    "Anio": 2001,
+    "Idioma": "Ruso",
+    "Titulo": "Encuentro nacional de historiadores, IV. Memoria",
+    "Editorial": "Acropolis",
+    "Autor": "FERNANDEZ BARREIRO, ALEJANDRINO",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13682,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "Juan Pablo II, segunda visita pastoral a MExico",
+    "Editorial": "Actar",
+    "Autor": "FERNANDEZ BERROCAL, PABLO",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13684,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Guia de participacion electoral",
+    "Editorial": "Action Media",
+    "Autor": "FERNANDEZ CALVO, PAOLA",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13685,
+    "Anio": 1976,
+    "Idioma": "Espaniol",
+    "Titulo": "Testimonios sobre Mons. Escriva de Balaguer (y II)",
+    "Editorial": "Actualidad Economica",
+    "Autor": "FERNANDEZ CANO, ANA CRISTINA",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13687,
+    "Anio": 1970,
+    "Idioma": "Espaniol",
+    "Titulo": "Diccionario enciclopEdico Quillet",
+    "Editorial": "Ad Qualite",
+    "Autor": "FERNANDEZ CARVAJAL, FRANCISCO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13688,
+    "Anio": 1970,
+    "Idioma": "Espaniol",
+    "Titulo": "Diccionario enciclopEdico Quillet, v 1.",
+    "Editorial": "Ad-Hoc",
+    "Autor": "FERNANDEZ CLERIGO, LUIS",
+    "Edicion": 2,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 13689,
+    "Anio": 1970,
+    "Idioma": "Espaniol",
+    "Titulo": "Diccionario enciclopEdico Quillet, v 2.",
+    "Editorial": "ADAE",
+    "Autor": "FERNANDEZ CODINA, JOSE ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13690,
+    "Anio": 1970,
+    "Idioma": "Espaniol",
+    "Titulo": "Diccionario enciclopEdico Quillet, v 3.",
+    "Editorial": "Adams",
+    "Autor": "FERNANDEZ COLLADO, CARLOS",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13691,
+    "Anio": 1970,
+    "Idioma": "Aleman",
+    "Titulo": "Diccionario enciclopEdico Quillet, v 4.",
+    "Editorial": "Adams Media",
+    "Autor": "FERNANDEZ CONTRERAS, MARINES",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13692,
+    "Anio": 1970,
+    "Idioma": "Espaniol",
+    "Titulo": "Diccionario enciclopEdico Quillet, v 5.",
+    "Editorial": "Addison Wesley",
+    "Autor": "FERNANDEZ CORZO, HENRY ESTUARDO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13693,
+    "Anio": 1970,
+    "Idioma": "Ingles",
+    "Titulo": "Diccionario enciclopEdico Quillet, v 6.",
+    "Editorial": "ADDISON WESLEY LONGMAN",
+    "Autor": "FERNANDEZ CUERVO, LUIS MIGUEL",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13694,
+    "Anio": 1970,
+    "Idioma": "Frances",
+    "Titulo": "Diccionario enciclopEdico Quillet, v 7.",
+    "Editorial": "ADDISON WESLEY-LONGMAN",
+    "Autor": "FERNANDEZ CUESTA, NEMESIO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13695,
+    "Anio": 1970,
+    "Idioma": "Frances",
+    "Titulo": "Diccionario enciclopEdico Quillet, v 8.",
+    "Editorial": "ADDISON-WESLEY",
+    "Autor": "FERNANDEZ CUETO, PAZ DE",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13696,
+    "Anio": 1977,
+    "Idioma": "Espaniol",
+    "Titulo": "Planificacion y crecimiento acelerado",
+    "Editorial": "ADDISON-WESLEY IBEROAMERICANA",
+    "Autor": "FERNANDEZ CUETO, PAZ GUTIERREZ DE",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13698,
+    "Anio": 1955,
+    "Idioma": "Espaniol",
+    "Titulo": "Tierra de promision",
+    "Editorial": "ADEMATE",
+    "Autor": "FERNANDEZ DE AVELLANEDA, ALONSO",
+    "Edicion": 2,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13699,
+    "Anio": 1989,
+    "Idioma": "Espaniol",
+    "Titulo": "Los simbolos precolombinos",
+    "Editorial": "ADESCA",
+    "Autor": "FERNANDEZ DE BARRENA, SARA",
+    "Edicion": 3,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13700,
+    "Anio": 1965,
+    "Idioma": "Espaniol",
+    "Titulo": "El mundo del misterio verde",
+    "Editorial": "ADESDEG",
+    "Autor": "FERNANDEZ DE BUJAN, ANTONIO",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13701,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Wood reference handbook; a guide to the architectural use of wood in building construction",
+    "Editorial": "ADEU",
+    "Autor": "FERNANDEZ DE BUJAN, FEDERICO",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13703,
+    "Anio": 1949,
+    "Idioma": "Espaniol",
+    "Titulo": "Vida de Juan Luis Vives",
+    "Editorial": "Administracion Libreria de Victoriano Suarez",
+    "Autor": "FERNANDEZ DE CORDOVA Y SANCHEZ DE LEON, PILAR",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13704,
+    "Anio": 1971,
+    "Idioma": "Espaniol",
+    "Titulo": "Incidentes de viaje en CentroamErica, Chiapas y Yucatan, tomo 1. / John L. Stephens ; trad. Benjamin Mazariego Santizo ; ilustraciones de Frederick Catherwood.",
+    "Editorial": "Adobe Press",
+    "Autor": "FERNANDEZ DE CORDOVA, MARIA",
+    "Edicion": 3,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13705,
+    "Anio": 1951,
+    "Idioma": "Espaniol",
+    "Titulo": "La razon de mi vida",
+    "Editorial": "ADPLEX AmEricas",
+    "Autor": "FERNANDEZ DE LA RIVA, NENA",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13706,
+    "Anio": 1964,
+    "Idioma": "Espaniol",
+    "Titulo": "Urnas del tiempo",
+    "Editorial": "AECI",
+    "Autor": "FERNANDEZ DE LA VEGA, OSCAR",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13708,
+    "Anio": 1945,
+    "Idioma": "Espaniol",
+    "Titulo": "Resurreccion",
+    "Editorial": "AECID",
+    "Autor": "FERNANDEZ DE MAYORGA, AIDA",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13709,
+    "Anio": 1949,
+    "Idioma": "Espaniol",
+    "Titulo": "Fabiola",
+    "Editorial": "AEDOS",
+    "Autor": "FERNANDEZ DE OVIEDO, GONZALO",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13710,
+    "Anio": 1939,
+    "Idioma": "Aleman",
+    "Titulo": "Diez dias millonarias / Concha Linares Becerra.",
+    "Editorial": "AEJMC",
+    "Autor": "FERNANDEZ DE PEDRO, SIMEON",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13712,
+    "Anio": 1982,
+    "Idioma": "Espaniol",
+    "Titulo": "Urbanidad, personalidad, buenos modales",
+    "Editorial": "AENOR",
+    "Autor": "FERNANDEZ DE PELAEZ, BEATRIZ",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13714,
+    "Anio": 1998,
+    "Idioma": "Ingles",
+    "Titulo": "Historia del arte guatemalteco / JosE A. Mobil.",
+    "Editorial": "AFANES",
+    "Autor": "FERNANDEZ DE SARAVIA, CLAUDIA E",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13715,
+    "Anio": 1975,
+    "Idioma": "Frances",
+    "Titulo": "La Economia politica del crecimiento / Paul A. Baran.",
+    "Editorial": "AFHA",
+    "Autor": "FERNANDEZ DE TAMAYO, MARIELA",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13717,
+    "Anio": 1999,
+    "Idioma": "Frances",
+    "Titulo": "Derecho y diplomacia en las relaciones interamericanas",
+    "Editorial": "AFHA Internacional",
+    "Autor": "FERNANDEZ DE YACUBSOHN, MARTHA",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13734,
+    "Anio": 1930,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia universal ilustrada europeo-americana; suplemento",
+    "Editorial": "Agencia Internacional de Libreria",
+    "Autor": "FERNANDEZ DEL CASTILLO, FRANCISCO",
+    "Edicion": 4,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13736,
+    "Anio": 1981,
+    "Idioma": "Espaniol",
+    "Titulo": "Educacion y manipulacion / Oliveros F. Otero.",
+    "Editorial": "Agencia para la Planeacion del Desarrollo Urbano de Nuevo Leon",
+    "Autor": "FERNANDEZ DIEZ, FEDERICO",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13737,
+    "Anio": 1981,
+    "Idioma": "Aleman",
+    "Titulo": "Preparacion para el amor",
+    "Editorial": "AGENGIA ESPANIOLA DE COOPERACION INTERNACIONAL / OIT",
+    "Autor": "FERNANDEZ EGURROLA, ANDREA MARIA",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13738,
+    "Anio": 1967,
+    "Idioma": "Espaniol",
+    "Titulo": "Muerte de Pedro de Alvarado. Cartas de relacion de Alvarado a Hernan CortEs. Cartas antiguas a la ciudad de Goathemala",
+    "Editorial": "AGEXPRONT",
+    "Autor": "FERNANDEZ ENRIQUEZ, LAURA",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13741,
+    "Anio": 1964,
+    "Idioma": "Ingles",
+    "Titulo": "Enciclopedia metodica Larousse, v 1",
+    "Editorial": "Agfa-Gevaert",
+    "Autor": "FERNANDEZ FERNANDEZ, JUAN CARLOS",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13742,
+    "Anio": 1964,
+    "Idioma": "Frances",
+    "Titulo": "Enciclopedia metodica Larousse, v 2",
+    "Editorial": "Agora",
+    "Autor": "FERNANDEZ FERRAZ, JUAN",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13743,
+    "Anio": 1964,
+    "Idioma": "Frances",
+    "Titulo": "Enciclopedia metodica Larousse, v 3",
+    "Editorial": "Agrifor Consult",
+    "Autor": "FERNANDEZ FLOREZ, WENCESLAO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13745,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Internet en el aula, proyectando el futuro",
+    "Editorial": "AGUADO",
+    "Autor": "FERNANDEZ GALIANO, ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13746,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Actividades con el ordenador en el aula",
+    "Editorial": "Aguila",
+    "Autor": "FERNANDEZ GALIANO, MANUEL",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13747,
+    "Anio": 2000,
+    "Idioma": "Aleman",
+    "Titulo": "Integracion curricular de las nuevas tecnologias",
+    "Editorial": "20th Century Fox",
+    "Autor": "FERNANDEZ GARCIA DE VEGA, DINA",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13748,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Dias de tormenta",
+    "Editorial": "3M Espania",
+    "Autor": "FERNANDEZ GARCIA, ANGELICA MARIA",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13749,
+    "Anio": 1929,
+    "Idioma": "Ingles",
+    "Titulo": "Practicas escolares / Richard Seyfert ; traduccion del aleman por Alvaro Gonzalez Rivas.",
+    "Editorial": "3R EDITORES",
+    "Autor": "FERNANDEZ GARCIA, DAVID",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13750,
+    "Anio": 1958,
+    "Idioma": "Frances",
+    "Titulo": "Elementos de ecologia",
+    "Editorial": "A Lessons in Leadership Publications",
+    "Autor": "FERNANDEZ GARCIA, DINA",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13751,
+    "Anio": 1948,
+    "Idioma": "Frances",
+    "Titulo": "The Divine comedy: The Inferno, Purgatorio, and Paradiso",
+    "Editorial": "A New Directions Book",
+    "Autor": "FERNANDEZ GARCIA, JUSTINO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13753,
+    "Anio": 1964,
+    "Idioma": "Espaniol",
+    "Titulo": "Nueva Guatemala de la Asuncion: terremoto de Santa Marta. Fundacion en el Llano de la Virgen, tomo 1",
+    "Editorial": "A Plume Book",
+    "Autor": "FERNANDEZ GARCIA, MARIA SOCORRO",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 13754,
+    "Anio": 1964,
+    "Idioma": "Espaniol",
+    "Titulo": "La Nueva Guatemala de la Asuncion: terremoto de Santa Marta. Fundacion en el Llano de la Virgen, tomo 2",
+    "Editorial": "A&E Home Video",
+    "Autor": "FERNANDEZ GARRIDO, LOLES",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13755,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "El entorno financiero de la microempresa en Guatemala",
+    "Editorial": "A&E Mundo",
+    "Autor": "FERNANDEZ GONZALEZ, ARTURO JOSE",
+    "Edicion": 10,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13756,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "La Educacion: una condicion para la paz",
+    "Editorial": "A&E TELEVISION NETWORK",
+    "Autor": "FERNANDEZ GORRINDO, FELIX",
+    "Edicion": 9,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13757,
+    "Anio": 2002,
+    "Idioma": "Ruso",
+    "Titulo": "Situacion de los compromisos relativos al EjErcito en los Acuerdos de paz",
+    "Editorial": "A. & C. Black",
+    "Autor": "FERNANDEZ GOUBAUD, MARI PAZ",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13758,
+    "Anio": 1999,
+    "Idioma": "Mandarin",
+    "Titulo": "La proteccion constitucional del ciudadano -Argentina, Brasil, Chile, Colombia, Costa Rica y Venezuela-",
+    "Editorial": "A. A. Knopf",
+    "Autor": "FERNANDEZ GUARDIA, RICARDO",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13759,
+    "Anio": 1997,
+    "Idioma": "Ingles",
+    "Titulo": "El proceso de paquete completo como una alternativa de produccion mas rentable que la maquila, en la industria de la confeccion de prendas de vestir",
+    "Editorial": "A. AL. BURT",
+    "Autor": "FERNANDEZ GUTIERREZ, JAVIER",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13760,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "La Evaluacion integral como herramienta administrativa en la toma de decisiones (Caso :empresa Maquiladora de Ropa de la Ciudad de Guatemala)",
+    "Editorial": "A. Pedone",
+    "Autor": "FERNANDEZ HALL DE AREVALO, MARIA TERESA",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13761,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Analisis ambiental-urbano del municipio de San Francisco Zapotitlan, con Enfasis en la propuesta de un centro de capacitacion",
+    "Editorial": "A. REDONDO",
+    "Autor": "FERNANDEZ HALL, FRANCISCO",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13762,
+    "Anio": 1965,
+    "Idioma": "Ruso",
+    "Titulo": "Mozart : the man and the artist revealed in his own words",
+    "Editorial": "A. Taffin-Lefort",
+    "Autor": "FERNANDEZ HENKLE, ASTRID CAROLA",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13763,
+    "Anio": 2001,
+    "Idioma": "Mandarin",
+    "Titulo": "Problematica de la Ciudad Universitaria; contribucion al analisis y solucion de los problemas de espacio fisico, funcionalidad, infraestructura vial y contaminacion que afectan a la Ciudad Universitaria",
+    "Editorial": "A. W. Sijthoff",
+    "Autor": "FERNANDEZ JEREZ, MARISOL",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13764,
+    "Anio": 1968,
+    "Idioma": "Ingles",
+    "Titulo": "Energia",
+    "Editorial": "A. W. Sythoff",
+    "Autor": "FERNANDEZ L., MANUEL",
+    "Edicion": 8,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13765,
+    "Anio": 1971,
+    "Idioma": "Espaniol",
+    "Titulo": "El universo",
+    "Editorial": "A.A.",
+    "Autor": "FERNANDEZ LABASTIDA, FRANCISCO",
+    "Edicion": 8,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13767,
+    "Anio": 1978,
+    "Idioma": "Espaniol",
+    "Titulo": "Valores fundamentales de la educacion",
+    "Editorial": "A.C.A.M.",
+    "Autor": "FERNANDEZ LABRIOLA, RODRIGO",
+    "Edicion": 8,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13769,
+    "Anio": 2001,
+    "Idioma": "Mandarin",
+    "Titulo": "Pensamiento filosofico contemporaneo de la AmErica Central; ensayos",
+    "Editorial": "A.D.A. Edita",
+    "Autor": "FERNANDEZ LACAYO, GILDA LUCRECIA",
+    "Edicion": 7,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13771,
+    "Anio": 1967,
+    "Idioma": "Ingles",
+    "Titulo": "Biografias de presidentes del poder judicial (1839-1892)",
+    "Editorial": "A.F.A.",
+    "Autor": "FERNANDEZ LANDONI, LIGIA MARINA",
+    "Edicion": 6,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13778,
+    "Anio": 1967,
+    "Idioma": "Espaniol",
+    "Titulo": "Templos abandonados y otros poemas",
+    "Editorial": "A.G.A.Y.C.",
+    "Autor": "FERNANDEZ LEON, JORGE",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13779,
+    "Anio": 1967,
+    "Idioma": "Espaniol",
+    "Titulo": "Rafael Landivar, el poeta de Guatemala",
+    "Editorial": "A.I.D.I.P.E.",
+    "Autor": "FERNANDEZ LOPEZ, JAVIER",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13780,
+    "Anio": 2001,
+    "Idioma": "Ruso",
+    "Titulo": "La Globalizacion y la tercera via",
+    "Editorial": "A.L. Mateos",
+    "Autor": "FERNANDEZ MADERO, ANTONIO",
+    "Edicion": 3,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13781,
+    "Anio": 1969,
+    "Idioma": "Mandarin",
+    "Titulo": "Franco, historia y biografia, v. 2",
+    "Editorial": "A.L.A.",
+    "Autor": "FERNANDEZ MADRID, MARIA TERESA",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13783,
+    "Anio": 1983,
+    "Idioma": "Ingles",
+    "Titulo": "Viaje apostolico de Juan Pablo II a CentroamErica (discursos-homilias-mensajes)",
+    "Editorial": "A.T.E.",
+    "Autor": "FERNANDEZ MARROQUIN, VITALINO",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13786,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Recordacion florida: discurso historial, demostracion material, militar y politica del Reyno de Goathemala : libros primero, segundo y tercero de la primera parte de la obra",
+    "Editorial": "AATCC",
+    "Autor": "FERNANDEZ MENDEZ, EUGENIO",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13794,
+    "Anio": 1975,
+    "Idioma": "Espaniol",
+    "Titulo": "Homenaje al poeta Rafael ArEvalo Martinez",
+    "Editorial": "AB Allhems Tryckerier",
+    "Autor": "FERNANDEZ MOLINA, LUIS",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13795,
+    "Anio": 2000,
+    "Idioma": "Ruso",
+    "Titulo": "Sistemas de informacion para los negocios; un enfoque de toma de decisiones",
+    "Editorial": "Abaco",
+    "Autor": "FERNANDEZ MOLINA, MANUEL",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13796,
+    "Anio": 1978,
+    "Idioma": "Mandarin",
+    "Titulo": "Fold-away furniture",
+    "Editorial": "Abaco de Rodolfo Depalma",
+    "Autor": "FERNANDEZ MORENO, CESAR",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13798,
+    "Anio": 1960,
+    "Idioma": "Ingles",
+    "Titulo": "House & garden's complete guide to Interior Decoration",
+    "Editorial": "Abacus",
+    "Autor": "FERNANDEZ MUNIOZ, ANGEL LUIS",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13799,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Diagnostico del cluster forestal",
+    "Editorial": "Abada",
+    "Autor": "FERNANDEZ NAVARRETE, PEDRO",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13800,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Informe de gestion 1997-2002",
+    "Editorial": "ABBEVILLE PRESS",
+    "Autor": "FERNANDEZ NOVOA, JESUS",
+    "Edicion": 2,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13808,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Migraciones, frontera y sociedad",
+    "Editorial": "Ablex Publishing",
+    "Autor": "FERNANDEZ NUNIEZ, GABRIEL",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13809,
+    "Anio": 1967,
+    "Idioma": "Espaniol",
+    "Titulo": "Integracion economica centroamericana: aspectos sociales y politicos",
+    "Editorial": "Abrams Comicarts",
+    "Autor": "FERNANDEZ ORDONIEZ, MARTIN",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13810,
+    "Anio": 1982,
+    "Idioma": "Aleman",
+    "Titulo": "Las posibilidades del amor conyugal",
+    "Editorial": "Enero",
+    "Autor": "FERNANDEZ OTERO, OLIVEROS",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13811,
+    "Anio": 1984,
+    "Idioma": "Espaniol",
+    "Titulo": "Raices",
+    "Editorial": "AC",
+    "Autor": "FERNANDEZ PADILLA, JULIO FAUSTO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13812,
+    "Anio": 1981,
+    "Idioma": "Ingles",
+    "Titulo": "Los Adolescentes y sus problemas",
+    "Editorial": "Academia Antioquenia de Historia",
+    "Autor": "FERNANDEZ PEREZ, ANA",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13813,
+    "Anio": 1978,
+    "Idioma": "Frances",
+    "Titulo": "Realizacion personal en el trabajo / Oliveros F. Otero.",
+    "Editorial": "Academia Boyacense de Historia",
+    "Autor": "FERNANDEZ PIRLA, SANTIAGO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13814,
+    "Anio": 1980,
+    "Idioma": "Frances",
+    "Titulo": "La Educacion como rebeldia / Oliveros F. Otero.",
+    "Editorial": "Academia Colombiana de Historia",
+    "Autor": "FERNANDEZ PORRES, JAVIER",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13815,
+    "Anio": 1982,
+    "Idioma": "Espaniol",
+    "Titulo": "El tiempo libre de los hijos",
+    "Editorial": "Academia Colombiana de Jurisprudencia",
+    "Autor": "FERNANDEZ RAMIREZ, NORA PATRICIA",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13841,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Historia de la Iglesia; v 3: La Iglesia en la Epoca contemporanea / Vicente Carcel Orti.",
+    "Editorial": "Academia Guatemalteca de la Lengua",
+    "Autor": "FERNANDEZ RAMIREZ, SALVADOR",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13842,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Cuando el mundo gira enamorado : semblanza de Viktor Frankl / Rafael de los Rios.",
+    "Editorial": "Academia Iberoamericana de Poesia",
+    "Autor": "FERNANDEZ RIVERA, ANDREA GABRIELA",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13843,
+    "Anio": 1956,
+    "Idioma": "Espaniol",
+    "Titulo": "El teatro; historia informal del mismo a travEs de lo anecdotico y pintoresco",
+    "Editorial": "Academia MExicana de Jurisprudencia y Legislacion, Correspondiente de la de Espania",
+    "Autor": "FERNANDEZ ROCA, CYNTHIA",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13845,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Historia moderna de la etnicidad en Guatemala, la vision hegemonica: Bernal Diaz del Castillo",
+    "Editorial": "Academia Nacional de la Historia",
+    "Autor": "FERNANDEZ ROCA, DIANA IRASEMA",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13846,
+    "Anio": 1951,
+    "Idioma": "Aleman",
+    "Titulo": "Maria Estuardo : el principio en el fin",
+    "Editorial": "Academias Pitman",
+    "Autor": "FERNANDEZ RODRIGUEZ, FERNANDO",
+    "Edicion": 4,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 13848,
+    "Anio": 1951,
+    "Idioma": "Espaniol",
+    "Titulo": "Ciceron",
+    "Editorial": "Academic Press",
+    "Autor": "FERNANDEZ RODRIGUEZ, JOSE LUIS",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13849,
+    "Anio": 1935,
+    "Idioma": "Ingles",
+    "Titulo": "La Educacion activa",
+    "Editorial": "AcadEmica Centroamericana",
+    "Autor": "FERNANDEZ ROJAS, LAFITTE",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13850,
+    "Anio": 1951,
+    "Idioma": "Frances",
+    "Titulo": "El Antiguo Oriente",
+    "Editorial": "AcadEmicas",
+    "Autor": "FERNANDEZ ROSAL, MARCO TULIO",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13851,
+    "Anio": 1967,
+    "Idioma": "Frances",
+    "Titulo": "La Lente opaca",
+    "Editorial": "ACADEMY",
+    "Autor": "FERNANDEZ RUIZ, MARIA TERESA",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13852,
+    "Anio": 1950,
+    "Idioma": "Espaniol",
+    "Titulo": "Historia de Espania",
+    "Editorial": "Academy of American Franciscan History",
+    "Autor": "FERNANDEZ SABORIO, GUIDO",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13853,
+    "Anio": 1944,
+    "Idioma": "Espaniol",
+    "Titulo": "Rabinal Achi : drama danzado de los indios quichEs de Rabinal en Guatemala",
+    "Editorial": "Acali",
+    "Autor": "FERNANDEZ SANTOS, JESUS",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13854,
+    "Anio": 1994,
+    "Idioma": "Espaniol",
+    "Titulo": "Cabezas verdes, manos azules",
+    "Editorial": "Acantilado",
+    "Autor": "FERNANDEZ SEBASTIAN, JAVIER",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13855,
+    "Anio": 1975,
+    "Idioma": "Espaniol",
+    "Titulo": "La Novela de Asturias",
+    "Editorial": "ACANTO",
+    "Autor": "FERNANDEZ SEGADO, FRANCISCO",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13856,
+    "Anio": 1944,
+    "Idioma": "Espaniol",
+    "Titulo": "Genio y caracter: diez y seis retratos y un prologo",
+    "Editorial": "ACC Art Books",
+    "Autor": "FERNANDEZ SIFRES, DAVID",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13857,
+    "Anio": 1977,
+    "Idioma": "Espaniol",
+    "Titulo": "Exchange and production: competition, coordination, and control",
+    "Editorial": "ACCE",
+    "Autor": "FERNANDEZ SOSA, LUIS",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13868,
+    "Anio": 1963,
+    "Idioma": "Espaniol",
+    "Titulo": "Literatura Epistolar",
+    "Editorial": "Access Press",
+    "Autor": "FERNANDEZ TOMAS, ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13870,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Analisis de la forma; urbanismo y arquitectura",
+    "Editorial": "Accion Catolica Guatemalteca",
+    "Autor": "FERNANDEZ UBINIA, JOSE",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13873,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Las Bellas Artes, v 6: El arte inglEs y norteamericano hasta 1900",
+    "Editorial": "Accion Ciudadana",
+    "Autor": "FERNANDEZ VALINIAS, RICARDO",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13874,
+    "Anio": 1981,
+    "Idioma": "Espaniol",
+    "Titulo": "La gramatica generativa; reflexiones criticas",
+    "Editorial": "Accion Democratica Boliviana",
+    "Autor": "FERNANDEZ VALLE, LUZ DE MARIA",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13877,
+    "Anio": 1981,
+    "Idioma": "Espaniol",
+    "Titulo": "Manual de teologia como historia de la salvacion. v 1: Fundamentos de la dogmatica como historia de la salvacion",
+    "Editorial": "Accion Social Empresarial, ASE",
+    "Autor": "FERNANDEZ VERNET, ENRIQUE",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13878,
+    "Anio": 1977,
+    "Idioma": "Espaniol",
+    "Titulo": "Manual de teologia como historia de la salvacion. v 2: La historia de la salvacion antes de Cristo",
+    "Editorial": "ACE Books",
+    "Autor": "FERNANDEZ ZABALA, IGNACIO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13879,
+    "Anio": 1980,
+    "Idioma": "Aleman",
+    "Titulo": "Manual de teologia como historia de la salvacion. v 3: El acontecimiento Cristo",
+    "Editorial": "Acento",
+    "Autor": "FERNANDEZ, ALINA",
+    "Edicion": 3,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13898,
+    "Anio": 1984,
+    "Idioma": "Ruso",
+    "Titulo": "Derecho mercantil guatemalteco, v 2: Titulos de crEdito",
+    "Editorial": "Actualidad Economica",
+    "Autor": "FERNANDEZ, ALONSO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13899,
+    "Anio": 1986,
+    "Idioma": "Mandarin",
+    "Titulo": "Derecho procesal civil de Guatemala, v 1",
+    "Editorial": "Acuity Productions",
+    "Autor": "FERNANDEZ, ANA",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13901,
+    "Anio": 1953,
+    "Idioma": "Ingles",
+    "Titulo": "Derecho internacional privado",
+    "Editorial": "Ad Qualite",
+    "Autor": "FERNANDEZ, AURELIO",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13903,
+    "Anio": 1975,
+    "Idioma": "Espaniol",
+    "Titulo": "Derecho penal, v 1, parte general",
+    "Editorial": "ADAE",
+    "Autor": "FERNANDEZ, AURORA",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13904,
+    "Anio": 1986,
+    "Idioma": "Ruso",
+    "Titulo": "Derecho internacional publico",
+    "Editorial": "Adams",
+    "Autor": "FERNANDEZ, BEATRIZ",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13905,
+    "Anio": 1984,
+    "Idioma": "Mandarin",
+    "Titulo": "Teoria general del proceso",
+    "Editorial": "Adams Media",
+    "Autor": "FERNANDEZ, BEATRIZ L",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13906,
+    "Anio": 1986,
+    "Idioma": "Ingles",
+    "Titulo": "Derecho procesal civil",
+    "Editorial": "Addison Wesley",
+    "Autor": "FERNANDEZ, CLEMENTE",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13907,
+    "Anio": 1987,
+    "Idioma": "Espaniol",
+    "Titulo": "Derecho administrativo",
+    "Editorial": "ADDISON WESLEY LONGMAN",
+    "Autor": "FERNANDEZ, EDUARDO",
+    "Edicion": 10,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13908,
+    "Anio": 1979,
+    "Idioma": "Espaniol",
+    "Titulo": "Literatura espaniola e hispanoamericana; modelos de analisis",
+    "Editorial": "ADDISON WESLEY-LONGMAN",
+    "Autor": "FERNANDEZ, ENCARNACION",
+    "Edicion": 9,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13926,
+    "Anio": 1967,
+    "Idioma": "Mandarin",
+    "Titulo": "La Copa de Cuasia : ensayo de un libro del dolor",
+    "Editorial": "ADDISON-WESLEY IBEROAMERICANA",
+    "Autor": "FERNANDEZ, FELIPE NERY",
+    "Edicion": 5,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13927,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "Promocion de hoteles por categoria",
+    "Editorial": "Adelphi",
+    "Autor": "FERNANDEZ, GLORIA MARINA",
+    "Edicion": 5,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13928,
+    "Anio": 1968,
+    "Idioma": "Espaniol",
+    "Titulo": "Las Matematicas enseniadas racionalmente",
+    "Editorial": "ADEMATE",
+    "Autor": "FERNANDEZ, GUIDO",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13930,
+    "Anio": 1984,
+    "Idioma": "Espaniol",
+    "Titulo": "O nome da rosa / Umberto Eco ; traduccion de Maria Celeste Pinto.",
+    "Editorial": "ADESCA",
+    "Autor": "FERNANDEZ, HECTOR",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13931,
+    "Anio": 1986,
+    "Idioma": "Ruso",
+    "Titulo": "Diario de un escribiente, 1 / Manuel JosE Arce,h.",
+    "Editorial": "ADESDEG",
+    "Autor": "FERNANDEZ, JOSE",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13932,
+    "Anio": 2002,
+    "Idioma": "Mandarin",
+    "Titulo": "Historia de la filosofia: v 3: Filosofia moderna",
+    "Editorial": "ADEU",
+    "Autor": "FERNANDEZ, JOSE A",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13933,
+    "Anio": 1968,
+    "Idioma": "Ingles",
+    "Titulo": "La percepcion",
+    "Editorial": "Administracion Libreria de Victoriano Suarez",
+    "Autor": "FERNANDEZ, JOSE LUIS",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13934,
+    "Anio": 1967,
+    "Idioma": "Espaniol",
+    "Titulo": "La Historia : su naturaleza, sugestiones didacticas",
+    "Editorial": "Adobe Press",
+    "Autor": "FERNANDEZ, JUAN ROMULO",
+    "Edicion": 8,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13935,
+    "Anio": 1963,
+    "Idioma": "Espaniol",
+    "Titulo": "Tic; poesia 1948-1959",
+    "Editorial": "ADPLEX AmEricas",
+    "Autor": "FERNANDEZ, JUSTINO",
+    "Edicion": 8,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13936,
+    "Anio": 1948,
+    "Idioma": "Ruso",
+    "Titulo": "A la par de nuestro hermano el buey",
+    "Editorial": "AECI",
+    "Autor": "FERNANDEZ, LEON",
+    "Edicion": 8,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13937,
+    "Anio": 1961,
+    "Idioma": "Mandarin",
+    "Titulo": "Varia poesia / Hugo Lindo.",
+    "Editorial": "AECID",
+    "Autor": "FERNANDEZ, LORENZO",
+    "Edicion": 7,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13940,
+    "Anio": 1987,
+    "Idioma": "Ingles",
+    "Titulo": "Historia y religion de los mayas / Eric Thompson.",
+    "Editorial": "AEDOS",
+    "Autor": "FERNANDEZ, MONICA",
+    "Edicion": 6,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13941,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "EstEtica de bolsillo / Pablo Blanco.",
+    "Editorial": "AEJMC",
+    "Autor": "FERNANDEZ, SERGIO",
+    "Edicion": 5,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13942,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "Culturas hibridas; estrategias para entrar y salir de la modernidad",
+    "Editorial": "AENOR",
+    "Autor": "FERNANDEZ-CREHUET, JOAQUIN",
+    "Edicion": 4,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 13943,
+    "Anio": 1963,
+    "Idioma": "Ruso",
+    "Titulo": "David : warrior and King",
+    "Editorial": "AFANES",
+    "Autor": "FERNANDEZ-FIGARES MORALES, MARIA JOSE",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13945,
+    "Anio": 1971,
+    "Idioma": "Espaniol",
+    "Titulo": "La Voragine",
+    "Editorial": "AFHA",
+    "Autor": "FERNANDEZ-FLOREZ, DARIO",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13947,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Sobre el bloqueo del escritor",
+    "Editorial": "AFHA Internacional",
+    "Autor": "FERNANDEZ-GALIANO, ANTONIO",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13948,
+    "Anio": 1984,
+    "Idioma": "Espaniol",
+    "Titulo": "Consumer behavior : concepts and applications",
+    "Editorial": "Afinidades",
+    "Autor": "FERNANDEZ-GALIANO, LUIS",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13949,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Adecuado manejo de residuos solidos hospitalarios, un reto para la administracion de establecimientos de salud en la ciudad de Guatemala",
+    "Editorial": "AFRODISIO AGUADO",
+    "Autor": "FERNANDEZ-GALIANO, MANUEL",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13950,
+    "Anio": 2004,
+    "Idioma": "Espaniol",
+    "Titulo": "El dibujo animado en la educacion infantil",
+    "Editorial": "AFS",
+    "Autor": "FERNANDEZ-MIRANDA CAMPOAMOR, ALFONSO",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13952,
+    "Anio": 1951,
+    "Idioma": "Espaniol",
+    "Titulo": "The Story of art",
+    "Editorial": "Agata",
+    "Autor": "FERNANDEZ-MIRANDA CAMPOAMOR, CARMEN",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13953,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Metodologia; guia para elaborar disenios de investigacion en ciencias economicas, contables y administrativas",
+    "Editorial": "AGAYC",
+    "Autor": "FERNANDEZ-MIRANDA LOZANA, PILAR",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13954,
+    "Anio": 1978,
+    "Idioma": "Espaniol",
+    "Titulo": "Pensamiento universitario : enfoque critico",
+    "Editorial": "Agencia Alemana de Energia",
+    "Autor": "FERNANDEZ-SAGOT, HARRY",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13956,
+    "Anio": 1958,
+    "Idioma": "Aleman",
+    "Titulo": "La Evolucion de la humanidad. v 3 : El lenguaje; introduccion lingÃ¼istica a la historia / J. Vendryes ; traduccion al espaniol por Manuel de Montolieu, JosE M. Casas.",
+    "Editorial": "Agencia de Comunicacion Internacional de los Estados Unidos de AmErica",
+    "Autor": "FERNANDEZ-SHAW, FELIX",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13958,
+    "Anio": 1962,
+    "Idioma": "Espaniol",
+    "Titulo": "Los Mayas eternos / Rafael Girard",
+    "Editorial": "Agencia EFE",
+    "Autor": "FERNANDO OCAMPO C",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13959,
+    "Anio": 1979,
+    "Idioma": "Ingles",
+    "Titulo": "Sociologia del lenguaje",
+    "Editorial": "Agencia Espaniola de Cooperacion Internacional para el Desarrollo, AECID",
+    "Autor": "FERNELIUS, W. CONRAD",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13960,
+    "Anio": 1966,
+    "Idioma": "Frances",
+    "Titulo": "The rise and fall of Maya civilization / Eric Thompson.",
+    "Editorial": "AGENCIA ESPANIOLA DE COOPERACION INTERNACIONAL, AECI",
+    "Autor": "FERNOSO ESTEBANEZ, PACIANO",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13965,
+    "Anio": 2000,
+    "Idioma": "Frances",
+    "Titulo": "Repercusiones del pensamiento de Freud en el mundo moderno",
+    "Editorial": "Agencia Internacional de Libreria",
+    "Autor": "FERRANDEZ GONZALEZ, JOSE",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13967,
+    "Anio": 1971,
+    "Idioma": "Espaniol",
+    "Titulo": "Leyendas de Guatemala / Miguel Angel Asturias.",
+    "Editorial": "Agencia para la Planeacion del Desarrollo Urbano de Nuevo Leon",
+    "Autor": "FERRANDO BADIA, JUAN",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13970,
+    "Anio": 1970,
+    "Idioma": "Espaniol",
+    "Titulo": "Alienacion y sociedad industrial",
+    "Editorial": "AGENGIA ESPANIOLA DE COOPERACION INTERNACIONAL / OIT",
+    "Autor": "FERRANDO I FRANCES, ANTONI",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13971,
+    "Anio": 1973,
+    "Idioma": "Espaniol",
+    "Titulo": "Anfitrion. La comedia de la olla",
+    "Editorial": "AGEXPRONT",
+    "Autor": "FERRANTI, DAVID",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13973,
+    "Anio": 1982,
+    "Idioma": "Espaniol",
+    "Titulo": "Mil razones para vivir",
+    "Editorial": "Agfa-Gevaert",
+    "Autor": "FERRARI NICOLAY, MAURICIO",
+    "Edicion": 3,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13976,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Educar hoy",
+    "Editorial": "Agora",
+    "Autor": "FERRARI, MARIA APARECIDA",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13980,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "La Moral cristiana hoy",
+    "Editorial": "Agrifor Consult",
+    "Autor": "FERRAS, XAVIER",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13981,
+    "Anio": 1985,
+    "Idioma": "Espaniol",
+    "Titulo": "El desafio de la libertad de ensenianza",
+    "Editorial": "AGUADO",
+    "Autor": "FERRATER MORA, JOSE",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13986,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Libertad, justicia y democracia",
+    "Editorial": "20th Century Fox",
+    "Autor": "FERRAZ, ESTHER DE FIGUEIREDO",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13987,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Instituto TEcnico Industrial Diversificado, Guastatoya El Progreso",
+    "Editorial": "3M Espania",
+    "Autor": "FERRAZ, JOAO DE SOUSA",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13988,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Escritos del Beato Hermano Pedro de San JosE de Betancur",
+    "Editorial": "3R EDITORES",
+    "Autor": "FERRE NADAL, JORDI",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13989,
+    "Anio": 1981,
+    "Idioma": "Espaniol",
+    "Titulo": "The Art of negotiating",
+    "Editorial": "A Lessons in Leadership Publications",
+    "Autor": "FERRE TRENZANO, JOSE MARIA",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13990,
+    "Anio": 1959,
+    "Idioma": "Aleman",
+    "Titulo": "La Joven romantica",
+    "Editorial": "A New Directions Book",
+    "Autor": "FERREIRO DE BABOT, PABLO",
+    "Edicion": 4,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13993,
+    "Anio": 1962,
+    "Idioma": "Ingles",
+    "Titulo": "Funeral poEtico (cronica periodistica de la repatriacion de los restos de los poetas Fernando Cruz, Domingo Estrada y Maria Cruz), v 2",
+    "Editorial": "A&E Home Video",
+    "Autor": "FERREIRO GRAVIE, RAMON",
+    "Edicion": 2,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13997,
+    "Anio": 1958,
+    "Idioma": "Frances",
+    "Titulo": "Socrates y la conciencia del hombre",
+    "Editorial": "A&E Mundo",
+    "Autor": "FERRELL, O. C",
+    "Edicion": 2,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13999,
+    "Anio": 1966,
+    "Idioma": "Frances",
+    "Titulo": "Ibsen; el creador del teatro social",
+    "Editorial": "A&E TELEVISION NETWORK",
+    "Autor": "FERRELL, O.C",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14001,
+    "Anio": 1957,
+    "Idioma": "Espaniol",
+    "Titulo": "La Evolucion de la humanidad, v 31: La india y su antigua civilizacion",
+    "Editorial": "A. & C. Black",
+    "Autor": "FERRER ARELLANO, JOAQUIN",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14004,
+    "Anio": 1959,
+    "Idioma": "Espaniol",
+    "Titulo": "La evolucion de la humanidad, v 84: El problema de la incredulidad en el siglo XVI; la religion de Rabelais",
+    "Editorial": "A. A. Knopf",
+    "Autor": "FERRER ARPI, J.M",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14005,
+    "Anio": 1959,
+    "Idioma": "Espaniol",
+    "Titulo": "La Evolucion de la humanidad, v 66: La filosofia en la edad media",
+    "Editorial": "A. AL. BURT",
+    "Autor": "FERRER BARRIENDOS, VICENTE",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14006,
+    "Anio": 1955,
+    "Idioma": "Espaniol",
+    "Titulo": "La evolucion de la humanidad, v 4: La Tierra y la evolucion humana; introduccion geografica a la historia",
+    "Editorial": "A. Pedone",
+    "Autor": "FERRER HORTET, EUSEBIO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14007,
+    "Anio": 1962,
+    "Idioma": "Espaniol",
+    "Titulo": "La Educacion sentimental. Madame Bovary. Salambo. Las tentaciones de San Antonio. Un corazon sencillo. La leyenda de San Julian El Hospitalario. Herodias",
+    "Editorial": "A. REDONDO",
+    "Autor": "FERRER MAC-GREGOR, EDUARDO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14008,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "O que E semiotica",
+    "Editorial": "A. Taffin-Lefort",
+    "Autor": "FERRER REGALES, MANUEL",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14009,
+    "Anio": 1959,
+    "Idioma": "Espaniol",
+    "Titulo": "La vida privada y publica de Socrates",
+    "Editorial": "A. W. Sijthoff",
+    "Autor": "FERRER ROSELLO, CLEMENTE",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14010,
+    "Anio": 1954,
+    "Idioma": "Espaniol",
+    "Titulo": "Estudiantes, sopistas y picaros",
+    "Editorial": "A. W. Sythoff",
+    "Autor": "FERRER SAMA, ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 14011,
+    "Anio": 1943,
+    "Idioma": "Espaniol",
+    "Titulo": "La Pedagogia contemporanea",
+    "Editorial": "A.A.",
+    "Autor": "FERRER SANTOS, URBANO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 14012,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "El desertor",
+    "Editorial": "A.C.A.M.",
+    "Autor": "FERRER SAPENA, ANTONIA",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 14013,
+    "Anio": 1963,
+    "Idioma": "Espaniol",
+    "Titulo": "Buda",
+    "Editorial": "A.C.M.E.",
+    "Autor": "FERRER, IGNASI",
+    "Edicion": 3,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 14014,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "El romanticismo literario",
+    "Editorial": "A.D.A. Edita",
+    "Autor": "FERRER, RICARDO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 14015,
+    "Anio": 1966,
+    "Idioma": "Aleman",
+    "Titulo": "Psicologia general, v 3: La psicologia experimental y sus fundamentos; parte primera",
+    "Editorial": "A.F.A.",
+    "Autor": "FERRERO, IGNACIO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 14017,
+    "Anio": 1946,
+    "Idioma": "Espaniol",
+    "Titulo": "La Teoria pura del derecho: introduccion a la problematica cientifica del derecho",
+    "Editorial": "A.G.A.Y.C.",
+    "Autor": "FERRERO, MARIO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 14018,
+    "Anio": 1980,
+    "Idioma": "Ingles",
+    "Titulo": "Introduccion al derecho penal guatemalteco; parte especial",
+    "Editorial": "A.I.D.I.P.E.",
+    "Autor": "FERREYRA CORTES, GONZALO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 14019,
+    "Anio": 1985,
+    "Idioma": "Frances",
+    "Titulo": "Estadistica descriptiva",
+    "Editorial": "A.L. Mateos",
+    "Autor": "FERRI, ENRICO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14023,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "Promocion de hoteles por categoria",
+    "Editorial": "A.L.A.",
+    "Autor": "FERRI, MICHAEL G",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14024,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "The Grandeur of ordinary life : The keystones of development = las claves del desarrollo",
+    "Editorial": "A.T.E.",
+    "Autor": "FERRO, ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14032,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Tus hijos adolescentes / Gerardo Castillo.",
+    "Editorial": "AATCC",
+    "Autor": "FERRO, CARLOS A",
+    "Edicion": 10,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14035,
+    "Anio": 2002,
+    "Idioma": "Aleman",
+    "Titulo": "The Grandeur of ordinary life : Artistic creativity = creatividad artistica",
+    "Editorial": "AB Allhems Tryckerier",
+    "Autor": "FERRON GEIS, MIQUEL",
+    "Edicion": 9,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14037,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "The Grandeur of ordinary life : University research and teaching = Investigacion y docencia universitaria",
+    "Editorial": "Abaco",
+    "Autor": "FERRUS ROIG, FRANCISCO",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14038,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "Manual para la formacion, integracion y fortalecimiento de la Unidad TEcnica Municipal de Planificacion",
+    "Editorial": "Abaco de Rodolfo Depalma",
+    "Autor": "FERSMAN, ALEXANDR E",
+    "Edicion": 5,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 14039,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "Propuesta de ley del rEgimen penitenciario de la Comision Consultiva del Sistema Penitenciario Nacional",
+    "Editorial": "Abacus",
+    "Autor": "FESCH, JACQUES",
+    "Edicion": 5,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 14040,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "Segundo informe Comision Consultiva del Sistema Penitenciario Nacional",
+    "Editorial": "Abada",
+    "Autor": "FESQUET, HILDA B",
+    "Edicion": 5,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 14044,
+    "Anio": 1966,
+    "Idioma": "Espaniol",
+    "Titulo": "Maria, la mujer; un estudio cientifico de su personalidad",
+    "Editorial": "ABBEVILLE PRESS",
+    "Autor": "FESS, PHILIP E",
+    "Edicion": 5,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 14047,
+    "Anio": 1989,
+    "Idioma": "Espaniol",
+    "Titulo": "MEtodos de investigacion para el profesorado",
+    "Editorial": "Abbeydale Press",
+    "Autor": "FESSLER, LOREN",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 14052,
+    "Anio": 1963,
+    "Idioma": "Espaniol",
+    "Titulo": "Anti-Kommunism in Latin America: an X-Ray of the process leading to a new colonialism",
+    "Editorial": "Abbott",
+    "Autor": "FESSY, GEORGES",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 14053,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "Guatemala : the land and the people",
+    "Editorial": "ABC",
+    "Autor": "FESTINGER, LEON",
+    "Edicion": 8,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 14055,
+    "Anio": 1991,
+    "Idioma": "Ruso",
+    "Titulo": "La Mediacion pedagogica: apuntes para una educacion a distancia alternativa",
+    "Editorial": "Abelard-Schuman",
+    "Autor": "FESTIVAL INTERNACIONAL ARTE EN MAYO ARTE CONTEMPORANEO: EL ARTE DE AYUDAR",
+    "Edicion": 8,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 14058,
+    "Anio": 1954,
+    "Idioma": "Mandarin",
+    "Titulo": "Grandes novelas de la literatura universal. v 4 La novela clasica francesa",
+    "Editorial": "Abeledo Perrot",
+    "Autor": "FESTIVAL INTERNACIONAL ARTE EN MAYO: EL ARTE DE AYUDAR",
+    "Edicion": 8,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 14059,
+    "Anio": 1942,
+    "Idioma": "Ingles",
+    "Titulo": "Historia de la literatura latina",
+    "Editorial": "Abeledo-Perrot",
+    "Autor": "FESTIVAL INTERNACIONAL ARTE EN MAYO: POR LOS MAS NECESITADOS",
+    "Edicion": 7,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14060,
+    "Anio": 1964,
+    "Idioma": "Espaniol",
+    "Titulo": "Maestros ingleses, v 6",
+    "Editorial": "AbeledoPerrot",
+    "Autor": "FESTIVAL INTERNACIONAL DE ESCULTURA GUATEMALA INMORTAL 2007",
+    "Edicion": 6,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14061,
+    "Anio": 1968,
+    "Idioma": "Espaniol",
+    "Titulo": "Las Tareas para casa como medios de ensenianza",
+    "Editorial": "Ablex Publishing",
+    "Autor": "FETTERMAN, LISA Q",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14062,
+    "Anio": 1968,
+    "Idioma": "Ruso",
+    "Titulo": "Enriquecimiento del curriculum con acontecimientos de actualidad",
+    "Editorial": "Abrams Comicarts",
+    "Autor": "FEUCHTINGER, EUGENE",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14064,
+    "Anio": 1968,
+    "Idioma": "Mandarin",
+    "Titulo": "Pruebas practicas en el aula",
+    "Editorial": "Febrero",
+    "Autor": "FEUCHTWANGER, LION",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14066,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "Memoria de labores 2001 : Superintendencia de Administracion Tributaria, SAT",
+    "Editorial": "AC",
+    "Autor": "FEUERBACH, LUDWIG",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14067,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Memoria de labores 2001 : Superintencia de Administracion Tributaria, SAT",
+    "Editorial": "Academia Antioquenia de Historia",
+    "Autor": "FEUERSTEIN, GÃ›NTHER",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 14068,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Asiste : asistente de tributacion electronica, plan IVA.",
+    "Editorial": "Academia Boyacense de Historia",
+    "Autor": "FICHTE, JOHANN GOTTLIEB",
+    "Edicion": 2,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 14071,
+    "Anio": 2002,
+    "Idioma": "Ruso",
+    "Titulo": "Manual de organizacion del sector publico",
+    "Editorial": "Academia Colombiana de Historia",
+    "Autor": "FIDALGO GALLARDO, CARLOS",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 14073,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "Congresos internacionales del CLAD, del 1 al 6",
+    "Editorial": "Academia de CentroamErica",
+    "Autor": "FIDALGO, JOSE A",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14074,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "TEcnicas para dinamizar la ensenianza y el aprendizaje; tEcnicas de trabajo intelectual y dinamicas de grupo para educar y orientar",
+    "Editorial": "Academia de Diplomacia de Chile",
+    "Autor": "FIDALGO, LUIS FERNANDO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14075,
+    "Anio": 1944,
+    "Idioma": "Espaniol",
+    "Titulo": "A travEs de la prehistoria",
+    "Editorial": "Academia de Geografia e Historia de Costa Rica",
+    "Autor": "FIEDLER, JEANNINE",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14076,
+    "Anio": 1944,
+    "Idioma": "Ruso",
+    "Titulo": "La Civilizacion china",
+    "Editorial": "Academia de Geografia e Historia de Guatemala, AGHG",
+    "Autor": "FIEDLER, KONRAD",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14078,
+    "Anio": 1949,
+    "Idioma": "Mandarin",
+    "Titulo": "El sermon de la montania",
+    "Editorial": "Academia de Guerra Naval",
+    "Autor": "FIELD, JOANNA (SEUD)",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14079,
+    "Anio": 1966,
+    "Idioma": "Ingles",
+    "Titulo": "La educacion en la perspectiva de la historia",
+    "Editorial": "Academia Gallega de Jurisprudencia y Legislacion",
+    "Autor": "FIELD, MICHAEL",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14080,
+    "Anio": 1939,
+    "Idioma": "Espaniol",
+    "Titulo": "Pitagoras; los tres senderos de una vida perfecta : sabiduria, moral, religion",
+    "Editorial": "ACADEMIA GIL",
+    "Autor": "FIELD, NORMA",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14081,
+    "Anio": 1945,
+    "Idioma": "Espaniol",
+    "Titulo": "La edad media",
+    "Editorial": "Academia Guatemalteca de la Lengua",
+    "Autor": "FIELD, RICHARD H",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14082,
+    "Anio": 1969,
+    "Idioma": "Ruso",
+    "Titulo": "La Ciudad y los perros",
+    "Editorial": "Academia Iberoamericana de Poesia",
+    "Autor": "FIELD, SYD",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 14084,
+    "Anio": 2000,
+    "Idioma": "Mandarin",
+    "Titulo": "El misterio del capital",
+    "Editorial": "Academia MExicana de Jurisprudencia y Legislacion, Correspondiente de la de Espania",
+    "Autor": "FIELL, CHARLOTTE",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 14085,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "Hijos mejores : guia para una educacion inteligente",
+    "Editorial": "Academia Nacional de la Historia",
+    "Autor": "FIELL, PETER",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14094,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Patternmaking for fashion design",
+    "Editorial": "Academias Pitman",
+    "Autor": "FIENNES, JOSEPH",
+    "Edicion": 2,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 14095,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Matrimonio para un tiempo nuevo",
+    "Editorial": "Academic Press",
+    "Autor": "FIERENS, PAUL",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 14100,
+    "Anio": 1999,
+    "Idioma": "Ruso",
+    "Titulo": "Reinventing work: the brand you 50: fifty ways to transform yourself from an 'employee' into a brand that shouts distinction, commitment, and passion",
+    "Editorial": "AcadEmica Centroamericana",
+    "Autor": "FIFIELD, WILLIAM",
+    "Edicion": 2,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 14101,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Tu hija de 15 a 16 anios",
+    "Editorial": "AcadEmicas",
+    "Autor": "FIGA FAURA, LUIS",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14102,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Tu hijo de 15 a 16 anios",
+    "Editorial": "ACADEMY",
+    "Autor": "FIGA I VAELLO, JAUME",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14103,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Situaciones cotidianas de 6 a 12 anios",
+    "Editorial": "Academy of American Franciscan History",
+    "Autor": "FIGARI SOLARI, PEDRO",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14104,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Situaciones cotidianas de tus hijos adolescentes",
+    "Editorial": "Acali",
+    "Autor": "FIGUEIRAS, AMIRA CONSUELO",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14105,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Situaciones cotidianas de 0 a 6 anios",
+    "Editorial": "Acantilado",
+    "Autor": "FIGUEIREDO, ADELPHA S. R.",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14106,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Educar la conciencia",
+    "Editorial": "ACANTO",
+    "Autor": "FIGUEIREDO, DJAIRO G. DE",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14107,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Tu hijo de 8 a 9 anios",
+    "Editorial": "ACC Art Books",
+    "Autor": "FIGUEIREDO, FIDELINO DE",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14111,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "El arte de enseniar a amar",
+    "Editorial": "ACCE",
+    "Autor": "FIGUERA, GUILLERMO",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14113,
+    "Anio": 1932,
+    "Idioma": "Aleman",
+    "Titulo": "Juan Federico Herbart",
+    "Editorial": "Access Press",
+    "Autor": "FIGUERAS SERRA, JOSEFINA",
+    "Edicion": 2,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 14117,
+    "Anio": 1974,
+    "Idioma": "Espaniol",
+    "Titulo": "El heredero de Falconhurst",
+    "Editorial": "Accion Catolica Guatemalteca",
+    "Autor": "FIGUERAS, JOSEFINA",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 14118,
+    "Anio": 1998,
+    "Idioma": "Ingles",
+    "Titulo": "El circulo de la innovacion",
+    "Editorial": "Accion Ciudadana",
+    "Autor": "FIGUEREDO ARA, LIONEL",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 14123,
+    "Anio": 1952,
+    "Idioma": "Frances",
+    "Titulo": "Ideales de la edad media. v 1: Vida de los hEroes",
+    "Editorial": "Accion Democratica Boliviana",
+    "Autor": "FIGUEROA ABAD, INES",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 14124,
+    "Anio": 1947,
+    "Idioma": "Frances",
+    "Titulo": "Ideales de la edad media. v 3: La vida en las ciudades",
+    "Editorial": "Accion Social Empresarial, ASE",
+    "Autor": "FIGUEROA ACAJABON, MARIA JOSE",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 14125,
+    "Anio": 1937,
+    "Idioma": "Espaniol",
+    "Titulo": "La Doctrina educativa de J. J. Rousseau",
+    "Editorial": "ACE Books",
+    "Autor": "FIGUEROA ARANA, EUNISE",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 14134,
+    "Anio": 1949,
+    "Idioma": "Espaniol",
+    "Titulo": "Cultura del renacimiento",
+    "Editorial": "Acento",
+    "Autor": "FIGUEROA BERMUDEZ, ROMEO ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 14135,
+    "Anio": 1958,
+    "Idioma": "Espaniol",
+    "Titulo": "Maria en el misterio cristiano",
+    "Editorial": "ACEPRENSA",
+    "Autor": "FIGUEROA BURDILES, NOELIA",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 14136,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Oratoria forense, v 2",
+    "Editorial": "ACER",
+    "Autor": "FIGUEROA CORONADO, FRANCISCO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 14138,
+    "Anio": 1968,
+    "Idioma": "Espaniol",
+    "Titulo": "Advanced cases in marketing management",
+    "Editorial": "ACERVO",
+    "Autor": "FIGUEROA CORTAVARRIA, NILO",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14139,
+    "Anio": 1977,
+    "Idioma": "Espaniol",
+    "Titulo": "Aggregate economic analysis",
+    "Editorial": "Acervo Cultural",
+    "Autor": "FIGUEROA DAVILA, AMILCAR",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14140,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Teach yourself Windows NT Server 4 in 14 days",
+    "Editorial": "Achenbach Foundation for Graphic Arts",
+    "Autor": "FIGUEROA DE BALSELLS, CATALINA",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14141,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Experiencias de una madre",
+    "Editorial": "ACME",
+    "Autor": "FIGUEROA DE GODOY, MIRIAM",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14142,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Centro de recreo Bosques de San Nicolas",
+    "Editorial": "Acme Agency",
+    "Autor": "FIGUEROA DE MEZA, SANDRA JANNETH",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14143,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Casa de la cultura en San Cristobal Verapaz",
+    "Editorial": "ACNUR",
+    "Autor": "FIGUEROA DEL VALLE, JESSICA ALEJANDRA",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 14144,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Sistemas de areas verdes y caminamientos",
+    "Editorial": "ACOME",
+    "Autor": "FIGUEROA ERAZO, JORGE ALFREDO",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 14145,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Teach yourself Access 97 in 21 days",
+    "Editorial": "ACOUSTIC COMMUNICATIONS GROUP",
+    "Autor": "FIGUEROA ESQUIUS, JOSE",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 14146,
+    "Anio": 1998,
+    "Idioma": "Aleman",
+    "Titulo": "Teach yourself Access 97 in 21 days",
+    "Editorial": "ACPD",
+    "Autor": "FIGUEROA FIGUEROA, MARTHA EUGENIA",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 14147,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Fireworks 3 for Windows & Macintosh",
+    "Editorial": "ACRIBIA",
+    "Autor": "FIGUEROA GONZALEZ, NATALIA ELIZABETH",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14148,
+    "Anio": 1995,
+    "Idioma": "Ingles",
+    "Titulo": "Introduccion a Microsoft Windows 95",
+    "Editorial": "Acropolis",
+    "Autor": "FIGUEROA IBARRA, CARLOS",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14149,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Java programming: complete concepts and techniques",
+    "Editorial": "Actar",
+    "Autor": "FIGUEROA MADRID, SERGIO ALEXANDER",
+    "Edicion": 10,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14151,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Java programming: complete concepts and techniques",
+    "Editorial": "Action Media",
+    "Autor": "FIGUEROA MARROQUIN, HORACIO",
+    "Edicion": 9,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14152,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "DOS for dummies",
+    "Editorial": "Actualidad Economica",
+    "Autor": "FIGUEROA MOREIRA, MAGNOLIA JOSEFINA",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14153,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Hands-on netware: a guide to Netware 4.1 and Intranetware 4.11 with projects",
+    "Editorial": "Acuity Productions",
+    "Autor": "FIGUEROA PENIATE, HECTOR ENRIQUE",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14154,
+    "Anio": 1958,
+    "Idioma": "Espaniol",
+    "Titulo": "Historia como sistema",
+    "Editorial": "Ad Qualite",
+    "Autor": "FIGUEROA PERDOMO, CLAUDIA",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14155,
+    "Anio": 1958,
+    "Idioma": "Espaniol",
+    "Titulo": "El tema de nuestro tiempo",
+    "Editorial": "Ad-Hoc",
+    "Autor": "FIGUEROA PINEDA, IRVIN EDMUNDO",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 14157,
+    "Anio": 1962,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduccion a la psicologia / por Werner Wolff ; traduccion de Federico Pascual del Roncal.",
+    "Editorial": "ADAE",
+    "Autor": "FIGUEROA QUINTANA, NICOLE",
+    "Edicion": 5,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 14158,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "La Economia informal en Guatemala",
+    "Editorial": "Adams",
+    "Autor": "FIGUEROA SANCHEZ, PEDRO AUGUSTO",
+    "Edicion": 5,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 14162,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Los Pobres explican la pobreza : el caso de Guatemala",
+    "Editorial": "Adams Media",
+    "Autor": "FIGUEROA SARTI, RAUL",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 14163,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Manual de los factores a considerar para la organizacion del servicio de alimentos de un centro escolar",
+    "Editorial": "Addison Wesley",
+    "Autor": "FIGUEROA V., BRAULIO CESAR",
+    "Edicion": 8,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 14164,
+    "Anio": 1947,
+    "Idioma": "Espaniol",
+    "Titulo": "The Ancient maya",
+    "Editorial": "ADDISON WESLEY LONGMAN",
+    "Autor": "FIGUEROA VDA. DE BALSELLS, CATALINA",
+    "Edicion": 8,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 14165,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Armas y municiones en Guatemala: estudio sobre su control y regulacion juridica",
+    "Editorial": "ADDISON WESLEY-LONGMAN",
+    "Autor": "FIGUEROA, ANGEL ALFREDO",
+    "Edicion": 8,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 14166,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Seguridad privada en Guatemala: estudio sobre su control y regulacion juridica",
+    "Editorial": "ADDISON-WESLEY",
+    "Autor": "FIGUEROA, HORACIO",
+    "Edicion": 7,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 14167,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Anuario de derecho constitucional latinoamericano, 2000",
+    "Editorial": "ADDISON-WESLEY IBEROAMERICANA",
+    "Autor": "FIGUEROBA FIGUEROBA, ANTONIO",
+    "Edicion": 6,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 14168,
+    "Anio": 1962,
+    "Idioma": "Aleman",
+    "Titulo": "Espania invertebrada; bosquejo de algunos pensamientos historicos",
+    "Editorial": "Adelphi",
+    "Autor": "FIGUEROLA PALOMO, MANUEL",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14169,
+    "Anio": 1960,
+    "Idioma": "Espaniol",
+    "Titulo": "Mision de la universidad",
+    "Editorial": "ADEMATE",
+    "Autor": "FIGUIER, LUIS",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14170,
+    "Anio": 1958,
+    "Idioma": "Ingles",
+    "Titulo": "Goya",
+    "Editorial": "ADESCA",
+    "Autor": "FIIGUEROA ABAD, ANA PAULA",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14172,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "Instrumentos internacionales sobre el control de armas",
+    "Editorial": "ADESDEG",
+    "Autor": "FILLION, LOUIS-CLAUDE",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14173,
+    "Anio": 1985,
+    "Idioma": "Frances",
+    "Titulo": "Manual de pronunicacion espaniola",
+    "Editorial": "ADEU",
+    "Autor": "FILLOUX, JEAN CLAUDE",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 14174,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Las patrullas civiles y su legado : superar la militarizacion y polarizacion del campo guatemalteco",
+    "Editorial": "Administracion Libreria de Victoriano Suarez",
+    "Autor": "FILLOY Y., EUGENIO",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  }
+]

@@ -1,0 +1,4992 @@
+{ "libros":[
+  {
+    "ISBN": 15885,
+    "Anio": 2000,
+    "Idioma": "Aleman",
+    "Titulo": "Estudio y utilizacion del disenio ambiental en centro para enfermos terminales",
+    "Editorial": "Adams Media",
+    "Autor": "GARCIA HERRERA, ANA GABRIELA",
+    "Edicion": 3,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 15886,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Posada maya; turismo cientifico y recreativo Quiriga",
+    "Editorial": "Addison Wesley",
+    "Autor": "GARCIA HERREROS, JULIA",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15887,
+    "Anio": 1970,
+    "Idioma": "Ingles",
+    "Titulo": "Algunos aspectos de historia de la arquitectura de Antigua Guatemala",
+    "Editorial": "ADDISON WESLEY LONGMAN",
+    "Autor": "GARCIA HIDALGO, MARIA FERNANDA",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15888,
+    "Anio": 1991,
+    "Idioma": "Frances",
+    "Titulo": "El drenaje en las carreteras de Guatemala; seleccion de la estructura requerida en funcion del gasto",
+    "Editorial": "ADDISON WESLEY-LONGMAN",
+    "Autor": "GARCIA HIGUERA, CARLOS",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15889,
+    "Anio": 1988,
+    "Idioma": "Frances",
+    "Titulo": "Diccionario de la moda, confeccion, e industrias textiles",
+    "Editorial": "ADDISON-WESLEY",
+    "Autor": "GARCIA HOZ, VICTOR",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15894,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international",
+    "Editorial": "ADDISON-WESLEY IBEROAMERICANA",
+    "Autor": "GARCIA HUERTA, LORENZO",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15895,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 1",
+    "Editorial": "Adelphi",
+    "Autor": "GARCIA IBANIEZ, VICTOR RUBEN",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15897,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 2",
+    "Editorial": "ADEMATE",
+    "Autor": "GARCIA INZA, JUAN",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15898,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 3",
+    "Editorial": "ADESCA",
+    "Autor": "GARCIA IXCOT, ANIBAL RENE",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15899,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 4",
+    "Editorial": "ADESDEG",
+    "Autor": "GARCIA JALON DE LA LAMA, ISABEL",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15900,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 5",
+    "Editorial": "ADEU",
+    "Autor": "GARCIA JIMENEZ, AURA ELIZABETH",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15901,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 6",
+    "Editorial": "Administracion Libreria de Victoriano Suarez",
+    "Autor": "GARCIA KUTZBACH, ABRAHAM",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 15902,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 7",
+    "Editorial": "Adobe Press",
+    "Autor": "GARCIA LABRADO, FRANCISCO",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15903,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 8",
+    "Editorial": "ADPLEX AmEricas",
+    "Autor": "GARCIA LABRADO, JOSE LUIS",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15904,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 9",
+    "Editorial": "AECI",
+    "Autor": "GARCIA LAGUARDIA, JORGE MARIO",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15905,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 10",
+    "Editorial": "AECID",
+    "Autor": "GARCIA LAGUARDIA, JORGE MARIO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15906,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 11",
+    "Editorial": "AEDOS",
+    "Autor": "GARCIA LAHIGUERA, JOSE MARIA",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15907,
+    "Anio": 1969,
+    "Idioma": "Aleman",
+    "Titulo": "Encyclopedia international, v 12",
+    "Editorial": "AEJMC",
+    "Autor": "GARCIA LARA, FERNANDO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15908,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 13",
+    "Editorial": "AENOR",
+    "Autor": "GARCIA LARA, MARIO A",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15909,
+    "Anio": 1969,
+    "Idioma": "Ingles",
+    "Titulo": "Encyclopedia international, v 14",
+    "Editorial": "AFANES",
+    "Autor": "GARCIA LAU, MARIA JOSE",
+    "Edicion": 3,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15910,
+    "Anio": 1969,
+    "Idioma": "Frances",
+    "Titulo": "Encyclopedia international, v 15",
+    "Editorial": "AFHA",
+    "Autor": "GARCIA LEAL, ANDREA",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15911,
+    "Anio": 1969,
+    "Idioma": "Frances",
+    "Titulo": "Encyclopedia international, v 16",
+    "Editorial": "AFHA Internacional",
+    "Autor": "GARCIA LIRA, BEATRIZ",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15912,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 17",
+    "Editorial": "Afinidades",
+    "Autor": "GARCIA LLACER, VICENTE",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15913,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 18",
+    "Editorial": "AFRODISIO AGUADO",
+    "Autor": "GARCIA LOPEZ, ALEJANDRA MARIA",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15914,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 19",
+    "Editorial": "AFS",
+    "Autor": "GARCIA LOPEZ, JESUS",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15915,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Encyclopedia international, v 20",
+    "Editorial": "Agata",
+    "Autor": "GARCIA LOPEZ, JESUS",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15917,
+    "Anio": 1973,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia practica de management. v 1: Practica de la direccion de empresas",
+    "Editorial": "AGAYC",
+    "Autor": "GARCIA LORCA, FEDERICO",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15918,
+    "Anio": 1973,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia practica de management. v 2: La investigacion operativa",
+    "Editorial": "Agencia Alemana de Energia",
+    "Autor": "GARCIA LORENZO, LUCIANO",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15919,
+    "Anio": 1974,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia practica de management. v 3: El cuadro de mando de la empresa",
+    "Editorial": "Agencia de Comunicacion Internacional de los Estados Unidos de AmErica",
+    "Autor": "GARCIA LUENGO, RAMON BERNABE",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15921,
+    "Anio": 1973,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia practica de management. v 4: De los ratios al cuadro de mando",
+    "Editorial": "Agencia EFE",
+    "Autor": "GARCIA MAINIERI, NORMA",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15922,
+    "Anio": 1975,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia practica de management. v 5: Iniciacion practica a la estadistica",
+    "Editorial": "Agencia Espaniola de Cooperacion Internacional para el Desarrollo, AECID",
+    "Autor": "GARCIA MANCHON, GREGORIO",
+    "Edicion": 2,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15923,
+    "Anio": 1972,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia practica de management. v 6 Los graficos",
+    "Editorial": "AGENCIA ESPANIOLA DE COOPERACION INTERNACIONAL, AECI",
+    "Autor": "GARCIA MANCILLA, CLAUDIA",
+    "Edicion": 2,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15924,
+    "Anio": 1974,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia practica de management. v 7: TEcnica de la financiacion de empresas",
+    "Editorial": "Agencia Internacional de Libreria",
+    "Autor": "GARCIA MANCILLA, KARLA GABRIELA",
+    "Edicion": 2,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15925,
+    "Anio": 1973,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia practica de management. v 8 Organizacion para pequenias y grandes empresas",
+    "Editorial": "Agencia para la Planeacion del Desarrollo Urbano de Nuevo Leon",
+    "Autor": "GARCIA MANRIQUE, MARCO TULIO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15926,
+    "Anio": 1973,
+    "Idioma": "Aleman",
+    "Titulo": "Enciclopedia practica de management, v 9: Agenda del organizador",
+    "Editorial": "AGENGIA ESPANIOLA DE COOPERACION INTERNACIONAL / OIT",
+    "Autor": "GARCIA MARQUEZ, ELIGIO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15927,
+    "Anio": 1973,
+    "Idioma": "Espaniol",
+    "Titulo": "Enciclopedia practica de management. v 10: Direccion y administracion industrial",
+    "Editorial": "AGEXPRONT",
+    "Autor": "GARCIA MARQUEZ, FERNANDO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15928,
+    "Anio": 1991,
+    "Idioma": "Ingles",
+    "Titulo": "Diccionario de dudas y dificultades de la lengua espaniola",
+    "Editorial": "Agfa-Gevaert",
+    "Autor": "GARCIA MARQUEZ, GABRIEL",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15930,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "Dressing the man : mastering the art of permanent fashion",
+    "Editorial": "Agrifor Consult",
+    "Autor": "GARCIA MARTIN, JOSE LUIS",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 15934,
+    "Anio": 2014,
+    "Idioma": "Espaniol",
+    "Titulo": "The Mystery of Redemption and Christian Discipleship / Very Rev. Peter V. Armenio.",
+    "Editorial": "Aguila",
+    "Autor": "GARCIA MARTINEZ, ALEJANDRO NESTOR",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 15935,
+    "Anio": 2002,
+    "Idioma": "Aleman",
+    "Titulo": "Master biblioteca practica de comunicacion",
+    "Editorial": "20th Century Fox",
+    "Autor": "GARCIA MARTINEZ, FIDEL",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 15936,
+    "Anio": 2013,
+    "Idioma": "Espaniol",
+    "Titulo": "Biblioteca de comunicacion",
+    "Editorial": "3M Espania",
+    "Autor": "GARCIA MARTINEZ, JOSE A",
+    "Edicion": 2,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 15937,
+    "Anio": 1941,
+    "Idioma": "Ingles",
+    "Titulo": "La Galatea / Miguel de Cervantes Saavedra",
+    "Editorial": "3R EDITORES",
+    "Autor": "GARCIA MARTINEZ, OLGA PAMELA",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15938,
+    "Anio": 1966,
+    "Idioma": "Frances",
+    "Titulo": "Los Mayas : su civilizacion - su historia - sus vinculaciones continentales / Raphael Girard",
+    "Editorial": "A Lessons in Leadership Publications",
+    "Autor": "GARCIA MARZA, V. DOMINGO",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15939,
+    "Anio": 1981,
+    "Idioma": "Frances",
+    "Titulo": "Historia de la Sociedad Economica de Amigos del Pais / Manuel Rubio Sanchez.",
+    "Editorial": "A New Directions Book",
+    "Autor": "GARCIA MATA, ELBA GLORIA",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15940,
+    "Anio": 1956,
+    "Idioma": "Espaniol",
+    "Titulo": "La Verdad sobre el \"caso de Guatemala\" / Jorge del Valle Matheu.",
+    "Editorial": "A Plume Book",
+    "Autor": "GARCIA MATA, LUISA FERNANDA",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 15941,
+    "Anio": 1978,
+    "Idioma": "Espaniol",
+    "Titulo": "Historia de las civilizaciones antiguas de AmErica desde sus inicios, tomo III / Rafael Girard",
+    "Editorial": "A&E Home Video",
+    "Autor": "GARCIA MAYNEZ, EDUARDO",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15943,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Dirigiendo la brecha digital : manuales sobre E-Readiness",
+    "Editorial": "A&E TELEVISION NETWORK",
+    "Autor": "GARCIA MCDOUGALL, ERWIN ANTONIO",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15945,
+    "Anio": 2002,
+    "Idioma": "Ruso",
+    "Titulo": "Seminario-Taller : E-Readiness en AmErica Latina y el Caribe",
+    "Editorial": "A. & C. Black",
+    "Autor": "GARCIA MCDOUGALL, JULIA EMILIA",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15954,
+    "Anio": 1990,
+    "Idioma": "Mandarin",
+    "Titulo": "BioEtica: principales problemas",
+    "Editorial": "A. A. Knopf",
+    "Autor": "GARCIA MEDRANO, RENWARD",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15956,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "Polideportivo en Tiquisate, Escuintla",
+    "Editorial": "A. AL. BURT",
+    "Autor": "GARCIA MEJIA, RENE",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15957,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Parque ecologico Ciudad Quetzal; Lo de Carranza, San Juan SacatepEquez",
+    "Editorial": "A. Pedone",
+    "Autor": "GARCIA MENCHU, CARLOS GUSTAVO",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 15959,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Centro regional de capacitacion bilingÃ¼e para docentes en servicio de preprimaria y primaria en Chimaltenango",
+    "Editorial": "A. REDONDO",
+    "Autor": "GARCIA MENCOS DE VALDEAVELLANO, PERLA MARGARITA",
+    "Edicion": 2,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 15961,
+    "Anio": 2002,
+    "Idioma": "Ruso",
+    "Titulo": "Un proceso de investigacion para el disenio de objetos arquitectonicos",
+    "Editorial": "A. Taffin-Lefort",
+    "Autor": "GARCIA MENDEZ, SILVIA MARIA",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15962,
+    "Anio": 2002,
+    "Idioma": "Mandarin",
+    "Titulo": "Complejo deportivo en la especialidad de pentatlon moderno, departamento de Guatemala",
+    "Editorial": "A. W. Sijthoff",
+    "Autor": "GARCIA MERCADAL, JOSE",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15963,
+    "Anio": 1999,
+    "Idioma": "Ingles",
+    "Titulo": "Los Terremotos de 1717 en Santiago de Guatemala; consideraciones sociales, economicas y politicas",
+    "Editorial": "A. W. Sythoff",
+    "Autor": "GARCIA MESTANZA, JOSEFA",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 15965,
+    "Anio": 1965,
+    "Idioma": "Espaniol",
+    "Titulo": "Alcibiades, o de la naturaleza del hombre",
+    "Editorial": "A.A.",
+    "Autor": "GARCIA MILIAN, DANIELA",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15966,
+    "Anio": 1967,
+    "Idioma": "Espaniol",
+    "Titulo": "El grupo zoologico humano / Pierre Teilhard de Chardin ; prologo de Jean Piveteau : traduccion espaniola de Carmen Castro.",
+    "Editorial": "A.C.A.M.",
+    "Autor": "GARCIA MIRANDA DE ECHEVERRIA, HILDA MIRIAM",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15967,
+    "Anio": 1965,
+    "Idioma": "Ruso",
+    "Titulo": "El porvenir del hombre / Pierre Teilhard de Chardin ; traduccion espaniola de Carmen Castro.",
+    "Editorial": "A.C.M.E.",
+    "Autor": "GARCIA MOLINA, JAIME ORLANDO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15968,
+    "Anio": 1965,
+    "Idioma": "Mandarin",
+    "Titulo": "Indian crafts of Guatemala and El Salvador",
+    "Editorial": "A.D.A. Edita",
+    "Autor": "GARCIA MORA, CARLOS",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15980,
+    "Anio": 1942,
+    "Idioma": "Ingles",
+    "Titulo": "Apuntes para la historia de la literatura guatemalteca : Epocas indigena y colonial",
+    "Editorial": "A.F.A.",
+    "Autor": "GARCIA MORALES, EDNA MARLENE",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 15981,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "Television y ensenianza",
+    "Editorial": "A.G.A.Y.C.",
+    "Autor": "GARCIA MORALES, GERALDINA",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15982,
+    "Anio": 1989,
+    "Idioma": "Espaniol",
+    "Titulo": "Literatura",
+    "Editorial": "A.I.D.I.P.E.",
+    "Autor": "GARCIA MORALES, OVIDIO",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15984,
+    "Anio": 1996,
+    "Idioma": "Ruso",
+    "Titulo": "Estudio 1 : Diagnostico del sector maquila en Guatemala; la competitividad del sector",
+    "Editorial": "A.L. Mateos",
+    "Autor": "GARCIA MORENO, A",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15985,
+    "Anio": 1996,
+    "Idioma": "Mandarin",
+    "Titulo": "Enfoque; el unico futuro de su empresa",
+    "Editorial": "A.L.A.",
+    "Autor": "GARCIA MORENO, LUIS A.",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15987,
+    "Anio": 1992,
+    "Idioma": "Ingles",
+    "Titulo": "Out of the crisis / W. Edwards Deming.",
+    "Editorial": "A.T.E.",
+    "Autor": "GARCIA MORENTE, MANUEL",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15988,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "La Educacion cinematografica / J. L. M. Peters.",
+    "Editorial": "AATCC",
+    "Autor": "GARCIA MOYANO, C",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 15989,
+    "Anio": 1987,
+    "Idioma": "Espaniol",
+    "Titulo": "Camino a la servidumbre",
+    "Editorial": "AB Allhems Tryckerier",
+    "Autor": "GARCIA NORIEGA, MARCO AUGUSTO",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15990,
+    "Anio": 1974,
+    "Idioma": "Ruso",
+    "Titulo": "Las artes del lenguaje en la escuela elemental",
+    "Editorial": "Abaco",
+    "Autor": "GARCIA NOVAL, JOSE",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15991,
+    "Anio": 1965,
+    "Idioma": "Mandarin",
+    "Titulo": "Cristo vivo; vida de Cristo y vida cristiana",
+    "Editorial": "Abaco de Rodolfo Depalma",
+    "Autor": "GARCIA O., JUAN ALFREDO",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 15992,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "DEcimotercer informe sobre derechos humanos de la Mision de Verificacion de las Naciones Unidas en Guatemala",
+    "Editorial": "Abacus",
+    "Autor": "GARCIA OLALLA, ANA",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15993,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Suplemento al DEcimotercer informe sobre derechos humanos de la Mision de Verificacion de las Naciones Unidas en Guatemala, casos de violaciones a los derechos humanos",
+    "Editorial": "Abada",
+    "Autor": "GARCIA OLMO, MIGUEL ANGEL",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 15999,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Avances y resultados del catastro nacional : informe anual 2001",
+    "Editorial": "ABBEVILLE PRESS",
+    "Autor": "GARCIA ORTEGA, JESUS",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16002,
+    "Anio": 2001,
+    "Idioma": "Ruso",
+    "Titulo": "El contexto economico y social de Guatemala y el catastro como instrumento de desarrollo. El catastro, un instrumento para la planificacion municipal en Guatemala. El sistema de informacion geografica como instrumento de soporte para el mantenimiento",
+    "Editorial": "Abbeydale Press",
+    "Autor": "GARCIA ORTIZ, ENRIQUE ANARCO",
+    "Edicion": 10,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16004,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Aplicacion del derecho agrario en Guatemala - Estrategia y propuesta-",
+    "Editorial": "Abbott",
+    "Autor": "GARCIA OVIEDO, CARLOS",
+    "Edicion": 9,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16005,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Manual para la evaluacion economica de la ley",
+    "Editorial": "ABC",
+    "Autor": "GARCIA PADILLA, NINOSKA",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16006,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Haciendo negocios con MExico : TLC",
+    "Editorial": "Abelard-Schuman",
+    "Autor": "GARCIA PAIZ, DIEGO ALEJANDRO",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16007,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "En busca de una agenda de comercio exterior (El Salvador, Guatemala, Honduras y Nicaragua)",
+    "Editorial": "Abeledo Perrot",
+    "Autor": "GARCIA PASCUAL, CRISTINA",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16008,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Perspectivas economicas -2002 y 2003-",
+    "Editorial": "Abeledo-Perrot",
+    "Autor": "GARCIA PASTOR, CARMEN",
+    "Edicion": 5,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16010,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Como exportar vestuario y textiles a MExico",
+    "Editorial": "Ablex Publishing",
+    "Autor": "GARCIA PAZOS, CAROL MARIANA",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16013,
+    "Anio": 1977,
+    "Idioma": "Espaniol",
+    "Titulo": "El Visitador",
+    "Editorial": "Abrams Comicarts",
+    "Autor": "GARCIA PAZOS, EVELYN MELISSA",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16014,
+    "Anio": 1971,
+    "Idioma": "Aleman",
+    "Titulo": "The Heritage of Africa",
+    "Editorial": "Octubre",
+    "Autor": "GARCIA PELAEZ, FRANCISCO DE PAULA",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16015,
+    "Anio": 199,
+    "Idioma": "Espaniol",
+    "Titulo": "The Great whales: migration and range",
+    "Editorial": "AC",
+    "Autor": "GARCIA PELEGRIN, JOSE M.",
+    "Edicion": 8,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16023,
+    "Anio": 1942,
+    "Idioma": "Frances",
+    "Titulo": "Cartas de Santa Teresita del Ninio Jesus",
+    "Editorial": "Academia Colombiana de Historia",
+    "Autor": "GARCIA PENIATE, MARCIA VICTORIA",
+    "Edicion": 8,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16025,
+    "Anio": 1946,
+    "Idioma": "Espaniol",
+    "Titulo": "Sumario de pedagogia como ciencia filosofica: pedagogia general / Giovanni Gentile ; traduccion de Ada L. M. Scotucci ; prologo de Juan E. Cassani.",
+    "Editorial": "Academia Colombiana de Jurisprudencia",
+    "Autor": "GARCIA PERELLO, WALTER",
+    "Edicion": 8,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16026,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "El problema de la disposicion de residuos solidos en la ciudad de Guatemala",
+    "Editorial": "Academia de CentroamErica",
+    "Autor": "GARCIA PEREZ, GLORIA",
+    "Edicion": 7,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16032,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Universidad y derechos humanos",
+    "Editorial": "Academia de Diplomacia de Chile",
+    "Autor": "GARCIA PEREZ, J",
+    "Edicion": 6,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16033,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Universidad y sociedad: discursos universitarios 1995-1996, v 2",
+    "Editorial": "Academia de Geografia e Historia de Costa Rica",
+    "Autor": "GARCIA PEREZ, RICARDO",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16034,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Situacion de la niniez y la adolescencia en el marco del proceso de paz de Guatemala, informe de verificacion",
+    "Editorial": "Academia de Geografia e Historia de Guatemala, AGHG",
+    "Autor": "GARCIA PINEDA, TITO ELI",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16035,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Politica agraria y desarrollo rural en Guatemala; visiones para una agenda de Estado",
+    "Editorial": "Academia de Guerra Naval",
+    "Autor": "GARCIA PONCE, INGRID ALICIA",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16036,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Doctorado Honoris Causa Dr. Joaquin Maria Arago Mitjans, S.J.",
+    "Editorial": "Academia Gallega de Jurisprudencia y Legislacion",
+    "Autor": "GARCIA PONCE, JUAN",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16037,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "The Hotel sales and marketing plan book",
+    "Editorial": "ACADEMIA GIL",
+    "Autor": "GARCIA PORTA DE MONZON, ANA LUCIA",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16038,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduccion a la logica",
+    "Editorial": "Academia Guatemalteca de la Lengua",
+    "Autor": "GARCIA PRADA, CARLOS",
+    "Edicion": 2,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16039,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Cases in strategic marketing management : Business strategies in Muslim countries",
+    "Editorial": "Academia Iberoamericana de Poesia",
+    "Autor": "GARCIA PUENTE, NELSON GIOVANNI",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16040,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "International business handbook",
+    "Editorial": "Academia MExicana de Jurisprudencia y Legislacion, Correspondiente de la de Espania",
+    "Autor": "GARCIA QUINTEROS, OTTO LEONEL",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16049,
+    "Anio": 1950,
+    "Idioma": "Espaniol",
+    "Titulo": "Misterios de la vida de Cristo. v 2 Disputas 33-58",
+    "Editorial": "Academia Nacional de la Historia",
+    "Autor": "GARCIA R. DE GONZALEZ, TANIA ARACELY",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16055,
+    "Anio": 1992,
+    "Idioma": "Aleman",
+    "Titulo": "Empirical research in capital markets",
+    "Editorial": "Academias Pitman",
+    "Autor": "GARCIA RAMIREZ, SERGIO",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16057,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "Foundations of financial markets and institutions",
+    "Editorial": "AcadEmica Centroamericana",
+    "Autor": "GARCIA RAMOS, DOMINGO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16060,
+    "Anio": 2000,
+    "Idioma": "Frances",
+    "Titulo": "Finance",
+    "Editorial": "AcadEmicas",
+    "Autor": "GARCIA RAMOS, GERMAN ADOLFO",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16061,
+    "Anio": 1999,
+    "Idioma": "Frances",
+    "Titulo": "Finance Center",
+    "Editorial": "ACADEMY",
+    "Autor": "GARCIA RAMOS, JOSE MANUEL",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16065,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Guerrilla negotiating: unconventional weapons and advanced tactics to gain a fair advantage in an unfair world",
+    "Editorial": "Academy of American Franciscan History",
+    "Autor": "GARCIA RECHE, LEANDRO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16066,
+    "Anio": 1985,
+    "Idioma": "Espaniol",
+    "Titulo": "The Marketing plan workbook",
+    "Editorial": "Acali",
+    "Autor": "GARCIA REMIRO, JOSE LUIS",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16068,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Financial services and financial institutions: value creation in theory and practice",
+    "Editorial": "Acantilado",
+    "Autor": "GARCIA REYES, AMERICA JAZMIN",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16069,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "Practical financial management",
+    "Editorial": "ACANTO",
+    "Autor": "GARCIA RIERA, EMILIO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16072,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Foundations of corporate finance",
+    "Editorial": "ACC Art Books",
+    "Autor": "GARCIA RODAS, OLIVERIO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16073,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Financial markets and institutions",
+    "Editorial": "ACCE",
+    "Autor": "GARCIA ROIG, MARGARITA",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16074,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "The mind and heart of the negotiator",
+    "Editorial": "Access Press",
+    "Autor": "GARCIA ROSSI, ENRIQUE",
+    "Edicion": 3,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16075,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Marketing management in the 21st century",
+    "Editorial": "Accion Catolica Guatemalteca",
+    "Autor": "GARCIA RUANO, KARINA JUDITH",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16077,
+    "Anio": 1963,
+    "Idioma": "Espaniol",
+    "Titulo": "El libro de los libros de Chilam Balam",
+    "Editorial": "Accion Ciudadana",
+    "Autor": "GARCIA RUIZ, ALBERTO",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16078,
+    "Anio": 1980,
+    "Idioma": "Espaniol",
+    "Titulo": "Wine and the bottom line; restaurant training manual",
+    "Editorial": "Accion Democratica Boliviana",
+    "Autor": "GARCIA RUIZ, JOSE LUIS",
+    "Edicion": 4,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16079,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Commercial bank management",
+    "Editorial": "Accion Social Empresarial, ASE",
+    "Autor": "GARCIA RUIZ, JOSE LUIS",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16080,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "The Definitive guide to marketing planning",
+    "Editorial": "ACE Books",
+    "Autor": "GARCIA RUIZ, PABLO",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16081,
+    "Anio": 1987,
+    "Idioma": "Aleman",
+    "Titulo": "The revolution in corporate finance",
+    "Editorial": "Acento",
+    "Autor": "GARCIA RUIZ, RAMON",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16082,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Money and capital markets",
+    "Editorial": "ACEPRENSA",
+    "Autor": "GARCIA RUIZ, VICTOR",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16084,
+    "Anio": 1990,
+    "Idioma": "Ingles",
+    "Titulo": "Guerrilla marketing weapons; 100 affordable marketing methods for maximizing profits from your small business",
+    "Editorial": "ACER",
+    "Autor": "GARCIA SAENZ, ANA CRISTINA",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16085,
+    "Anio": 1990,
+    "Idioma": "Frances",
+    "Titulo": "Money and capital markets: financial instruments and their uses",
+    "Editorial": "ACERVO",
+    "Autor": "GARCIA SAIZ, CONCEPCION",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16086,
+    "Anio": 1990,
+    "Idioma": "Frances",
+    "Titulo": "The New corporate bond market: a complete and insightful analysis of the latest trends, issues and advances",
+    "Editorial": "Acervo Cultural",
+    "Autor": "GARCIA SALAS BARRIENTOS, SANDRA IZABELLA",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16088,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Student CD-Rom to accompany Foundations of corporate finance",
+    "Editorial": "Achenbach Foundation for Graphic Arts",
+    "Autor": "GARCIA SALAS, JOSE MARIA",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16091,
+    "Anio": 1941,
+    "Idioma": "Aleman",
+    "Titulo": "El jardin de rosas / Tomas de Kempis ; trad. del latin por D. Luis Rovira y Benet, Pbro.",
+    "Editorial": "Acme Agency",
+    "Autor": "GARCIA SALGADO, TOMAS",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16092,
+    "Anio": 1941,
+    "Idioma": "Espaniol",
+    "Titulo": "El valle de lirios / Tomas de Kempis ; trad. del latin por D. Luis Rovira y Benet, Pbro.",
+    "Editorial": "ACNUR",
+    "Autor": "GARCIA SAMAYOA, JOSE DOMINGO",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16095,
+    "Anio": 1998,
+    "Idioma": "Ingles",
+    "Titulo": "Analisis sobre la necesidad de desarrollar un marco juridico adecuado para implementar la privatizacion en Guatemala, a la luz de la constitucion politica de la Republica",
+    "Editorial": "ACOME",
+    "Autor": "GARCIA SANCHEZ, BEATRIZ",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16096,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "Metodologia de disenio para conjuntos habitacionales",
+    "Editorial": "ACOUSTIC COMMUNICATIONS GROUP",
+    "Autor": "GARCIA SANCHEZ, JUSTO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16097,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "Cartilla escolar de cultura civica",
+    "Editorial": "ACPD",
+    "Autor": "GARCIA SANCHEZ, LAURA",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16099,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Grandes autores en libros pequenios",
+    "Editorial": "ACRIBIA",
+    "Autor": "GARCIA SANCHIDRIAN, JESUS",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16100,
+    "Anio": 2010,
+    "Idioma": "Espaniol",
+    "Titulo": "Las Necesidades educativas especiales en la escuela regular",
+    "Editorial": "Acropolis",
+    "Autor": "GARCIA SEAGE, HONORIO",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16101,
+    "Anio": 1933,
+    "Idioma": "Espaniol",
+    "Titulo": "Recordacion florida : discurso historial, demostracion material, militar y politica del reyno de Goathemala",
+    "Editorial": "Actar",
+    "Autor": "GARCIA SERNA, OSCAR LEON",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16102,
+    "Anio": 1933,
+    "Idioma": "Espaniol",
+    "Titulo": "Recordacion florida; discurso historial, demostracion material, militar y politica del reyno de Goathemala, v 1",
+    "Editorial": "Action Media",
+    "Autor": "GARCIA SEVILLA, JULIA",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16103,
+    "Anio": 1933,
+    "Idioma": "Ruso",
+    "Titulo": "Recordacion florida : discurso historial, demostracion material, militar y politica del reyno de Goathemala, v 2",
+    "Editorial": "Actualidad Economica",
+    "Autor": "GARCIA SOLIS, RICARDO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16104,
+    "Anio": 1933,
+    "Idioma": "Mandarin",
+    "Titulo": "Recordacion florida : discurso historial, demostracion material, militar y politica del reyno de Goathemala, v 3",
+    "Editorial": "Acuity Productions",
+    "Autor": "GARCIA SOLOGAISTOA, ADOLFO BERNABE",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16111,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "Finis mundi",
+    "Editorial": "Ad Qualite",
+    "Autor": "GARCIA STUBBS, LUIS",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16112,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Normalizacion en la red; manual 11",
+    "Editorial": "Ad-Hoc",
+    "Autor": "GARCIA SUAREZ, ALFREDO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16114,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Administracion de las operaciones: un Enfasis conceptual",
+    "Editorial": "ADAE",
+    "Autor": "GARCIA TABUENCA, ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16115,
+    "Anio": 2000,
+    "Idioma": "Ruso",
+    "Titulo": "Manual de bioEtica general",
+    "Editorial": "Adams",
+    "Autor": "GARCIA TEJASHUN, CARLOS ROBERTO",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16116,
+    "Anio": 1968,
+    "Idioma": "Mandarin",
+    "Titulo": "Sintesis de la arquitectura en Guatemala",
+    "Editorial": "Adams Media",
+    "Autor": "GARCIA TIU, JULIO WILSON",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16117,
+    "Anio": 1972,
+    "Idioma": "Ingles",
+    "Titulo": "Bobby Fischer : su vida y partidas",
+    "Editorial": "Addison Wesley",
+    "Autor": "GARCIA TORRES, CECILIA",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16118,
+    "Anio": 1978,
+    "Idioma": "Espaniol",
+    "Titulo": "Plenitud",
+    "Editorial": "ADDISON WESLEY LONGMAN",
+    "Autor": "GARCIA TOVAR, MAXIMO",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16119,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Administracion moderna",
+    "Editorial": "ADDISON WESLEY-LONGMAN",
+    "Autor": "GARCIA TUDURI, MERCEDES",
+    "Edicion": 10,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16123,
+    "Anio": 2001,
+    "Idioma": "Ruso",
+    "Titulo": "Breve historia del mundo",
+    "Editorial": "ADDISON-WESLEY",
+    "Autor": "GARCIA TUDURI, ROSAURA",
+    "Edicion": 9,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16124,
+    "Anio": 2002,
+    "Idioma": "Mandarin",
+    "Titulo": "Almanaque mundial 2003",
+    "Editorial": "ADDISON-WESLEY IBEROAMERICANA",
+    "Autor": "GARCIA UBEDA, INGRID ELENA",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16127,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Segundo censo nacional de talla de escolares de primer grado de primaria de la Republica de Guatemala, 16 al 20 de julio de 2001, informe final",
+    "Editorial": "ADEMATE",
+    "Autor": "GARCIA UCEDA, MARIOLA",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16129,
+    "Anio": 1999,
+    "Idioma": "Ruso",
+    "Titulo": "La distribucion del producto interno bruto (PIB) en Guatemala, por region y departamento [y] La distribucion del ingreso de los hogares en Guatemala, por region y departamento",
+    "Editorial": "ADESDEG",
+    "Autor": "GARCIA UGARTE, JERONIMO",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16130,
+    "Anio": 1955,
+    "Idioma": "Mandarin",
+    "Titulo": "Historia de la filosofia. v 1: Filosofia antigua, filosofia patristica, filosofia escolastica / Nicolas Abbagnano ; traduccion de Juan Estelrich.",
+    "Editorial": "ADEU",
+    "Autor": "GARCIA URREA, JOSE ANTONIO",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16131,
+    "Anio": 1955,
+    "Idioma": "Ingles",
+    "Titulo": "Historia de la filosofia. v 2: Filosofia moderna, filosofia postkantiana / Nicolas Abbagnano ; traduccion de Juan Estelrich.",
+    "Editorial": "Administracion Libreria de Victoriano Suarez",
+    "Autor": "GARCIA VALCARCE, ANTONIO",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16133,
+    "Anio": 1955,
+    "Idioma": "Espaniol",
+    "Titulo": "Historia de la filosofia. v 3: Romanticismo y positivismo, filosofia contemporanea / Nicolas Abbagnano ; traduccion de Juan Estelrich",
+    "Editorial": "Adobe Press",
+    "Autor": "GARCIA VALDES, ARTURO",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16134,
+    "Anio": 1979,
+    "Idioma": "Espaniol",
+    "Titulo": "Presencia del Salon de la plastica mexicana",
+    "Editorial": "ADPLEX AmEricas",
+    "Autor": "GARCIA VALLADARES, JUAN CARLOS",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16139,
+    "Anio": 1941,
+    "Idioma": "Ruso",
+    "Titulo": "Retratos contemporaneos",
+    "Editorial": "AECI",
+    "Autor": "GARCIA VALLADARES, MARIA FERNANDA",
+    "Edicion": 8,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16140,
+    "Anio": 1981,
+    "Idioma": "Mandarin",
+    "Titulo": "Enrique VIII y sus seis mujeres",
+    "Editorial": "AECID",
+    "Autor": "GARCIA VELASQUEZ, MARIO DAVID",
+    "Edicion": 8,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16141,
+    "Anio": 1960,
+    "Idioma": "Ingles",
+    "Titulo": "Socrates",
+    "Editorial": "AEDOS",
+    "Autor": "GARCIA VIDAL, JESUS",
+    "Edicion": 8,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16145,
+    "Anio": 1971,
+    "Idioma": "Espaniol",
+    "Titulo": "Manual del encuadernador, dorador y prensista",
+    "Editorial": "AEJMC",
+    "Autor": "GARCIA VILLAMISAR, DOMINGO",
+    "Edicion": 7,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16148,
+    "Anio": 1978,
+    "Idioma": "Espaniol",
+    "Titulo": "Encuadernacion en 5 [cinco] lecciones : libros, carpetas, albumes, planos, estuches, cajas, mapas, cubiertas",
+    "Editorial": "AENOR",
+    "Autor": "GARCIA VILLEGAS, PILAR",
+    "Edicion": 6,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16149,
+    "Anio": 1997,
+    "Idioma": "Ruso",
+    "Titulo": "Predatory marketing : what everyone in business needs to know to win today's consumer",
+    "Editorial": "AFANES",
+    "Autor": "GARCIA VILLOSLADA, RICARDO",
+    "Edicion": 5,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16150,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Los diez libros de arquitectura",
+    "Editorial": "AFHA",
+    "Autor": "GARCIA VINIO, MANUEL",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16151,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Razon y ser de los tipos estructurales",
+    "Editorial": "AFHA Internacional",
+    "Autor": "GARCIA Y COLOME, PABLO",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16164,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Rosarium virginis Mariae = el rosario de la Virgen Maria",
+    "Editorial": "Afinidades",
+    "Autor": "GARCIA YEBRA, VALENTIN",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16165,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Aprender el amor a la Virgen en Camino, de san Josemaria Escriva de Balaguer",
+    "Editorial": "AFRODISIO AGUADO",
+    "Autor": "GARCIA YRUELA, JESUS",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16166,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Â¿Matrimonio o divorcio? la familia en el siglo XXI",
+    "Editorial": "AFS",
+    "Autor": "GARCIA, AGEO",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16167,
+    "Anio": 1964,
+    "Idioma": "Espaniol",
+    "Titulo": "Didactica general; curso de postgraduacion, v 1",
+    "Editorial": "Agata",
+    "Autor": "GARCIA, ANGELA",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16170,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "El canasto del sastre: Cuadros de costumbres",
+    "Editorial": "AGAYC",
+    "Autor": "GARCIA, ANTONIO-CLARET",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16171,
+    "Anio": 1955,
+    "Idioma": "Espaniol",
+    "Titulo": "Ivanhoe",
+    "Editorial": "Agencia Alemana de Energia",
+    "Autor": "GARCIA, BERTA",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16175,
+    "Anio": 1990,
+    "Idioma": "Frances",
+    "Titulo": "La Virtud de la pobreza",
+    "Editorial": "AGENCIA ESPANIOLA DE COOPERACION INTERNACIONAL, AECI",
+    "Autor": "GARCIA, CARLOS",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16177,
+    "Anio": 1992,
+    "Idioma": "Frances",
+    "Titulo": "Los Escorpiones",
+    "Editorial": "Agencia Internacional de Libreria",
+    "Autor": "GARCIA, CIRO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16179,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "La lectura de los mensajes; introduccion al analisis semiotico de mensajes",
+    "Editorial": "Agencia para la Planeacion del Desarrollo Urbano de Nuevo Leon",
+    "Autor": "GARCIA, CLAUDIA",
+    "Edicion": 2,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16181,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Ventajas y desventajas de la implementacion de programas de tiempo compartido en la hoteleria guatemalteca",
+    "Editorial": "AGENGIA ESPANIOLA DE COOPERACION INTERNACIONAL / OIT",
+    "Autor": "GARCIA, DIANA",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16185,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Al otro lado de la vida; explorando el fenomeno de la experiencia ante la cercania de la muerte",
+    "Editorial": "Agfa-Gevaert",
+    "Autor": "GARCIA, ELVIRA",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16186,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Memorial de cocinas y batallas: la singular historia del nacimiento y desarrollo de Pollo Campero (1969-1984)",
+    "Editorial": "Agora",
+    "Autor": "GARCIA, FELIX",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16187,
+    "Anio": 1940,
+    "Idioma": "Espaniol",
+    "Titulo": "Estudios de doctrina juridica y social",
+    "Editorial": "Agrifor Consult",
+    "Autor": "GARCIA, FERMIN MARIA",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16188,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Museo de arte contemporaneo en la ciudad de Guatemala",
+    "Editorial": "AGUADO",
+    "Autor": "GARCIA, FERNANDO J",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16189,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Iglesia de Santa Lucia, Zacapa, una propuesta de restauracion del templo y revitalizacion de su entorno inmediato",
+    "Editorial": "Aguila",
+    "Autor": "GARCIA, FRANCISCO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16190,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Sistema recreativo urbano, ciudad de Guastatoya, El Progreso",
+    "Editorial": "20th Century Fox",
+    "Autor": "GARCIA, GUSTAVO EDUARDO",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16191,
+    "Anio": 1953,
+    "Idioma": "Espaniol",
+    "Titulo": "La Mansion del pajaro serpiente",
+    "Editorial": "3M Espania",
+    "Autor": "GARCIA, HERMINIA",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16192,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Proyecto para la Escuela Nacional de Danza",
+    "Editorial": "3R EDITORES",
+    "Autor": "GARCIA, HILDA",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16193,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Complejo deportivo y recreativo del departamento de Chiquimula",
+    "Editorial": "A Lessons in Leadership Publications",
+    "Autor": "GARCIA, JAIME MARCO",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16195,
+    "Anio": 2002,
+    "Idioma": "Aleman",
+    "Titulo": "San JosE, maestro de vida interior",
+    "Editorial": "A New Directions Book",
+    "Autor": "GARCIA, JESUS",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16196,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Camino : una guia de audicion para los artistas, concierto para piano no. 1 en sol mayor, op. 999",
+    "Editorial": "A Plume Book",
+    "Autor": "GARCIA, JOSE",
+    "Edicion": 3,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16200,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "Camino : un encuentro historico, literario y periodistico",
+    "Editorial": "A&E Home Video",
+    "Autor": "GARCIA, LIGIA MERCEDES",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16201,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "III [Tercera] visita papal a Guatemala",
+    "Editorial": "A&E Mundo",
+    "Autor": "GARCIA, LUIS M",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16216,
+    "Anio": 1992,
+    "Idioma": "Frances",
+    "Titulo": "Proceso de evangelizacion de AmErica en la Capitania General del Reino de Guatemala (1524-1773)",
+    "Editorial": "A&E TELEVISION NETWORK",
+    "Autor": "GARCIA, MARCELA",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16217,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "Analisis y disenio de sistemas de informacion",
+    "Editorial": "A. & C. Black",
+    "Autor": "GARCIA, MARIO R",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16218,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Micro economia",
+    "Editorial": "A. A. Knopf",
+    "Autor": "GARCIA, OSCAR",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16220,
+    "Anio": 1973,
+    "Idioma": "Espaniol",
+    "Titulo": "Psicologia",
+    "Editorial": "A. AL. BURT",
+    "Autor": "GARCIA, PABLO",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16236,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "Luna de cristal",
+    "Editorial": "A. Pedone",
+    "Autor": "GARCIA, PEDRO JULIO",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16237,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Cancionero y romancero antigÃ¼enio",
+    "Editorial": "A. REDONDO",
+    "Autor": "GARCIA, PIEDAD",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16238,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Ernesto Cofinio Ubico: un mEdico apasionado por la vida",
+    "Editorial": "A. Taffin-Lefort",
+    "Autor": "GARCIA, POCHI",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16242,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "How to measure human resources management",
+    "Editorial": "A. W. Sijthoff",
+    "Autor": "GARCIA, RAMON",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16244,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Como criar hijos con actitudes positivas en un mundo negativo",
+    "Editorial": "A. W. Sythoff",
+    "Autor": "GARCIA, RAQUEL",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16254,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Como estudiar y aprender mas y mejor en menos tiempo",
+    "Editorial": "A.A.",
+    "Autor": "GARCIA, ROBERTO B",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16255,
+    "Anio": 1983,
+    "Idioma": "Espaniol",
+    "Titulo": "Grafologia practica",
+    "Editorial": "A.C.A.M.",
+    "Autor": "GARCIA, SALVADOR",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16264,
+    "Anio": 1973,
+    "Idioma": "Espaniol",
+    "Titulo": "Los Dos brujitos mayas: el cuento-novela de la antigÃ¼edad americana",
+    "Editorial": "A.C.M.E.",
+    "Autor": "GARCIA, WILLIAMS",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16265,
+    "Anio": 1986,
+    "Idioma": "Espaniol",
+    "Titulo": "Los Dos brujitos mayas: el cuento-novela de la antigÃ¼edad americana",
+    "Editorial": "A.D.A. Edita",
+    "Autor": "GARCIA-ABADILLO PRIETO, CASIMIRO",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16266,
+    "Anio": 1998,
+    "Idioma": "Aleman",
+    "Titulo": "Programa de tEcnicas didacticas aplicadas a la industria de la hospitalidad",
+    "Editorial": "A.F.A.",
+    "Autor": "GARCIA-ABADILLO, CASIMIRO",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16267,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Constitucion politica de la Republica de Guatemala (Reformada por la Consulta Popular, Acuerdo Legislativo No. 18-93 del 17 de noviembre de 1993)",
+    "Editorial": "A.G.A.Y.C.",
+    "Autor": "GARCIA-ALONSO MONTOYA, MIRIAM",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16268,
+    "Anio": 2000,
+    "Idioma": "Ingles",
+    "Titulo": "Agenda estratEgica nacional de ambiente y recursos naturales 2000-2004",
+    "Editorial": "A.I.D.I.P.E.",
+    "Autor": "GARCIA-ALONSO MONTOYA, MIRYAM",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16269,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "Publicidad y Etica",
+    "Editorial": "A.L. Mateos",
+    "Autor": "GARCIA-ALONSO MONTOYA, PEDRO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16270,
+    "Anio": 2003,
+    "Idioma": "Frances",
+    "Titulo": "Informe del presidente del Banco de Guatemala ante el honorable Congreso de la Republica",
+    "Editorial": "A.L.A.",
+    "Autor": "GARCIA-AMADOR, FRANCISCO V.",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16271,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "El ciudadano y la comunidad politica",
+    "Editorial": "A.T.E.",
+    "Autor": "GARCIA-ARAUJO PERALTA, OSMUNDO",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16272,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Indicadores de educacion superior en Guatemala dEcada 1990-1999",
+    "Editorial": "AATCC",
+    "Autor": "GARCIA-ARIAS, AMALIO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16273,
+    "Anio": 2002,
+    "Idioma": "Aleman",
+    "Titulo": "Lineas de investigacion cientifica y desarrollo tecnologico en medio ambiente del sistema nacional de ciencia y tecnologia",
+    "Editorial": "AB Allhems Tryckerier",
+    "Autor": "GARCIA-CAMINO BURGOS, LUIS",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16275,
+    "Anio": 2004,
+    "Idioma": "Espaniol",
+    "Titulo": "STUDIA POLIANA, Revista sobre el pensamiento de Leonardo Polo",
+    "Editorial": "Abaco",
+    "Autor": "GARCIA-CUETO, EDUARDO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16277,
+    "Anio": 1999,
+    "Idioma": "Ingles",
+    "Titulo": "Fundacion Solar, memoria",
+    "Editorial": "Abaco de Rodolfo Depalma",
+    "Autor": "GARCIA-DURAN DE LARA, JOSE ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16279,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "Resumenes 42a. [cuarenta y dos] Reunion de la Sociedad Americana de Fitopatologia, division Caribe APS-CD. 5o. [quinto] Seminario de manejo integrado de plagas en cultivos no tradicionales de exportacion IPM-CRSP",
+    "Editorial": "Abada",
+    "Autor": "GARCIA-GALLONT CASTILLO, GABRIELA",
+    "Edicion": 10,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16280,
+    "Anio": 1989,
+    "Idioma": "Espaniol",
+    "Titulo": "El libro del ninio",
+    "Editorial": "ABBEVILLE PRESS",
+    "Autor": "GARCIA-GALLONT CASTILLO, MARIA ROSA",
+    "Edicion": 9,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16282,
+    "Anio": 1986,
+    "Idioma": "Espaniol",
+    "Titulo": "Â¿Como debo educar a mis hijos?",
+    "Editorial": "Abbott",
+    "Autor": "GARCIA-GUTIERREZ MOSTEIRO, JAVIER",
+    "Edicion": 5,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16284,
+    "Anio": 1989,
+    "Idioma": "Espaniol",
+    "Titulo": "Hacia la santidad",
+    "Editorial": "ABC",
+    "Autor": "GARCIA-HUIDOBRO, JOAQUIN",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16286,
+    "Anio": 1989,
+    "Idioma": "Ruso",
+    "Titulo": "La Justicia y la actitud del hombre actual",
+    "Editorial": "Abelard-Schuman",
+    "Autor": "GARCIA-LOMBARDIA, PILAR",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16287,
+    "Anio": 1989,
+    "Idioma": "Mandarin",
+    "Titulo": "El origen del hombre / Ignacio Segarra, Juan JosE Sanguineti.",
+    "Editorial": "Abeledo Perrot",
+    "Autor": "GARCIA-MARIRRODRIGA, ROBERTO",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16288,
+    "Anio": 1989,
+    "Idioma": "Ingles",
+    "Titulo": "La Familia, responsabilidad del hombre",
+    "Editorial": "Abeledo-Perrot",
+    "Autor": "GARCIA-MARIRRODRIGA, ROBERTO",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16289,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "Mi madre quiso abortarme",
+    "Editorial": "AbeledoPerrot",
+    "Autor": "GARCIA-MORATO, JUAN RAMON",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16290,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "El corazon ve mas alla de los ojos",
+    "Editorial": "Ablex Publishing",
+    "Autor": "GARCIA-MORENO, ANTONIO",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16292,
+    "Anio": 1996,
+    "Idioma": "Mandarin",
+    "Titulo": "El proceso practico arbitral; modelos-comentarios-doctrina-legislacion-procedimientos",
+    "Editorial": "Noviembre",
+    "Autor": "GARCIA-MOYA SANCHEZ, RUTH",
+    "Edicion": 8,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16293,
+    "Anio": 1994,
+    "Idioma": "Ingles",
+    "Titulo": "Introduction to economics the wealth and poverty of nations",
+    "Editorial": "AC",
+    "Autor": "GARCIA-NAVARRO, ALICIA",
+    "Edicion": 8,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16294,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "Microeconomia",
+    "Editorial": "Academia Antioquenia de Historia",
+    "Autor": "GARCIA-NIETO, JUAN N",
+    "Edicion": 8,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16295,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "Solenne concelebrazione eucaristica in onore del beato Josemaria Escriva de Balaguer, fondatore dell'Opus Dei",
+    "Editorial": "Academia Boyacense de Historia",
+    "Autor": "GARCIA-ORMAECHEA QUERO, CARMEN",
+    "Edicion": 7,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16302,
+    "Anio": 2000,
+    "Idioma": "Ruso",
+    "Titulo": "Gnoseologia",
+    "Editorial": "Academia Colombiana de Historia",
+    "Autor": "GARCIA-PABLOS, ELENA",
+    "Edicion": 6,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16306,
+    "Anio": 1970,
+    "Idioma": "Mandarin",
+    "Titulo": "La inquietud normalista : estampas de adolescencia y juventud, 1921-1927",
+    "Editorial": "Academia Colombiana de Jurisprudencia",
+    "Autor": "GARCIA-PELAYO Y ALONSO, MANUEL",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16307,
+    "Anio": 1999,
+    "Idioma": "Ingles",
+    "Titulo": "Lineamientos de politica economica y social para Guatemala 2000-2003",
+    "Editorial": "Academia de CentroamErica",
+    "Autor": "GARCIA-PELAYO Y GROS, MICHELINE",
+    "Edicion": 4,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16319,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduccion a la pre-prensa digital en disenio grafico",
+    "Editorial": "Academia de Diplomacia de Chile",
+    "Autor": "GARCIA-PELAYO Y GROS, RAMON",
+    "Edicion": 3,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16321,
+    "Anio": 2004,
+    "Idioma": "Espaniol",
+    "Titulo": "Caracterizacion de la gastronomia guatemalteca en el departamento de PetEn",
+    "Editorial": "Academia de Geografia e Historia de Costa Rica",
+    "Autor": "GARCIA-PELAYO Y GROSS, RAMON",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16323,
+    "Anio": 1989,
+    "Idioma": "Ruso",
+    "Titulo": "Aprende a estudiar",
+    "Editorial": "Academia de Geografia e Historia de Guatemala, AGHG",
+    "Autor": "GARCIA-PRENDES DE LLARENA, MARIA",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16324,
+    "Anio": 1958,
+    "Idioma": "Mandarin",
+    "Titulo": "Los Dos brujitos mayas : el cuento-novela de la antigÃ¼edad americana",
+    "Editorial": "Academia de Guerra Naval",
+    "Autor": "GARCIA-PRENDES FAJARDO, MARGARITA",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16325,
+    "Anio": 1978,
+    "Idioma": "Ingles",
+    "Titulo": "Rafael Leoz : exposicion homenaje",
+    "Editorial": "Academia Gallega de Jurisprudencia y Legislacion",
+    "Autor": "GARCIA-PRENDES FERNANDEZ DE LLARENA, MARIA",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16326,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Centro de alfabetizacion, capacitacion y desarrollo educativo integral en San Lucas SacatepEquez",
+    "Editorial": "ACADEMIA GIL",
+    "Autor": "GARCIA-PRIETO SEGURA, JOSE ANTONIO",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16338,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 4: Personalizacion educativa; gEnesis y estado actual",
+    "Editorial": "Academia Guatemalteca de la Lengua",
+    "Autor": "GARCIA-PUENTE, JUAN",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16339,
+    "Anio": 1990,
+    "Idioma": "Ruso",
+    "Titulo": "Tratado de educacion personalizada, v 7: La educacion personalizada en la familia",
+    "Editorial": "Academia Iberoamericana de Poesia",
+    "Autor": "GARCIA-ROSA SOLARES, CARLOS ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16340,
+    "Anio": 1993,
+    "Idioma": "Mandarin",
+    "Titulo": "Tratado de educacion personalizada, v 10: Educacion infantil personalizada",
+    "Editorial": "Academia MExicana de Jurisprudencia y Legislacion, Correspondiente de la de Espania",
+    "Autor": "GARCIA-RUIZ, JESUS",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16341,
+    "Anio": 1993,
+    "Idioma": "Ingles",
+    "Titulo": "Tratado de educacion personalizada, v 11: La educacion en el nivel primario",
+    "Editorial": "Academia Nacional de la Historia",
+    "Autor": "GARCIA-SALVE, FRANCISCO",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16342,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 12: La ensenianza de la lengua en la educacion intermedia",
+    "Editorial": "Academias Pitman",
+    "Autor": "GARCIA-VALCARCEL MUNIOZ-REPISO, ANA",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16343,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 13: Ensenianza y aprendizaje de las lenguas modernas",
+    "Editorial": "Academic Press",
+    "Autor": "GARCIA-VALDECASAS, MIGUEL",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16344,
+    "Anio": 1994,
+    "Idioma": "Ruso",
+    "Titulo": "Tratado de educacion personalizada, v 14: La ensenianza de las matematicas en la educacion intermedia",
+    "Editorial": "AcadEmica Centroamericana",
+    "Autor": "GARCIASOL, RAMON DE",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16345,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 15: Ensenianza de las ciencias en la educacion intermedia",
+    "Editorial": "AcadEmicas",
+    "Autor": "GARCILASO DE LA VEGA",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16346,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 16: Ensenianzas sociales en educacion intermedia",
+    "Editorial": "ACADEMY",
+    "Autor": "GARCILASO DE LA VEGA, INCA",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16347,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 17: Ensenianza y formacion religiosa en una sociedad plural",
+    "Editorial": "Academy of American Franciscan History",
+    "Autor": "GARCIMARTIN ALFEREZ, FRANCISCO J",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16349,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 19: Personalizacion en la educacion fisica",
+    "Editorial": "Acali",
+    "Autor": "GARDA BRUMAT, DAVID",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16350,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 21: La ensenianza de la lengua y la literatura en la educacion secundaria",
+    "Editorial": "Acantilado",
+    "Autor": "GARDEIL, AMBROISE",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16351,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 22: La ensenianza de las lenguas clasicas",
+    "Editorial": "ACANTO",
+    "Autor": "GARDELS, NATHAN P",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16352,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 23: Ensenianza de las matematicas en la educacion secundaria",
+    "Editorial": "ACC Art Books",
+    "Autor": "GARDINER, JEWEL",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16353,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 24: Ensenianza de las ciencias en la educacion secundaria",
+    "Editorial": "ACCE",
+    "Autor": "GARDINER, PATRICK",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16354,
+    "Anio": 1996,
+    "Idioma": "Aleman",
+    "Titulo": "Tratado de educacion personalizada, v 25: Ensenianza de las ciencias sociales en educacion secundaria",
+    "Editorial": "Access Press",
+    "Autor": "GARDINER, STEPHEN",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16355,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Tratado de educacion personalizada, v 26: Ensenianza de la filosofia en la educacion secundaria",
+    "Editorial": "Accion Catolica Guatemalteca",
+    "Autor": "GARDINER, WILLIAM P",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16356,
+    "Anio": 1991,
+    "Idioma": "Ingles",
+    "Titulo": "Tratado de educacion personalizada, v 29: Educacion especial personalizada",
+    "Editorial": "Accion Ciudadana",
+    "Autor": "GARDINI, CARLOS",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16357,
+    "Anio": 1994,
+    "Idioma": "Frances",
+    "Titulo": "Tratado de educacion personalizada, v 30: La educacion personalizada en el mundo de trabajo",
+    "Editorial": "Accion Democratica Boliviana",
+    "Autor": "GARDNER, ANDREW",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16358,
+    "Anio": 2004,
+    "Idioma": "Frances",
+    "Titulo": "Material de apoyo para el curso Servicios Operativos IV en la carrera de Administracion de Empresas de la Hospitalidad",
+    "Editorial": "Accion Social Empresarial, ASE",
+    "Autor": "GARDNER, B.B",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16361,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Ecocentro turistico en la Laguna de Chikabal (municipio de San Martin SacatepEquez, Quetzaltenango)",
+    "Editorial": "ACE Books",
+    "Autor": "GARDNER, ERLE STANLEY",
+    "Edicion": 2,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16362,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "El sombrero de tres picos",
+    "Editorial": "Acento",
+    "Autor": "GARDNER, HELEN",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16363,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Propuesta para el crecimiento urbano del campus central de la Universidad de San Carlos de Guatemala, zona 12; 2000-2020",
+    "Editorial": "ACEPRENSA",
+    "Autor": "GARDNER, HOWARD",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16364,
+    "Anio": 1984,
+    "Idioma": "Espaniol",
+    "Titulo": "MESOAMERICA",
+    "Editorial": "Addison Wesley",
+    "Autor": "GARDNER, JOHN",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16365,
+    "Anio": 1984,
+    "Idioma": "Espaniol",
+    "Titulo": "MesoamErica, v 5(7), junio 1984 : Numero dedicado al Proyecto El Mirador de la Harvard University, 1982-1983",
+    "Editorial": "ADDISON WESLEY LONGMAN",
+    "Autor": "GARDNER, JOHN EDMUND",
+    "Edicion": 3,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16367,
+    "Anio": 1985,
+    "Idioma": "Espaniol",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 35 (1-4), 1985",
+    "Editorial": "ADDISON WESLEY-LONGMAN",
+    "Autor": "GARE, FRAN",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16369,
+    "Anio": 1984,
+    "Idioma": "Espaniol",
+    "Titulo": "MesoamErica, v 5 (8), diciembre 1984",
+    "Editorial": "ADDISON-WESLEY",
+    "Autor": "GAREIS, RAIMO",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16370,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "The Hungry spirit : beyond capitalism: a quest for purpose in the modern world",
+    "Editorial": "ADDISON-WESLEY IBEROAMERICANA",
+    "Autor": "GARFINKEL, HAROLD",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16371,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "Nada te turbe, nada te espante",
+    "Editorial": "Adelphi",
+    "Autor": "GARFINKEL, S. B",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16372,
+    "Anio": 2004,
+    "Idioma": "Espaniol",
+    "Titulo": "Vida eucaristica",
+    "Editorial": "ADEMATE",
+    "Autor": "GARGALLO, FRANCESCA",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16373,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "La ley",
+    "Editorial": "ADESCA",
+    "Autor": "GARIBAY K., ANGEL MARIA",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16374,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Para ser cristiano",
+    "Editorial": "ADESDEG",
+    "Autor": "GARIN, ALBERTO",
+    "Edicion": 2,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16375,
+    "Anio": 1986,
+    "Idioma": "Aleman",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 36 (1, 3-4), 1986",
+    "Editorial": "ADEU",
+    "Autor": "GARIN-MIKAYLOVSKY, NIKOLAY GEORGEYEVICH",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16376,
+    "Anio": 1985,
+    "Idioma": "Espaniol",
+    "Titulo": "MesoamErica, v 6 (9), junio 1985 :Numero dedicado a Honduras.",
+    "Editorial": "Administracion Libreria de Victoriano Suarez",
+    "Autor": "GARITA, RONALD",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16377,
+    "Anio": 2000,
+    "Idioma": "Ingles",
+    "Titulo": "Diario de Marta, vencer la anorexia",
+    "Editorial": "Adobe Press",
+    "Autor": "GARITAGOITIA EGUIA, JOSE RAMON",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16379,
+    "Anio": 1983,
+    "Idioma": "Frances",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 33 (1-4), 1983",
+    "Editorial": "ADPLEX AmEricas",
+    "Autor": "GARITAONAINDIA, JOSE RAMON",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16380,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Manual de tintes naturales",
+    "Editorial": "AECI",
+    "Autor": "GARLAND DE BUTLER, JUDY",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16381,
+    "Anio": 1982,
+    "Idioma": "Espaniol",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 32 (3-4), 1982",
+    "Editorial": "AECID",
+    "Autor": "GARLAND, E. HENRY",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16382,
+    "Anio": 1932,
+    "Idioma": "Espaniol",
+    "Titulo": "Cronica de las Cortes Constituyentes de la Segunda Republica Espaniola: v 8 El articulado de la ley agraria y su aprobacion definitiva. Dos grandes debates politicos. La intentona monarquica y la triunfante emocion republicana",
+    "Editorial": "AEDOS",
+    "Autor": "GARLAND, GENEVIEVE",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16383,
+    "Anio": 1979,
+    "Idioma": "Espaniol",
+    "Titulo": "Antropologia e Historia de Guatemala, v 1, 2da. Epoca",
+    "Editorial": "AEJMC",
+    "Autor": "GARLAND, MADGE",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16384,
+    "Anio": 1984,
+    "Idioma": "Espaniol",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 34 (1-4), 1984",
+    "Editorial": "AENOR",
+    "Autor": "GARLAND, ROGER",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16385,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Antropologia e Historia de Guatemala, t. 1 v 2, 3ra. Epoca",
+    "Editorial": "AFANES",
+    "Autor": "GARLICK, KENNETH",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16401,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "La vida lograda",
+    "Editorial": "AFHA",
+    "Autor": "GARNER, ALAN",
+    "Edicion": 2,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16402,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "El diablo es conservador",
+    "Editorial": "AFHA Internacional",
+    "Autor": "GARNER, MYRNA B",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16403,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Por una empresa mas humana",
+    "Editorial": "Afinidades",
+    "Autor": "GARNICA ENRIQUEZ, OMAR FRANCISCO",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16407,
+    "Anio": 2010,
+    "Idioma": "Espaniol",
+    "Titulo": "Sobre el amor humano",
+    "Editorial": "AFRODISIO AGUADO",
+    "Autor": "GAROFALO MOYA, MARIA DEL ROCIO",
+    "Edicion": 3,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16415,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "Cronica del callejon de los gorriones",
+    "Editorial": "AFS",
+    "Autor": "GAROFALO, GENE",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16416,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Aprendo a investigar en educacion",
+    "Editorial": "Agata",
+    "Autor": "GAROFALO, SALVATORE",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16417,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "Tomas de Aquino, tambiEn hoy",
+    "Editorial": "AGAYC",
+    "Autor": "GAROZ MONTENEGRO, MARIA BELEN",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16419,
+    "Anio": 2000,
+    "Idioma": "Aleman",
+    "Titulo": "Historia de los hombres y acciones de Dios : la historia de la salvacion en la Biblia",
+    "Editorial": "Agencia Alemana de Energia",
+    "Autor": "GARRAHAN, P. J",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16420,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "San Josemaria Escriva : un clasico de los nuevos tiempos",
+    "Editorial": "Agencia de Comunicacion Internacional de los Estados Unidos de AmErica",
+    "Autor": "GARRAN GONZALEZ, FELIPE",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16421,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "AtrEvete a pensar con libertad",
+    "Editorial": "Agencia EFE",
+    "Autor": "GARRARD BURNETT, VIRGINIA",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16422,
+    "Anio": 1999,
+    "Idioma": "Frances",
+    "Titulo": "Guia de lecturas contemporaneas",
+    "Editorial": "Agencia Espaniola de Cooperacion Internacional para el Desarrollo, AECID",
+    "Autor": "GARRETSON, ALBERT HENRY",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16426,
+    "Anio": 1997,
+    "Idioma": "Frances",
+    "Titulo": "Arte actual; diccionario de tErminos, conceptos y tendencias",
+    "Editorial": "AGENCIA ESPANIOLA DE COOPERACION INTERNACIONAL, AECI",
+    "Autor": "GARRETSON, ROBERT L",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16428,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Paideia : los ideales de la cultura griega",
+    "Editorial": "Agencia Internacional de Libreria",
+    "Autor": "GARRETT, JESSE JAMES",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16430,
+    "Anio": 1994,
+    "Idioma": "Espaniol",
+    "Titulo": "La Rebeldia de estudiar : una protesta inteligente",
+    "Editorial": "Agencia para la Planeacion del Desarrollo Urbano de Nuevo Leon",
+    "Autor": "GARRETT, MURRAY",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16431,
+    "Anio": 1991,
+    "Idioma": "Aleman",
+    "Titulo": "Los Origenes de Europa",
+    "Editorial": "AGENGIA ESPANIOLA DE COOPERACION INTERNACIONAL / OIT",
+    "Autor": "GARRETT, WILBUR E",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16433,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "La Revolucion empieza en Harvard y otras cronicas americanas de nuestro tiempo",
+    "Editorial": "AGEXPRONT",
+    "Autor": "GARRIDO ANTILLON, ALFREDO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16434,
+    "Anio": 1992,
+    "Idioma": "Ingles",
+    "Titulo": "Cristianismo y cultura en Europa: memoria, conciencia y proyecto",
+    "Editorial": "Agfa-Gevaert",
+    "Autor": "GARRIDO BONANIO, MANUEL",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16435,
+    "Anio": 1998,
+    "Idioma": "Frances",
+    "Titulo": "El hombre y su destino : ensayos de antropologia / Karol Wojtyla",
+    "Editorial": "Agora",
+    "Autor": "GARRIDO GALLARDO, MIGUEL ANGEL",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16436,
+    "Anio": 1990,
+    "Idioma": "Frances",
+    "Titulo": "La vertiente humana del trabajo en la empresa",
+    "Editorial": "Agrifor Consult",
+    "Autor": "GARRIDO GIL, PABLO",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16437,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Lo Permanente y lo cambiante en la educacion",
+    "Editorial": "AGUADO",
+    "Autor": "GARRIDO GODOY, JULISSA MICHELLE",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16438,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "El aprendizaje mediante ordenador en el aula",
+    "Editorial": "Aguila",
+    "Autor": "GARRIDO MEDRANO, MARIA GABRIELA",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16439,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Sentido del curso historico; de lo privado a lo publico en la historiologia dialEctica",
+    "Editorial": "20th Century Fox",
+    "Autor": "GARRIDO YSERTE, RUBEN",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16440,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Historia breve del cristianismo",
+    "Editorial": "3M Espania",
+    "Autor": "GARRIDO, ANNABELLE DE",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16445,
+    "Anio": 1984,
+    "Idioma": "Mandarin",
+    "Titulo": "The One minute manager / Ken Blanchard, Spencer Johnson.",
+    "Editorial": "A Lessons in Leadership Publications",
+    "Autor": "GARRIDO, FELIPE",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16446,
+    "Anio": 1988,
+    "Idioma": "Ingles",
+    "Titulo": "La Conversion de Europa al cristianismo",
+    "Editorial": "A New Directions Book",
+    "Autor": "GARRIDO, J. J",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16447,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Ensenianza y comunicacion",
+    "Editorial": "A Plume Book",
+    "Autor": "GARRIDO, JUAN J",
+    "Edicion": 3,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16448,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Etica empresarial : Teoria y casos / Rafael Gomez PErez ; prologo Tomas Calleja.",
+    "Editorial": "A&E Home Video",
+    "Autor": "GARRIDO, LENIN",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16449,
+    "Anio": 1992,
+    "Idioma": "Ruso",
+    "Titulo": "El mundo de Juan Pablo II",
+    "Editorial": "A&E Mundo",
+    "Autor": "GARRIDO, LUIS",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16451,
+    "Anio": 1991,
+    "Idioma": "Mandarin",
+    "Titulo": "Opinion y verdad",
+    "Editorial": "A&E TELEVISION NETWORK",
+    "Autor": "GARRIDO, MANUEL",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16452,
+    "Anio": 1991,
+    "Idioma": "Ingles",
+    "Titulo": "Teoria de la accion humana en las organizaciones : la accion personal",
+    "Editorial": "A. & C. Black",
+    "Autor": "GARRIDO, MANUEL",
+    "Edicion": 3,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16453,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Hacer arte, interpretar el arte: estEtica y hermenEutica en Luigi Pareyson / Pablo Blanco.",
+    "Editorial": "A. A. Knopf",
+    "Autor": "GARRIGO, ANDRES",
+    "Edicion": 3,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16454,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "El limite del pensamiento; la propuesta metodica de Leonardo Polo",
+    "Editorial": "A. AL. BURT",
+    "Autor": "GARRIGOU-LAGRANGE, REGINALD",
+    "Edicion": 3,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16455,
+    "Anio": 1998,
+    "Idioma": "Ruso",
+    "Titulo": "Curso de teoria del conocimiento, v 2",
+    "Editorial": "A. Pedone",
+    "Autor": "GARRIGUES WALKER, ANTONIO",
+    "Edicion": 3,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16456,
+    "Anio": 1999,
+    "Idioma": "Mandarin",
+    "Titulo": "Curso de teoria del conocimiento, v 3",
+    "Editorial": "A. REDONDO",
+    "Autor": "GARRIGUES WALKER, JOAQUIN",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16457,
+    "Anio": 2000,
+    "Idioma": "Ingles",
+    "Titulo": "Tradicion, universidad y virtud: filosofia de la educacion superior en Alasdair MacIntyre",
+    "Editorial": "A. Taffin-Lefort",
+    "Autor": "GARRISON, RAY H",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16458,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Humanismo civico",
+    "Editorial": "A. W. Sijthoff",
+    "Autor": "GARRO, ALEJANDRO MIGUEL",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16459,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduccion al disenio periodistico",
+    "Editorial": "A. W. Sythoff",
+    "Autor": "GARRON DE DORYAN, VICTORIA",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16460,
+    "Anio": 2001,
+    "Idioma": "Ruso",
+    "Titulo": "Mapas conceptuales; una tEcnica para aprender",
+    "Editorial": "A.A.",
+    "Autor": "GARST, RACHEL",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16463,
+    "Anio": 2001,
+    "Idioma": "Mandarin",
+    "Titulo": "Historia de la integracion europea",
+    "Editorial": "A.C.A.M.",
+    "Autor": "GARTLAN, ANNE",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16464,
+    "Anio": 1998,
+    "Idioma": "Ingles",
+    "Titulo": "En la encrucijada de la ciencia historica hoy; el auge de la historia cultural",
+    "Editorial": "A.C.M.E.",
+    "Autor": "GARTNER, PAM MARKA",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16465,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Reflexiones II",
+    "Editorial": "A.D.A. Edita",
+    "Autor": "GARVER, FREDERICK B",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16466,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Presente y futuro del hombre",
+    "Editorial": "A.F.A.",
+    "Autor": "GARZA BRITO, ANGEL DE LA",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16467,
+    "Anio": 2001,
+    "Idioma": "Ruso",
+    "Titulo": "Nuevos horizontes en la educacion / Concepcion Naval, Alfredo Rodriguez, Aurora Bernal, Angel Sampedro, Manuel Rodriguez.",
+    "Editorial": "A.G.A.Y.C.",
+    "Autor": "GARZA DE DEL CASTILLO, OFELIA",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16468,
+    "Anio": 2002,
+    "Idioma": "Mandarin",
+    "Titulo": "Escuela oficial primaria rural mixta y talleres de capacitacion -carpinteria, corte / confeccion, ceramica, cocina, telares- Dra. Doris T. Allen, aldea Sajcavilla, sector 3, San Juan SacatepEquez, departamento de Guatemala",
+    "Editorial": "A.I.D.I.P.E.",
+    "Autor": "GARZA MERCADO, ARIO",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16470,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "Resumen circunstanciado de lo actuado por la Junta Monetaria con motivo de la emision de la resolucion JM-303-2002, por la que determino la politica monetaria, cambiaria y crediticia para 2003",
+    "Editorial": "A.L.A.",
+    "Autor": "GARZA ORTEGA, MARIA DEL CARMEN DE LA",
+    "Edicion": 2,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16472,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Reforma del sistema de educacion superior e incorporacion de la ensenianza tecnologica",
+    "Editorial": "A.T.E.",
+    "Autor": "GARZA RAMOS, ALBERTO",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16474,
+    "Anio": 2002,
+    "Idioma": "Ruso",
+    "Titulo": "Estadisticas sobre el medio ambiente periodo 1998-2000",
+    "Editorial": "AATCC",
+    "Autor": "GARZA SOLOGAISTOA, MARGARET LUCIA",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16475,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Boletin de indices precios sectoriales",
+    "Editorial": "AB Allhems Tryckerier",
+    "Autor": "GARZA SOLOGAISTOA, STEPHANY MARINES",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16476,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Vivir y convivir en una sociedad multicultural",
+    "Editorial": "Abaco",
+    "Autor": "GARZA, MARIA DEL CARMEN DE LA",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16477,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Verdad, valores, poder : piedras de toque de la sociedad pluralista / Joseph Ratzinger",
+    "Editorial": "Abaco de Rodolfo Depalma",
+    "Autor": "GARZARO CABRERA, WINNY WAYTE",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16479,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Codigo de la niniez y la juventud; reformas",
+    "Editorial": "Abacus",
+    "Autor": "GARZARO CHAVARRIA, ANNA ELIZABETH",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16486,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "Inventario y analisis FODA, del circuito turistico de La Antigua Guatemala",
+    "Editorial": "Abada",
+    "Autor": "GARZARO HERRERA, ALEJANDRO",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16487,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "Levantado de informacion y analisis FODA del area turistica de Solola",
+    "Editorial": "ABBEVILLE PRESS",
+    "Autor": "GARZARO HERRERA, NERY",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16519,
+    "Anio": 1977,
+    "Idioma": "Espaniol",
+    "Titulo": "Reestructuracion del orden internacional : informe al Club de Roma",
+    "Editorial": "Abbeydale Press",
+    "Autor": "GARZON BATES, MERCEDES",
+    "Edicion": 3,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16521,
+    "Anio": 1978,
+    "Idioma": "Aleman",
+    "Titulo": "Economia a su alcance",
+    "Editorial": "ABC",
+    "Autor": "GARZON DIAZ, VALIA",
+    "Edicion": 3,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16522,
+    "Anio": 1988,
+    "Idioma": "Espaniol",
+    "Titulo": "Como iniciar un nuevo negocio; creacion, marcha y permanencia",
+    "Editorial": "Abelard-Schuman",
+    "Autor": "GARZON G., GUILLERMO",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16526,
+    "Anio": 1965,
+    "Idioma": "Ingles",
+    "Titulo": "The Theory of financial management",
+    "Editorial": "Abeledo Perrot",
+    "Autor": "GARZON R., AUGUSTO",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16527,
+    "Anio": 1966,
+    "Idioma": "Frances",
+    "Titulo": "Readings in financial analysis and investment management",
+    "Editorial": "Abeledo-Perrot",
+    "Autor": "GARZON, DIONISIO",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16528,
+    "Anio": 1988,
+    "Idioma": "Frances",
+    "Titulo": "Mercadotecnia industrial",
+    "Editorial": "AbeledoPerrot",
+    "Autor": "GARZON, SUSAN",
+    "Edicion": 2,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16529,
+    "Anio": 1986,
+    "Idioma": "Espaniol",
+    "Titulo": "Economia basica",
+    "Editorial": "Ablex Publishing",
+    "Autor": "GARZONA NAPOLES, PABLO",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16530,
+    "Anio": 1983,
+    "Idioma": "Espaniol",
+    "Titulo": "Liderazgo; una nueva conceptuacion",
+    "Editorial": "Abrams Comicarts",
+    "Autor": "GASCO CONTELL, EMILIO",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16531,
+    "Anio": 1986,
+    "Idioma": "Espaniol",
+    "Titulo": "Principios fundamentales de la administracion de empresas",
+    "Editorial": "Diciembre",
+    "Autor": "GASCON, EDUARDO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16532,
+    "Anio": 1986,
+    "Idioma": "Espaniol",
+    "Titulo": "Administracion general; un enfoque analitico",
+    "Editorial": "AC",
+    "Autor": "GASKELL, ELIZABETH",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16533,
+    "Anio": 1967,
+    "Idioma": "Espaniol",
+    "Titulo": "The Management of organizations",
+    "Editorial": "Academia Antioquenia de Historia",
+    "Autor": "GASKELL, ISABEL C.",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16534,
+    "Anio": 1975,
+    "Idioma": "Espaniol",
+    "Titulo": "Financial analyst's handbook I Methods, theory, and portfolio management",
+    "Editorial": "Academia Boyacense de Historia",
+    "Autor": "GASKILL, DENNIS",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16535,
+    "Anio": 1975,
+    "Idioma": "Espaniol",
+    "Titulo": "Financial analyst's handbook II Analysis by industry",
+    "Editorial": "Academia Colombiana de Historia",
+    "Autor": "GASNIER, MICHEL",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16538,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Investigacion de mercados",
+    "Editorial": "Academia Colombiana de Jurisprudencia",
+    "Autor": "GASPARD, JOHN",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16542,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "El manejo de restaurantes; guia para gerentes y propietarios",
+    "Editorial": "Academia de Diplomacia de Chile",
+    "Autor": "GASPARI, ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16544,
+    "Anio": 1979,
+    "Idioma": "Espaniol",
+    "Titulo": "Economia internacional",
+    "Editorial": "Academia de Geografia e Historia de Guatemala, AGHG",
+    "Autor": "GASS, IRENE",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16547,
+    "Anio": 1967,
+    "Idioma": "Aleman",
+    "Titulo": "Accounting in business decisions: theory, method and use",
+    "Editorial": "Academia de Guerra Naval",
+    "Autor": "GASSNER, JOHN",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16548,
+    "Anio": 1953,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduction to business finance",
+    "Editorial": "Academia Gallega de Jurisprudencia y Legislacion",
+    "Autor": "GASTEAZORO ESCOLAN, EVA MARIA",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16549,
+    "Anio": 1962,
+    "Idioma": "Ingles",
+    "Titulo": "Corporate financial policy",
+    "Editorial": "ACADEMIA GIL",
+    "Autor": "GASTEAZORO, EVA MARIA",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16550,
+    "Anio": 1982,
+    "Idioma": "Frances",
+    "Titulo": "Fundamentos de matematicas universitarias",
+    "Editorial": "Academia Guatemalteca de la Lengua",
+    "Autor": "GASTIGLIONE, BALTASAR",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16551,
+    "Anio": 1984,
+    "Idioma": "Frances",
+    "Titulo": "Introduccion a la administracion y organizacion de empresas; teoria y problemas",
+    "Editorial": "Academia Iberoamericana de Poesia",
+    "Autor": "GATELL PAMIES, JESUS",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16552,
+    "Anio": 1986,
+    "Idioma": "Espaniol",
+    "Titulo": "Modelos cuantitativos para administracion",
+    "Editorial": "Academia MExicana de Jurisprudencia y Legislacion, Correspondiente de la de Espania",
+    "Autor": "GATES, BILL",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16554,
+    "Anio": 1979,
+    "Idioma": "Espaniol",
+    "Titulo": "Administracion; curso para nuevos gerentes",
+    "Editorial": "Academia Nacional de la Historia",
+    "Autor": "GATES, ROGER",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16555,
+    "Anio": 1981,
+    "Idioma": "Espaniol",
+    "Titulo": "Estadistica para administracion y economia",
+    "Editorial": "Academias Pitman",
+    "Autor": "GATICA GARCIA, EDGAR ANTONIO",
+    "Edicion": 10,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16557,
+    "Anio": 1982,
+    "Idioma": "Espaniol",
+    "Titulo": "El financiamiento externo en la industria de Guatemala",
+    "Editorial": "Academic Press",
+    "Autor": "GATICA MARTINEZ, GUISELA DEL ROSARIO",
+    "Edicion": 9,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16559,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Metodologia del analisis de costo de los servicios de los hospitales publicos en Guatemala : Caso del Hospital General San Juan de Dios",
+    "Editorial": "AcadEmica Centroamericana",
+    "Autor": "GATICA TREJO, RICARDO",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16560,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Investigacion de mercado para la introduccion de una linea extranjera de jugos, nEctares y bebidas de frutas, en la ciudad de Guatemala",
+    "Editorial": "AcadEmicas",
+    "Autor": "GATNER, ELLIOTT S. M",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16562,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Analisis y evaluacion de la mezcla de mercadeo utilizada actualmente por la banca nacional privada",
+    "Editorial": "ACADEMY",
+    "Autor": "GATTER, MARK",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16563,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "El mercado del vino popular en Guatemala",
+    "Editorial": "Academy of American Franciscan History",
+    "Autor": "GATZ, KONRAD",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16566,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Alternativas de financiamiento para solucionar el deficit habitacional en la clase media baja",
+    "Editorial": "Acali",
+    "Autor": "GAUDEFROY-DEMOMBYNES, JEAN",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16567,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Plan de mercadeo para pistas de patinaje sobre hielo",
+    "Editorial": "Acantilado",
+    "Autor": "GAUDEFROY-DEMOMBYNES, MAURICE",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16568,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "Plan de mercadeo para la industrializacion y comercializacion de la tortilla convencional en la ciudad de Guatemala",
+    "Editorial": "ACANTO",
+    "Autor": "GAUGELE, EBERHARD",
+    "Edicion": 4,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16569,
+    "Anio": 1977,
+    "Idioma": "Espaniol",
+    "Titulo": "Metodologia de la investigacion de mercado analizada en un caso practico",
+    "Editorial": "ACC Art Books",
+    "Autor": "GAUGHAN, EDWARD",
+    "Edicion": 8,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16570,
+    "Anio": 1999,
+    "Idioma": "Aleman",
+    "Titulo": "Aplicacion de la contabilidad de costos en la elaboracion de rotulos luminosos (light boxes)",
+    "Editorial": "ACCE",
+    "Autor": "GAUME, JEAN JOSEPH",
+    "Edicion": 8,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16571,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Control y optimizacion de la inversion en un sistema de informacion basado en computadoras para una empresa comercializadora de discos compactos",
+    "Editorial": "Access Press",
+    "Autor": "GAUNT, LEONARD",
+    "Edicion": 8,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16573,
+    "Anio": 1999,
+    "Idioma": "Ingles",
+    "Titulo": "Reduccion de costos de produccion en una empresa de envases plasticos",
+    "Editorial": "Accion Catolica Guatemalteca",
+    "Autor": "GAUNT, WILLIAM",
+    "Edicion": 7,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16574,
+    "Anio": 1999,
+    "Idioma": "Frances",
+    "Titulo": "Analisis del mercado de servicios de disenio grafico en la industria farmacEutica",
+    "Editorial": "Accion Ciudadana",
+    "Autor": "GAUTHIER, JOSEPH",
+    "Edicion": 6,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16575,
+    "Anio": 1999,
+    "Idioma": "Frances",
+    "Titulo": "Plan de mercadeo de un proyecto habitacional para la clase media",
+    "Editorial": "Accion Democratica Boliviana",
+    "Autor": "GAUTIER, EMILE FELIX",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16576,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Plan de mecadeo para cafE-restaurante enfocado al mercado cristiano",
+    "Editorial": "Accion Social Empresarial, ASE",
+    "Autor": "GAUTIER, TEOFILO",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16577,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Estrategia de posicionamiento para un cafE-restaurante",
+    "Editorial": "ACE Books",
+    "Autor": "GAVALDA, ANTONIO C",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16578,
+    "Anio": 2000,
+    "Idioma": "Aleman",
+    "Titulo": "El impacto financiero del outsourcing de personal en un banco del sistema financiero nacional",
+    "Editorial": "Acento",
+    "Autor": "GAVARRETE CASTILLO, PAULINA",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16579,
+    "Anio": 1979,
+    "Idioma": "Espaniol",
+    "Titulo": "Segmentacion de mercados, consideraciones generales y aplicacion practica",
+    "Editorial": "ACEPRENSA",
+    "Autor": "GAVARRETE ESCOBAR, JUAN",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16580,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "Areas administrativas para parques zoologicos; caso especifico : Parque Zoologico regional de nor-oriente",
+    "Editorial": "Addison Wesley",
+    "Autor": "GAVER, MARY VIRGINIA",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16581,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Centro deportivo para la cabecera departamental de Chimaltenango",
+    "Editorial": "ADDISON WESLEY LONGMAN",
+    "Autor": "GAVIDIA, FRANCISCO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16582,
+    "Anio": 2003,
+    "Idioma": "Frances",
+    "Titulo": "Propuesta de conservacion del Templo, Casa Parroquial y entorno inmediato de la Aldea Santo Domingo, municipio de San Pedro Pinula, Jalapa",
+    "Editorial": "ADDISON WESLEY-LONGMAN",
+    "Autor": "GAVINET, ANGEL",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16583,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Complejo deportivo para el municipio de Amatitlan",
+    "Editorial": "ADDISON-WESLEY",
+    "Autor": "GAVIRIA TRUJILLO, CESAR",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16584,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "Centro vacacional para trabajadores del estado 'El Majagual' Iztapa, Escuintla",
+    "Editorial": "ADDISON-WESLEY IBEROAMERICANA",
+    "Autor": "GAY BOCHACA, JOSE",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16593,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "La Divina comedia",
+    "Editorial": "Adelphi",
+    "Autor": "GAY DE MONTELLA, RAFAEL",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16595,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Paula",
+    "Editorial": "ADEMATE",
+    "Autor": "GAY, CHARLES MERRICK",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16596,
+    "Anio": 1988,
+    "Idioma": "Ruso",
+    "Titulo": "Quimica general",
+    "Editorial": "ADESCA",
+    "Autor": "GAY, JOSE",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16597,
+    "Anio": 1942,
+    "Idioma": "Mandarin",
+    "Titulo": "El pensamiento antiguo, historia de la filosofia greco-romana. v 2: Desde Aristoteles hasta los neoplatonicos",
+    "Editorial": "ADESDEG",
+    "Autor": "GAY, PETER",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16600,
+    "Anio": 1994,
+    "Idioma": "Ingles",
+    "Titulo": "Como comprender los conceptos basicos de la economia",
+    "Editorial": "ADEU",
+    "Autor": "GAYA NUNIO, JUAN ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16601,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Muniguia de Guatemala",
+    "Editorial": "Administracion Libreria de Victoriano Suarez",
+    "Autor": "GAYA NUNIO, JUAN ANTONIO",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16603,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Plan de mercadeo del sistema de cuotas : una alternativa en el presente para poder estudiar en una universidad en el futuro",
+    "Editorial": "Adobe Press",
+    "Autor": "GAYANGOS, PACUAL DE",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16604,
+    "Anio": 1996,
+    "Idioma": "Ruso",
+    "Titulo": "La Radio como herramienta del mercadeo",
+    "Editorial": "ADPLEX AmEricas",
+    "Autor": "GAYLE RAYBURN, LETRICIA",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16605,
+    "Anio": 1997,
+    "Idioma": "Mandarin",
+    "Titulo": "Mercadeo directo : una opcion rentable para llegar al consumidor efectivamente",
+    "Editorial": "AECI",
+    "Autor": "GAYLORD, HENRY",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16606,
+    "Anio": 1976,
+    "Idioma": "Ingles",
+    "Titulo": "Innovacion en la informacion contable",
+    "Editorial": "AECID",
+    "Autor": "GAYOSSO Y NAVARRETE, MERCEDES",
+    "Edicion": 3,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16608,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Pulitzer: luces y sombras en la vida de un periodista genial",
+    "Editorial": "AEDOS",
+    "Autor": "GAYTAN GONZALEZ, LAURA MARIA",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16610,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "El trabajo humano [Laborem exercens]",
+    "Editorial": "AEJMC",
+    "Autor": "GAYTAN ORELLANA DE AVILA, ZULEMA A",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16615,
+    "Anio": 1989,
+    "Idioma": "Ruso",
+    "Titulo": "Tres titanes : Miguel Angel, Rembrandt, Beethoven",
+    "Editorial": "AENOR",
+    "Autor": "GAZALEH ABU-SAAD, YINAN",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16618,
+    "Anio": 1994,
+    "Idioma": "Mandarin",
+    "Titulo": "El sombrero de tres picos",
+    "Editorial": "AFANES",
+    "Autor": "GAZARIAN-GAUTIER, MARIE-LISE",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16619,
+    "Anio": 1962,
+    "Idioma": "Ingles",
+    "Titulo": "La Sagrada Escritura : Nuevo Testamento, v 3 : Carta a los Hebreos, epistolas catolicas, apocalipsis, indices",
+    "Editorial": "AFHA",
+    "Autor": "GEANURACOS, JOHN",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16622,
+    "Anio": 1985,
+    "Idioma": "Espaniol",
+    "Titulo": "MesoamErica, v 6 (10), diciembre 1985",
+    "Editorial": "AFHA Internacional",
+    "Autor": "GEAR, JOLENE",
+    "Edicion": 4,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16623,
+    "Anio": 1987,
+    "Idioma": "Espaniol",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 37 (1, 3-4), 1987",
+    "Editorial": "Afinidades",
+    "Autor": "GEAR, ROBERT",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16627,
+    "Anio": 1960,
+    "Idioma": "Ruso",
+    "Titulo": "Financial organization and management business",
+    "Editorial": "AFRODISIO AGUADO",
+    "Autor": "GEBBIA, A",
+    "Edicion": 4,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16628,
+    "Anio": 1961,
+    "Idioma": "Mandarin",
+    "Titulo": "Business finance: the fundamentals of financial management",
+    "Editorial": "AFS",
+    "Autor": "GEBHARDT, SUSAN E",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16629,
+    "Anio": 1963,
+    "Idioma": "Ingles",
+    "Titulo": "Financial public relations: tested techniques for communicating with financial publics",
+    "Editorial": "Agata",
+    "Autor": "GEBSATTEL, VICTOR EMIL FREIHERR VON",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16630,
+    "Anio": 1966,
+    "Idioma": "Espaniol",
+    "Titulo": "Administrative office management",
+    "Editorial": "AGAYC",
+    "Autor": "GECHTMAN, MURRAY",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16631,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Cien rostros de Maria para la contemplacion",
+    "Editorial": "Agencia Alemana de Energia",
+    "Autor": "GECK, ELISABETH",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16632,
+    "Anio": 1988,
+    "Idioma": "Ruso",
+    "Titulo": "Curso basico de economia / NEstor Alvarez R., Antonio Garavito Rodriguez.",
+    "Editorial": "Agencia de Comunicacion Internacional de los Estados Unidos de AmErica",
+    "Autor": "GEDECK, MARTINA",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16633,
+    "Anio": 1984,
+    "Idioma": "Mandarin",
+    "Titulo": "Problemas de la administracion de empresas",
+    "Editorial": "Agencia EFE",
+    "Autor": "GEE, CHUCK Y",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16635,
+    "Anio": 1967,
+    "Idioma": "Ingles",
+    "Titulo": "Los de en medio",
+    "Editorial": "Agencia Espaniola de Cooperacion Internacional para el Desarrollo, AECID",
+    "Autor": "GEE, HELEN",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16636,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Un hombre solo: cartas desde la Torre, 1534-1535 / Tomas Moro.",
+    "Editorial": "AGENCIA ESPANIOLA DE COOPERACION INTERNACIONAL, AECI",
+    "Autor": "GEEDING, DANIEL W",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16637,
+    "Anio": 1959,
+    "Idioma": "Espaniol",
+    "Titulo": "Bernard Spilsbury: el escalpelo de Scotland Yard",
+    "Editorial": "Agencia Internacional de Libreria",
+    "Autor": "GEHLERT MATA, CARLOS",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16638,
+    "Anio": 1945,
+    "Idioma": "Ruso",
+    "Titulo": "Vida y poesia",
+    "Editorial": "Agencia para la Planeacion del Desarrollo Urbano de Nuevo Leon",
+    "Autor": "GEIGER, MAYNARD J",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16639,
+    "Anio": 1973,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduccion a la logica / Irving M. Copi.",
+    "Editorial": "AGENGIA ESPANIOLA DE COOPERACION INTERNACIONAL / OIT",
+    "Autor": "GEIKIE, ARCHIBALD",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16640,
+    "Anio": 1933,
+    "Idioma": "Espaniol",
+    "Titulo": "El vocabulario filosofico",
+    "Editorial": "AGEXPRONT",
+    "Autor": "GEIL, PATTI",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16641,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Antropologia e Historia de Guatemala, v 3, 3ra. Epoca",
+    "Editorial": "Agfa-Gevaert",
+    "Autor": "GELB, MICHAEL J.",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16642,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Educar la inteligencia / Oliveros F. Otero.",
+    "Editorial": "Agora",
+    "Autor": "GELFAND, MORRIS ARTHUR",
+    "Edicion": 3,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16643,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Educar la voluntad / Oliveros F. Otero.",
+    "Editorial": "Agrifor Consult",
+    "Autor": "GELLERT, GISELA",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16644,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Las Practicas discriminatorias como una limitante de la participacion civica y politica de la mujer indigena",
+    "Editorial": "AGUADO",
+    "Autor": "GELLES, RICHARD J",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16645,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Ulises criollo",
+    "Editorial": "Aguila",
+    "Autor": "GELONCH VILLARINO, SANTIAGO",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16647,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Obra completa, v 1",
+    "Editorial": "20th Century Fox",
+    "Autor": "GELTNER, PETER B",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16648,
+    "Anio": 1999,
+    "Idioma": "Aleman",
+    "Titulo": "Obra completa, v 2",
+    "Editorial": "3M Espania",
+    "Autor": "GEMMA ROVIRA ORTEGA",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16650,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Cuentos y leyendas / Miguel Angel Asturias; Mario Roberto Morales, coordinador.",
+    "Editorial": "3R EDITORES",
+    "Autor": "GENDROP, PAUL",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16651,
+    "Anio": 2000,
+    "Idioma": "Ingles",
+    "Titulo": "El Senior Presidente / Miguel Angel Asturias.",
+    "Editorial": "A Lessons in Leadership Publications",
+    "Autor": "GENERAL ELECTRIC",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16652,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Martin Fierro",
+    "Editorial": "A New Directions Book",
+    "Autor": "GENNY",
+    "Edicion": 10,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16654,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Obra poEtica",
+    "Editorial": "A Plume Book",
+    "Autor": "GENTA, EDGARDO UBALDO",
+    "Edicion": 9,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16655,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Las Lanzas coloradas; primera narrativa",
+    "Editorial": "A&E Home Video",
+    "Autor": "GENTILE, ENZO R",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16657,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "ANALES DE LA ACADEMIA DE GEOGRAFIA E HISTORIA DE GUATEMALA, v 75, anio 2000",
+    "Editorial": "A&E Mundo",
+    "Autor": "GENTILE, GIOVANNI",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16658,
+    "Anio": 1936,
+    "Idioma": "Espaniol",
+    "Titulo": "La Gringa: novela criolla",
+    "Editorial": "A&E TELEVISION NETWORK",
+    "Autor": "GENUZIO PATZI, TATIANA",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16660,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "Exigir para educar",
+    "Editorial": "A. & C. Black",
+    "Autor": "GENY, FRANCISCO",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16662,
+    "Anio": 1999,
+    "Idioma": "Espaniol",
+    "Titulo": "Como mirar un cuadro",
+    "Editorial": "A. A. Knopf",
+    "Autor": "GEOGRAPHICA",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16663,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "La Brujula de la vida; una guia para no perder el norte",
+    "Editorial": "A. AL. BURT",
+    "Autor": "GEORG, GUNDA I",
+    "Edicion": 5,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16664,
+    "Anio": 2004,
+    "Idioma": "Espaniol",
+    "Titulo": "QuEdate conmigo : vivir de la Eucaristia",
+    "Editorial": "A. Pedone",
+    "Autor": "GEORGE, CLAUDE S., JR",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16665,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "15 [quince] normas de piedad: Â¡como hacer el plan de vida!",
+    "Editorial": "A. REDONDO",
+    "Autor": "GEORGE, JENNIFER M",
+    "Edicion": 8,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16666,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "El problema del dolor / C. S. Lewis.",
+    "Editorial": "A. Taffin-Lefort",
+    "Autor": "GEORGE, JOEY F",
+    "Edicion": 8,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16667,
+    "Anio": 2011,
+    "Idioma": "Espaniol",
+    "Titulo": "La Conciliacion",
+    "Editorial": "A. W. Sijthoff",
+    "Autor": "GEORGE, ROBERT P.",
+    "Edicion": 8,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16668,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Practica del amor a Jesucristo",
+    "Editorial": "A. W. Sythoff",
+    "Autor": "GEORGE, STEPHEN C",
+    "Edicion": 7,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16669,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Cualquier tiempo pasado; vida y melancolia de Jorge Manrique",
+    "Editorial": "A.A.",
+    "Autor": "GEORGE, THOMAS F",
+    "Edicion": 6,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16670,
+    "Anio": 2002,
+    "Idioma": "Aleman",
+    "Titulo": "Solucion de conflictos, globalizacion y apertura: un paradigma para el abogado del siglo XXI",
+    "Editorial": "A.C.A.M.",
+    "Autor": "GEORGETOWN UNIVERSITY LAW CENTER",
+    "Edicion": 5,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16672,
+    "Anio": 1970,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia",
+    "Editorial": "A.C.M.E.",
+    "Autor": "GEORGIA INSTITUTE OF TECHNOLOGY. ENGINEERING EXPERIMENT STATION",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16673,
+    "Anio": 1970,
+    "Idioma": "Ingles",
+    "Titulo": "Illustrated world encyclopedia, v 1",
+    "Editorial": "A.D.A. Edita",
+    "Autor": "GEORGIA STATE UNIVERSITY ART GALLERY",
+    "Edicion": 3,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16674,
+    "Anio": 1970,
+    "Idioma": "Frances",
+    "Titulo": "Illustrated world encyclopedia, v 2",
+    "Editorial": "A.F.A.",
+    "Autor": "GERBER PLUMBING FIXTURES CORP",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16675,
+    "Anio": 1972,
+    "Idioma": "Frances",
+    "Titulo": "Illustrated world encyclopedia, v 3",
+    "Editorial": "A.G.A.Y.C.",
+    "Autor": "GERBER, HARVEY",
+    "Edicion": 3,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16676,
+    "Anio": 1972,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia",
+    "Editorial": "A.I.D.I.P.E.",
+    "Autor": "GERBER, MICHAEL E",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16677,
+    "Anio": 1972,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia",
+    "Editorial": "A.L. Mateos",
+    "Autor": "GERDTS, WILLIAM H.",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16678,
+    "Anio": 1972,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia, v 6",
+    "Editorial": "A.L.A.",
+    "Autor": "GERE, JAMES M",
+    "Edicion": 2,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16679,
+    "Anio": 1972,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia, v 7",
+    "Editorial": "A.T.E.",
+    "Autor": "GEREDA ILLESCAS, JOSE ROBERTO",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16680,
+    "Anio": 1972,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia, v 8",
+    "Editorial": "AATCC",
+    "Autor": "GERGELY, ANIKO",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16681,
+    "Anio": 1972,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia, v 9",
+    "Editorial": "AB Allhems Tryckerier",
+    "Autor": "GERGEN, CHRISTOPHER",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16682,
+    "Anio": 1972,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia, v 10",
+    "Editorial": "Abaco",
+    "Autor": "GERGEN, DAVID RICHMOND",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16683,
+    "Anio": 1972,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia, v 11",
+    "Editorial": "Abaco de Rodolfo Depalma",
+    "Autor": "GERHARD, CARLOS",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16684,
+    "Anio": 1974,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia, v 12",
+    "Editorial": "Abacus",
+    "Autor": "GERINGER, SUSAN",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16685,
+    "Anio": 1974,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia, v 13",
+    "Editorial": "Abada",
+    "Autor": "GERLACH, MICHAEL L",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16686,
+    "Anio": 1972,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia, v 14",
+    "Editorial": "ABBEVILLE PRESS",
+    "Autor": "GERMANI, GINO",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16687,
+    "Anio": 1974,
+    "Idioma": "Espaniol",
+    "Titulo": "Illustrated world encyclopedia, v 15",
+    "Editorial": "Abbeydale Press",
+    "Autor": "GERNET, LOUIS",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16688,
+    "Anio": 2002,
+    "Idioma": "Aleman",
+    "Titulo": "Formacion de formadores. Estado de la practica",
+    "Editorial": "Abbott",
+    "Autor": "GERSON, RICHARD F",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16690,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "Estado mundial de la infancia 2003",
+    "Editorial": "Abelard-Schuman",
+    "Autor": "GERSTENBERG, CHARLES W",
+    "Edicion": 2,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16691,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Connection to the World; Empresa Portuaria Quetzal",
+    "Editorial": "Abeledo Perrot",
+    "Autor": "GERSTNER, LOUIS V",
+    "Edicion": 3,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16692,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Memoria de labores : Puerto Quetzal, enlace con el mundo",
+    "Editorial": "Abeledo-Perrot",
+    "Autor": "GERTRUDIX BARRIO, MANUEL",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16693,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Primera plana : Prensa Libre 1951-2001",
+    "Editorial": "AbeledoPerrot",
+    "Autor": "GERVILLA CASTILLO, ANGELES",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16694,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Los Siete locos. Los lanzallamas",
+    "Editorial": "Ablex Publishing",
+    "Autor": "GERZEMA, JOHN",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16695,
+    "Anio": 1932,
+    "Idioma": "Aleman",
+    "Titulo": "Obras completas de Federico Nietzsche. v 8 La voluntad de dominio, ensayo de una transmutacion de todos los valores",
+    "Editorial": "Abrams Comicarts",
+    "Autor": "GESSI, LEONE",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16696,
+    "Anio": 1986,
+    "Idioma": "Espaniol",
+    "Titulo": "La Historia de Helen Keller",
+    "Editorial": "Enero",
+    "Autor": "GESTAL OTERO, JUAN JESUS",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16697,
+    "Anio": 1945,
+    "Idioma": "Ingles",
+    "Titulo": "Los Secretos de la selva virgen",
+    "Editorial": "AC",
+    "Autor": "GESTEL, CONSTANT VAN",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16704,
+    "Anio": 1999,
+    "Idioma": "Frances",
+    "Titulo": "ANALES DE LA ACADEMIA DE GEOGRAFIA E HISTORIA DE GUATEMALA, v 74, anio 1999",
+    "Editorial": "Academia Antioquenia de Historia",
+    "Autor": "GETCHELL, ROBERT WARD",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16705,
+    "Anio": 1994,
+    "Idioma": "Frances",
+    "Titulo": "Juanita la larga",
+    "Editorial": "Academia Boyacense de Historia",
+    "Autor": "GETTINGS, FRED",
+    "Edicion": 4,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16706,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Carta al duque de Norfolk. Sobre el desarrollo de la doctrina cristiana",
+    "Editorial": "Academia Colombiana de Historia",
+    "Autor": "GETTY, JEAN PAUL",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16707,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "El velo de la Veronica",
+    "Editorial": "Academia Colombiana de Jurisprudencia",
+    "Autor": "GETZ, STANLEY",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16708,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "El forastero misterioso",
+    "Editorial": "Academia de CentroamErica",
+    "Autor": "GEYER, JOHN CHARLES",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16709,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Un yanqui en la corte del rey Arturo",
+    "Editorial": "Academia de Diplomacia de Chile",
+    "Autor": "GEYMONAT, LUDOVICO",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16710,
+    "Anio": 2001,
+    "Idioma": "Ruso",
+    "Titulo": "Lo que pesa el humo",
+    "Editorial": "Academia de Geografia e Historia de Costa Rica",
+    "Autor": "GHARAJEDAGHI, JAMSHID",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16739,
+    "Anio": 1996,
+    "Idioma": "Ingles",
+    "Titulo": "Lucha educativa y orgnizativa del pueblo desarraigado; sistematizacion de las experiencias educativas y organizativas de las poblaciones desarraigadas de Guatemala, 1996",
+    "Editorial": "Academia de Guerra Naval",
+    "Autor": "GHAZIRI, HASSAN M",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16740,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Politica de desarrollo social y poblacion",
+    "Editorial": "Academia Gallega de Jurisprudencia y Legislacion",
+    "Autor": "GHEMAWAT, PANKAJ",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16741,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "III [Tercer] Informe del Presidente al Congreso de la Republica",
+    "Editorial": "ACADEMIA GIL",
+    "Autor": "GHEON, HENRI",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16742,
+    "Anio": 2002,
+    "Idioma": "Ruso",
+    "Titulo": "Â¿Como presentan sus resultados los sistemas nacionales de evaluacion educativa en AmErica Latina?",
+    "Editorial": "Academia Guatemalteca de la Lengua",
+    "Autor": "GHEORGHIU, CONSTANTIN VIRGIL",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16744,
+    "Anio": 2003,
+    "Idioma": "Mandarin",
+    "Titulo": "Presupuesto general de ingresos y egresos del estado; ejercicio fiscal 2003",
+    "Editorial": "Academia Iberoamericana de Poesia",
+    "Autor": "GHIDINELLI, AZZO",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16745,
+    "Anio": 2002,
+    "Idioma": "Ingles",
+    "Titulo": "Carreras, incentivos y estructuras salariales docentes",
+    "Editorial": "Academia MExicana de Jurisprudencia y Legislacion, Correspondiente de la de Espania",
+    "Autor": "GHIOLDI, AMERICO",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16747,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Cumbre Latinoamericana de educacion basica",
+    "Editorial": "Academias Pitman",
+    "Autor": "GHIRALDO, ALBERTO",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16749,
+    "Anio": 1999,
+    "Idioma": "Ruso",
+    "Titulo": "Analisis del impacto de la autogestion: la experiencia del Programa Nacional de Autogestion para el Desarrollo Educativo, PRONADE",
+    "Editorial": "Academic Press",
+    "Autor": "GHONEIM, NAGWA",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16750,
+    "Anio": 2001,
+    "Idioma": "Mandarin",
+    "Titulo": "Quedandonos atras; un informe del progreso educativo en AmErica Latina",
+    "Editorial": "AcadEmica Centroamericana",
+    "Autor": "GHOSH, BIMAL",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16751,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "Â¿Y la niniez cuando...? La situacion de la niniez en Guatemala",
+    "Editorial": "AcadEmicas",
+    "Autor": "GHYKA, MATILA COSTIESCU",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16752,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "El proceso de modernizacion de la educacion : acciones realizadas y agenda pendiente en descentralizacion",
+    "Editorial": "ACADEMY",
+    "Autor": "GIAMMATTEI CACERES, STEFANO",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16753,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "La Autonomia escolar en Nicaragua : restableciendo el contrato social",
+    "Editorial": "Academy of American Franciscan History",
+    "Autor": "GIAMMATTEI FALLA, ALEJANDRO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16809,
+    "Anio": 1968,
+    "Idioma": "Ruso",
+    "Titulo": "Historia critica del asesinato cometido en la persona del gran mariscal de Ayacucho",
+    "Editorial": "Acali",
+    "Autor": "GIAMMATTEI TRIGUEROS, CAROLINA",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16812,
+    "Anio": 1975,
+    "Idioma": "Mandarin",
+    "Titulo": "LA TRADICION POPULAR",
+    "Editorial": "Acantilado",
+    "Autor": "GIAMMORO, CRISTINA",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16814,
+    "Anio": 2004,
+    "Idioma": "Ingles",
+    "Titulo": "La Integracion centroamericana: realidad y perspectivas",
+    "Editorial": "ACANTO",
+    "Autor": "GIANCOLI, DOUGLAS C.",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16815,
+    "Anio": 1980,
+    "Idioma": "Espaniol",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 30 (1-4), 1980",
+    "Editorial": "ACC Art Books",
+    "Autor": "GIANNONI, MASSIMO",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16816,
+    "Anio": 1979,
+    "Idioma": "Espaniol",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 29 (4, Suplemento 1), 1979",
+    "Editorial": "ACCE",
+    "Autor": "GIBALDI, JOSEPH",
+    "Edicion": 10,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16817,
+    "Anio": 2004,
+    "Idioma": "Ruso",
+    "Titulo": "Libertad, seguridad y justicia para todos: justicia y asuntos de interior en la Union Europea",
+    "Editorial": "Access Press",
+    "Autor": "GIBBERD, FREDERICK",
+    "Edicion": 9,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 16818,
+    "Anio": 1977,
+    "Idioma": "Mandarin",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 27 (2, Suplemento 1), 1977",
+    "Editorial": "Accion Catolica Guatemalteca",
+    "Autor": "GIBBON, DAVID",
+    "Edicion": 5,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16821,
+    "Anio": 1967,
+    "Idioma": "Ingles",
+    "Titulo": "Cartilla civica elemental del guatemalteco",
+    "Editorial": "Accion Ciudadana",
+    "Autor": "GIBBON, EDWARD",
+    "Edicion": 5,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16823,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Java for business: using Java to win customers, cut costs, and drive growth",
+    "Editorial": "Accion Democratica Boliviana",
+    "Autor": "GIBBONS, ROBERT",
+    "Edicion": 5,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 16824,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Revista cientifica",
+    "Editorial": "Accion Social Empresarial, ASE",
+    "Autor": "GIBBS, JENNY",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16825,
+    "Anio": 1976,
+    "Idioma": "Ruso",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 26 (1,3), 1976",
+    "Editorial": "ACE Books",
+    "Autor": "GIBBS, MARION",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16831,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Revista Universidad del Valle de Guatemala",
+    "Editorial": "Acento",
+    "Autor": "GIBBS, PAUL",
+    "Edicion": 5,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16832,
+    "Anio": 2004,
+    "Idioma": "Espaniol",
+    "Titulo": "Reporte de la reforma judicial",
+    "Editorial": "ACEPRENSA",
+    "Autor": "GIBRAN, JALIL GIBRAN",
+    "Edicion": 4,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16835,
+    "Anio": 1994,
+    "Idioma": "Espaniol",
+    "Titulo": "Industry's future: changing patterns of industrial research",
+    "Editorial": "Addison Wesley",
+    "Autor": "GIBSON, CHARLES H.",
+    "Edicion": 8,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16836,
+    "Anio": 1993,
+    "Idioma": "Espaniol",
+    "Titulo": "Perspectives in bioconjugate chemistry",
+    "Editorial": "ADDISON WESLEY LONGMAN",
+    "Autor": "GIBSON, MEL",
+    "Edicion": 8,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16837,
+    "Anio": 1992,
+    "Idioma": "Espaniol",
+    "Titulo": "Managing the unknowable: strategic, boundaries between order and chaos in organizations",
+    "Editorial": "ADDISON WESLEY-LONGMAN",
+    "Autor": "GIBSON, MICHAEL",
+    "Edicion": 8,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16838,
+    "Anio": 1969,
+    "Idioma": "Espaniol",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 19 (1-4), 1969",
+    "Editorial": "ADDISON-WESLEY",
+    "Autor": "GIBSON, QUENTIN",
+    "Edicion": 7,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 16847,
+    "Anio": 1980,
+    "Idioma": "Espaniol",
+    "Titulo": "La Orestiada (Agamenon, Las CoEforas, Las EumEnides)",
+    "Editorial": "ADDISON-WESLEY IBEROAMERICANA",
+    "Autor": "GIDDENS, ANTHONY",
+    "Edicion": 6,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16848,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Los Derechos civiles y politicos, en particular las cuestiones relacionadas con la independencia del poder judicial, la administracion de justicia, la impunidad. Pimer\n        informe",
+    "Editorial": "Adelphi",
+    "Autor": "GIDDY, IAN H",
+    "Edicion": 5,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16851,
+    "Anio": 1987,
+    "Idioma": "Aleman",
+    "Titulo": "Edith Stein: su vida en documentos e imagenes",
+    "Editorial": "ADEMATE",
+    "Autor": "GIDE, ANDRE",
+    "Edicion": 4,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16857,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduccion filosofica al pensamiento de F. A. Hayek",
+    "Editorial": "ADESCA",
+    "Autor": "GIDE, CHARLES",
+    "Edicion": 3,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16858,
+    "Anio": 1964,
+    "Idioma": "Ingles",
+    "Titulo": "A Song of sixpence / A. J. Cronin.",
+    "Editorial": "ADESDEG",
+    "Autor": "GIEDION, SIEGFRIED",
+    "Edicion": 2,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16859,
+    "Anio": 1993,
+    "Idioma": "Frances",
+    "Titulo": "The Client / John Grisham",
+    "Editorial": "ADEU",
+    "Autor": "GIEDION-WELCKER, CAROLA",
+    "Edicion": 3,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16860,
+    "Anio": 1968,
+    "Idioma": "Frances",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 18 (1-4), 1968",
+    "Editorial": "Administracion Libreria de Victoriano Suarez",
+    "Autor": "GIEHRL, EMMY",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16861,
+    "Anio": 1945,
+    "Idioma": "Espaniol",
+    "Titulo": "Historia de la literatura gauchesca en el Uruguay, resumen historico 1810-1940",
+    "Editorial": "Adobe Press",
+    "Autor": "GIESECKE, FREDERICK E",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 16863,
+    "Anio": 1983,
+    "Idioma": "Espaniol",
+    "Titulo": "Un hombre",
+    "Editorial": "ADPLEX AmEricas",
+    "Autor": "GIESECKE, FREDERICK ERNEST",
+    "Edicion": 2,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 16864,
+    "Anio": 1967,
+    "Idioma": "Espaniol",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 17 (1,3-4), 1967",
+    "Editorial": "AECI",
+    "Autor": "GIESLER, MICHAEL E",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16865,
+    "Anio": 1966,
+    "Idioma": "Espaniol",
+    "Titulo": "Archivos Latinoamericanos de Nutricion, v 16 (1), 1966",
+    "Editorial": "AECID",
+    "Autor": "GIFIS, STEVEN H",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 16867,
+    "Anio": 1964,
+    "Idioma": "Espaniol",
+    "Titulo": "Archivos Latinoamericanos de Nutricion / Archivos Venezolanos de Nutricion, v 14 (2), 1964",
+    "Editorial": "AEDOS",
+    "Autor": "GIL ARISTU, JOSE LUIS",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16868,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Diagnostico de los parques en el Centro Historico de la ciudad de Guatemala",
+    "Editorial": "AEJMC",
+    "Autor": "GIL DE MURO, EDUARDO T",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16869,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Centro de alto rendimiento y albergue deportivo para atletas elite de atletismo",
+    "Editorial": "AENOR",
+    "Autor": "GIL ESTALLO, MARIA DE LOS ANGELES",
+    "Edicion": 1,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 16870,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Recreacion eco-turistica 'El Quetzal' Alta Verapaz, montanias de Yalijux, Guaxac y Caquipec",
+    "Editorial": "AFANES",
+    "Autor": "GIL ESTEBAN, RAFAEL",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 16871,
+    "Anio": 2002,
+    "Idioma": "Espaniol",
+    "Titulo": "Centro polideportivo y recreacional Fray BartolomE de las Casas, A.V.",
+    "Editorial": "AFHA",
+    "Autor": "GIL FERNANDEZ, JUANA",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16872,
+    "Anio": 2003,
+    "Idioma": "Espaniol",
+    "Titulo": "Propuesta de desarrollo del centro civico y entorno inmediato, Palencia",
+    "Editorial": "AFHA Internacional",
+    "Autor": "GIL LOZANO, FERNANDA",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16882,
+    "Anio": 1986,
+    "Idioma": "Espaniol",
+    "Titulo": "MESOAMERICA, v 7 (11), junio 1986",
+    "Editorial": "AFRODISIO AGUADO",
+    "Autor": "GIL MARTIL, VICTOR ALEJANDRO",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 16883,
+    "Anio": 1986,
+    "Idioma": "Aleman",
+    "Titulo": "MesoamErica, v 7 (12), diciembre 1986",
+    "Editorial": "AFS",
+    "Autor": "GIL MONTEPEQUE, JOVITA",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16886,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Â¡Escucha...y veras!",
+    "Editorial": "Agata",
+    "Autor": "GIL NOVALES, ALBERTO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16887,
+    "Anio": 1987,
+    "Idioma": "Ingles",
+    "Titulo": "J.R.R. Tolkien : cuentos de hadas",
+    "Editorial": "AGAYC",
+    "Autor": "GIL PEREZ, CONSUELO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 16888,
+    "Anio": 1980,
+    "Idioma": "Frances",
+    "Titulo": "Yo estoy bien, tu estas bien; guia practica de analisis conciliatorio / Thomas A. Harrison ; traducido por R. Hernandez Sol",
+    "Editorial": "Agencia Alemana de Energia",
+    "Autor": "GIL PEREZ, ROSARIO",
+    "Edicion": 1,
+    "Categoria": "Ensayo"
+  }
+]}

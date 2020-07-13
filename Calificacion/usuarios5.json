@@ -1,0 +1,703 @@
+{
+	"Usuarios": [{
+			"Carnet": 201910000,
+			"Nombre": "Hollyanne",
+			"Apellido": "Crat",
+			"Carrera": "Derecho",
+			"Password": "CT7hLNHGKq1"
+		},
+		{
+			"Carnet": 201910001,
+			"Nombre": "Jackson",
+			"Apellido": "Keinrat",
+			"Carrera": "Derecho",
+			"Password": "4SJ0sGrcF7u"
+		},
+		{
+			"Carnet": 201910002,
+			"Nombre": "Avril",
+			"Apellido": "Farraway",
+			"Carrera": "Derecho",
+			"Password": "MYC76tqVj6H"
+		},
+		{
+			"Carnet": 201910003,
+			"Nombre": "Darsey",
+			"Apellido": "Vickers",
+			"Carrera": "Derecho",
+			"Password": "EcNiFpAVh"
+		},
+		{
+			"Carnet": 201910004,
+			"Nombre": "Crystal",
+			"Apellido": "Stapels",
+			"Carrera": "Derecho",
+			"Password": "N9MpwhyAa7j"
+		},
+		{
+			"Carnet": 201910005,
+			"Nombre": "Hester",
+			"Apellido": "Henlon",
+			"Carrera": "Derecho",
+			"Password": "qAH4CGU"
+		},
+		{
+			"Carnet": 201910006,
+			"Nombre": "Jessamine",
+			"Apellido": "Garfoot",
+			"Carrera": "Derecho",
+			"Password": "kh32eqlnOiyG"
+		},
+		{
+			"Carnet": 201910007,
+			"Nombre": "Gloriana",
+			"Apellido": "Schirok",
+			"Carrera": "Derecho",
+			"Password": "ESo6MB9LEwF"
+		},
+		{
+			"Carnet": 201910008,
+			"Nombre": "Todd",
+			"Apellido": "Hext",
+			"Carrera": "Derecho",
+			"Password": "YLecyEeQI3"
+		},
+		{
+			"Carnet": 201910009,
+			"Nombre": "Patric",
+			"Apellido": "Board",
+			"Carrera": "Derecho",
+			"Password": "qDUvevZn"
+		},
+		{
+			"Carnet": 201910010,
+			"Nombre": "Tony",
+			"Apellido": "Renachowski",
+			"Carrera": "Derecho",
+			"Password": "HA6IRN6vGgM"
+		},
+		{
+			"Carnet": 201910011,
+			"Nombre": "Brittaney",
+			"Apellido": "Rotge",
+			"Carrera": "Derecho",
+			"Password": "fSXgtd9pa"
+		},
+		{
+			"Carnet": 201910012,
+			"Nombre": "Cathe",
+			"Apellido": "Charlewood",
+			"Carrera": "Derecho",
+			"Password": "02P879"
+		},
+		{
+			"Carnet": 201910013,
+			"Nombre": "Jackson",
+			"Apellido": "Senechell",
+			"Carrera": "Derecho",
+			"Password": "VDiTiY1A9P"
+		},
+		{
+			"Carnet": 201910014,
+			"Nombre": "Rowen",
+			"Apellido": "Kohen",
+			"Carrera": "Derecho",
+			"Password": "4AZON3kcP"
+		},
+		{
+			"Carnet": 201911005,
+			"Nombre": "Dannel",
+			"Apellido": "Maypole",
+			"Carrera": "Derecho",
+			"Password": "5hn3VYtFJ8bm"
+		},
+		{
+			"Carnet": 201910016,
+			"Nombre": "Matteo",
+			"Apellido": "Papaminas",
+			"Carrera": "Derecho",
+			"Password": "aLE46xwyKh"
+		},
+		{
+			"Carnet": 201910017,
+			"Nombre": "Gael",
+			"Apellido": "Elmar",
+			"Carrera": "Derecho",
+			"Password": "k4q1fyHZbAW"
+		},
+		{
+			"Carnet": 201910018,
+			"Nombre": "Pippa",
+			"Apellido": "Dellenbrok",
+			"Carrera": "Derecho",
+			"Password": "4g81wDYfS7e"
+		},
+		{
+			"Carnet": 201910019,
+			"Nombre": "Ivan",
+			"Apellido": "Moss",
+			"Carrera": "Derecho",
+			"Password": "B7Xn404t"
+		},
+		{
+			"Carnet": 201910020,
+			"Nombre": "Andra",
+			"Apellido": "Daniaud",
+			"Carrera": "Derecho",
+			"Password": "NRGXhPIPb6dv"
+		},
+		{
+			"Carnet": 201910021,
+			"Nombre": "Malcolm",
+			"Apellido": "Curling",
+			"Carrera": "Derecho",
+			"Password": "4iTRGqs3Sj"
+		},
+		{
+			"Carnet": 201910022,
+			"Nombre": "Dietrich",
+			"Apellido": "Cardenoza",
+			"Carrera": "Derecho",
+			"Password": "JfGbacGhK"
+		},
+		{
+			"Carnet": 201910023,
+			"Nombre": "Mignon",
+			"Apellido": "Fruchon",
+			"Carrera": "Derecho",
+			"Password": "1VUThdm"
+		},
+		{
+			"Carnet": 201910024,
+			"Nombre": "Billy",
+			"Apellido": "MacGiany",
+			"Carrera": "Derecho",
+			"Password": "Ms2ZJsaqPUJL"
+		},
+		{
+			"Carnet": 201910025,
+			"Nombre": "Kirk",
+			"Apellido": "Fullerton",
+			"Carrera": "Derecho",
+			"Password": "PpCn6q1kcrqg"
+		},
+		{
+			"Carnet": 201910026,
+			"Nombre": "Killy",
+			"Apellido": "Lindenfeld",
+			"Carrera": "Derecho",
+			"Password": "ts8UxPbTd"
+		},
+		{
+			"Carnet": 201910027,
+			"Nombre": "Nani",
+			"Apellido": "Luto",
+			"Carrera": "Derecho",
+			"Password": "9ThIMmEnIAO"
+		},
+		{
+			"Carnet": 201910028,
+			"Nombre": "Myranda",
+			"Apellido": "Pierton",
+			"Carrera": "Derecho",
+			"Password": "hRN6N90oK"
+		},
+		{
+			"Carnet": 201910029,
+			"Nombre": "Randolf",
+			"Apellido": "Martinot",
+			"Carrera": "Derecho",
+			"Password": "5x4YoCSZ"
+		},
+		{
+			"Carnet": 201910030,
+			"Nombre": "Mirabel",
+			"Apellido": "Davidescu",
+			"Carrera": "Derecho",
+			"Password": "rvOPokrnk"
+		},
+		{
+			"Carnet": 201910031,
+			"Nombre": "Dev",
+			"Apellido": "Rhodef",
+			"Carrera": "Derecho",
+			"Password": "1UDa1lWogj"
+		},
+		{
+			"Carnet": 201910032,
+			"Nombre": "Cherise",
+			"Apellido": "Luter",
+			"Carrera": "Derecho",
+			"Password": "kaBfQoR"
+		},
+		{
+			"Carnet": 201910033,
+			"Nombre": "Sterling",
+			"Apellido": "Le-Good",
+			"Carrera": "Derecho",
+			"Password": "mVnGvobPcJtp"
+		},
+		{
+			"Carnet": 201910034,
+			"Nombre": "Jeffry",
+			"Apellido": "Johnigan",
+			"Carrera": "Derecho",
+			"Password": "mCQShTUkl0w"
+		},
+		{
+			"Carnet": 201910035,
+			"Nombre": "Glenn",
+			"Apellido": "Ruslen",
+			"Carrera": "Derecho",
+			"Password": "fOghLHrX4Wvz"
+		},
+		{
+			"Carnet": 201910036,
+			"Nombre": "Ardyth",
+			"Apellido": "Sciusscietto",
+			"Carrera": "Derecho",
+			"Password": "vmjfbk6Tu5"
+		},
+		{
+			"Carnet": 201910037,
+			"Nombre": "Sal",
+			"Apellido": "Ridgley",
+			"Carrera": "Derecho",
+			"Password": "oQQv6gvJc1gD"
+		},
+		{
+			"Carnet": 201910038,
+			"Nombre": "Clotilda",
+			"Apellido": "Matys",
+			"Carrera": "Derecho",
+			"Password": "jOO34t"
+		},
+		{
+			"Carnet": 201910039,
+			"Nombre": "Ron",
+			"Apellido": "Agerskow",
+			"Carrera": "Derecho",
+			"Password": "kk9MqmCGd"
+		},
+		{
+			"Carnet": 201910040,
+			"Nombre": "Dniren",
+			"Apellido": "Kharchinski",
+			"Carrera": "Derecho",
+			"Password": "b3C2R3V5i"
+		},
+		{
+			"Carnet": 201910041,
+			"Nombre": "Keven",
+			"Apellido": "Tertre",
+			"Carrera": "Derecho",
+			"Password": "4tf5ubo"
+		},
+		{
+			"Carnet": 201910042,
+			"Nombre": "Sam",
+			"Apellido": "MacGee",
+			"Carrera": "Derecho",
+			"Password": "Aj0IXYU8zSR"
+		},
+		{
+			"Carnet": 201910043,
+			"Nombre": "Kitty",
+			"Apellido": "Chamberlin",
+			"Carrera": "Derecho",
+			"Password": "KDMVVXW"
+		},
+		{
+			"Carnet": 201910044,
+			"Nombre": "Oralle",
+			"Apellido": "Marielle",
+			"Carrera": "Derecho",
+			"Password": "sUzxYmLPOEoe"
+		},
+		{
+			"Carnet": 201910045,
+			"Nombre": "Julina",
+			"Apellido": "Klimentyev",
+			"Carrera": "Derecho",
+			"Password": "itQ6Us0rh"
+		},
+		{
+			"Carnet": 201910046,
+			"Nombre": "Theo",
+			"Apellido": "Shobbrook",
+			"Carrera": "Derecho",
+			"Password": "4RastntB"
+		},
+		{
+			"Carnet": 201910047,
+			"Nombre": "Osbourne",
+			"Apellido": "Gilchrist",
+			"Carrera": "Derecho",
+			"Password": "YsKFOI"
+		},
+		{
+			"Carnet": 201910048,
+			"Nombre": "Pascale",
+			"Apellido": "De Moreno",
+			"Carrera": "Derecho",
+			"Password": "JJ8qCKinvwpa"
+		},
+		{
+			"Carnet": 201910049,
+			"Nombre": "Nichol",
+			"Apellido": "Jarrelt",
+			"Carrera": "Derecho",
+			"Password": "Qt31dRcS"
+		},
+		{
+			"Carnet": 201910050,
+			"Nombre": "Gerri",
+			"Apellido": "Hully",
+			"Carrera": "Derecho",
+			"Password": "zqC0GCmnO"
+		},
+		{
+			"Carnet": 201910051,
+			"Nombre": "Rozelle",
+			"Apellido": "Veltman",
+			"Carrera": "Derecho",
+			"Password": "XfmljWNb0yIm"
+		},
+		{
+			"Carnet": 201910052,
+			"Nombre": "Arlina",
+			"Apellido": "Heigho",
+			"Carrera": "Derecho",
+			"Password": "GH7hXzU"
+		},
+		{
+			"Carnet": 201910053,
+			"Nombre": "Noel",
+			"Apellido": "Haldene",
+			"Carrera": "Derecho",
+			"Password": "1PoYJiRdWmR"
+		},
+		{
+			"Carnet": 201910054,
+			"Nombre": "Stillman",
+			"Apellido": "Leyre",
+			"Carrera": "Derecho",
+			"Password": "tRhk3IWU"
+		},
+		{
+			"Carnet": 201910055,
+			"Nombre": "Pamelina",
+			"Apellido": "Rhodef",
+			"Carrera": "Derecho",
+			"Password": "FZJXjz2KjNX"
+		},
+		{
+			"Carnet": 201910056,
+			"Nombre": "Gerick",
+			"Apellido": "Bartoleyn",
+			"Carrera": "Derecho",
+			"Password": "O2m6YI8wE"
+		},
+		{
+			"Carnet": 201910057,
+			"Nombre": "Trixi",
+			"Apellido": "Bosquet",
+			"Carrera": "Derecho",
+			"Password": "TFOnVk9vT"
+		},
+		{
+			"Carnet": 201910058,
+			"Nombre": "Trix",
+			"Apellido": "Tanman",
+			"Carrera": "Derecho",
+			"Password": "boDGnz"
+		},
+		{
+			"Carnet": 201910059,
+			"Nombre": "Dannye",
+			"Apellido": "Forsbey",
+			"Carrera": "Derecho",
+			"Password": "E4M5t2hprB2"
+		},
+		{
+			"Carnet": 201910060,
+			"Nombre": "Melitta",
+			"Apellido": "Braidwood",
+			"Carrera": "Derecho",
+			"Password": "83J4aZjdcf"
+		},
+		{
+			"Carnet": 201910061,
+			"Nombre": "Erinna",
+			"Apellido": "Byer",
+			"Carrera": "Derecho",
+			"Password": "AGne37OOj"
+		},
+		{
+			"Carnet": 201910062,
+			"Nombre": "Griff",
+			"Apellido": "Bursnall",
+			"Carrera": "Derecho",
+			"Password": "y1WBwdbWt"
+		},
+		{
+			"Carnet": 201910063,
+			"Nombre": "Bernadine",
+			"Apellido": "Cutcliffe",
+			"Carrera": "Derecho",
+			"Password": "kuTPCV"
+		},
+		{
+			"Carnet": 201910064,
+			"Nombre": "Bentlee",
+			"Apellido": "Dumphries",
+			"Carrera": "Derecho",
+			"Password": "OjOwj5Cjx0aw"
+		},
+		{
+			"Carnet": 201910065,
+			"Nombre": "Elizabeth",
+			"Apellido": "Golden of Ireland",
+			"Carrera": "Derecho",
+			"Password": "UZ1B2PR6lHw"
+		},
+		{
+			"Carnet": 201910066,
+			"Nombre": "Georgiana",
+			"Apellido": "Sterrick",
+			"Carrera": "Derecho",
+			"Password": "ojIYJmp9LPW"
+		},
+		{
+			"Carnet": 201910067,
+			"Nombre": "Ximenes",
+			"Apellido": "Crehan",
+			"Carrera": "Derecho",
+			"Password": "jcLWKEjIJQf"
+		},
+		{
+			"Carnet": 201910068,
+			"Nombre": "Nerte",
+			"Apellido": "Heephy",
+			"Carrera": "Derecho",
+			"Password": "BAY1LHR"
+		},
+		{
+			"Carnet": 201910069,
+			"Nombre": "Amalea",
+			"Apellido": "Beckenham",
+			"Carrera": "Derecho",
+			"Password": "jQUl97"
+		},
+		{
+			"Carnet": 201910070,
+			"Nombre": "Bradly",
+			"Apellido": "Vearncomb",
+			"Carrera": "Derecho",
+			"Password": "kMU3XBHuh6Eo"
+		},
+		{
+			"Carnet": 201910071,
+			"Nombre": "Pete",
+			"Apellido": "Angerstein",
+			"Carrera": "Derecho",
+			"Password": "ntIBK0TNAKv"
+		},
+		{
+			"Carnet": 201910072,
+			"Nombre": "Deina",
+			"Apellido": "Barkaway",
+			"Carrera": "Derecho",
+			"Password": "b3JsEO4"
+		},
+		{
+			"Carnet": 201910073,
+			"Nombre": "Petr",
+			"Apellido": "Oloshin",
+			"Carrera": "Derecho",
+			"Password": "G1d3JhUQI"
+		},
+		{
+			"Carnet": 201910074,
+			"Nombre": "Bronson",
+			"Apellido": "Bradder",
+			"Carrera": "Derecho",
+			"Password": "9ppBtREbJ"
+		},
+		{
+			"Carnet": 201910075,
+			"Nombre": "Farly",
+			"Apellido": "Bethell",
+			"Carrera": "Derecho",
+			"Password": "Hx0k37w3vFvb"
+		},
+		{
+			"Carnet": 201910076,
+			"Nombre": "Roselia",
+			"Apellido": "Conaboy",
+			"Carrera": "Derecho",
+			"Password": "KyjO3eRuVpt0"
+		},
+		{
+			"Carnet": 201910077,
+			"Nombre": "Boniface",
+			"Apellido": "Greggor",
+			"Carrera": "Derecho",
+			"Password": "kQ196Lk7Igj"
+		},
+		{
+			"Carnet": 201910078,
+			"Nombre": "Greg",
+			"Apellido": "Acedo",
+			"Carrera": "Derecho",
+			"Password": "KZfaWq1"
+		},
+		{
+			"Carnet": 201910079,
+			"Nombre": "Woodman",
+			"Apellido": "Kleinberer",
+			"Carrera": "Derecho",
+			"Password": "voKXVzDO"
+		},
+		{
+			"Carnet": 201910080,
+			"Nombre": "Arlie",
+			"Apellido": "Duthie",
+			"Carrera": "Derecho",
+			"Password": "aO1XgmpW"
+		},
+		{
+			"Carnet": 201910081,
+			"Nombre": "Kissee",
+			"Apellido": "Duprey",
+			"Carrera": "Derecho",
+			"Password": "MiMyM4Vq"
+		},
+		{
+			"Carnet": 201910082,
+			"Nombre": "Ethel",
+			"Apellido": "Tussaine",
+			"Carrera": "Derecho",
+			"Password": "nTc3eI"
+		},
+		{
+			"Carnet": 201910083,
+			"Nombre": "Bethina",
+			"Apellido": "Moden",
+			"Carrera": "Derecho",
+			"Password": "OQCVjL"
+		},
+		{
+			"Carnet": 201910084,
+			"Nombre": "Maren",
+			"Apellido": "Skrzynski",
+			"Carrera": "Derecho",
+			"Password": "lPfFh1"
+		},
+		{
+			"Carnet": 201910085,
+			"Nombre": "Hercule",
+			"Apellido": "Aaronsohn",
+			"Carrera": "Derecho",
+			"Password": "AUWbsBEh0Fr"
+		},
+		{
+			"Carnet": 201910086,
+			"Nombre": "Cris",
+			"Apellido": "Judgkins",
+			"Carrera": "Derecho",
+			"Password": "zRZTBe"
+		},
+		{
+			"Carnet": 201910087,
+			"Nombre": "Starr",
+			"Apellido": "MacCambridge",
+			"Carrera": "Derecho",
+			"Password": "pJDcgGIIQhI"
+		},
+		{
+			"Carnet": 201910088,
+			"Nombre": "Nanine",
+			"Apellido": "Laban",
+			"Carrera": "Derecho",
+			"Password": "OkP0bgZpkn1"
+		},
+		{
+			"Carnet": 201910089,
+			"Nombre": "Sawyere",
+			"Apellido": "Fenby",
+			"Carrera": "Derecho",
+			"Password": "VPIQSgq4CXD"
+		},
+		{
+			"Carnet": 201910090,
+			"Nombre": "Gabbie",
+			"Apellido": "Baccus",
+			"Carrera": "Derecho",
+			"Password": "cNMU3uGI"
+		},
+		{
+			"Carnet": 201910091,
+			"Nombre": "Gianna",
+			"Apellido": "Casetti",
+			"Carrera": "Derecho",
+			"Password": "Xl8UIA5WF"
+		},
+		{
+			"Carnet": 201910092,
+			"Nombre": "Merle",
+			"Apellido": "Sothern",
+			"Carrera": "Derecho",
+			"Password": "lxEyorOSSKom"
+		},
+		{
+			"Carnet": 201910093,
+			"Nombre": "Aylmer",
+			"Apellido": "Ommundsen",
+			"Carrera": "Derecho",
+			"Password": "8MOmiW"
+		},
+		{
+			"Carnet": 201910094,
+			"Nombre": "Brigid",
+			"Apellido": "Yeeles",
+			"Carrera": "Derecho",
+			"Password": "dfb2bm"
+		},
+		{
+			"Carnet": 201910095,
+			"Nombre": "Agace",
+			"Apellido": "Grimsell",
+			"Carrera": "Derecho",
+			"Password": "6wvSMm"
+		},
+		{
+			"Carnet": 201910096,
+			"Nombre": "Matteo",
+			"Apellido": "Rieme",
+			"Carrera": "Derecho",
+			"Password": "2rBDccW9ii2"
+		},
+		{
+			"Carnet": 201910097,
+			"Nombre": "Darsey",
+			"Apellido": "Stancliffe",
+			"Carrera": "Derecho",
+			"Password": "lCKtlPtIg"
+		},
+		{
+			"Carnet": 201910098,
+			"Nombre": "Elisabeth",
+			"Apellido": "S100newin",
+			"Carrera": "Derecho",
+			"Password": "3uikruJjPHl"
+		},
+		{
+			"Carnet": 201910099,
+			"Nombre": "Rawley",
+			"Apellido": "Ridgewell",
+			"Carrera": "Derecho",
+			"Password": "dqTzeptDz0Y2"
+		}
+	]
+}

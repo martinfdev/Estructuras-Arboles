@@ -1,0 +1,702 @@
+[
+  {
+    "ISBN": 13400,
+    "Anio": 1964,
+    "Idioma": "Frances",
+    "Titulo": "Los Grandes problemas de la politica",
+    "Editorial": "Accion Social Empresarial, ASE",
+    "Autor": "FALL MEETING",
+    "Edicion": 1,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13401,
+    "Anio": 1998,
+    "Idioma": "Espaniol",
+    "Titulo": "La excelencia en el servicio",
+    "Editorial": "ACE Books",
+    "Autor": "FALL MEETING ACS",
+    "Edicion": 1,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13416,
+    "Anio": 1989,
+    "Idioma": "Espaniol",
+    "Titulo": "Project management: a managerial approach",
+    "Editorial": "Acento",
+    "Autor": "FALLA BIANCHI DE PINTOR, ANNA LORENA",
+    "Edicion": 10,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13417,
+    "Anio": 1988,
+    "Idioma": "Espaniol",
+    "Titulo": "Marketing management: analysis, planning, implementation, and control",
+    "Editorial": "ACEPRENSA",
+    "Autor": "FALLA BIANCHI, CLARA HILDA",
+    "Edicion": 9,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13418,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduction to mathematical programming",
+    "Editorial": "ACER",
+    "Autor": "FALLA GONZALEZ, CARLOS MANUEL",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13419,
+    "Anio": 1989,
+    "Idioma": "Espaniol",
+    "Titulo": "Law, business, and society",
+    "Editorial": "ACERVO",
+    "Autor": "FALLA JIMENEZ, JOSE ORLANDO",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13420,
+    "Anio": 1991,
+    "Idioma": "Espaniol",
+    "Titulo": "Iniciacion a la metafisica",
+    "Editorial": "Acervo Cultural",
+    "Autor": "FALLA SANCHEZ, RICARDO",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13421,
+    "Anio": 1966,
+    "Idioma": "Espaniol",
+    "Titulo": "Como tratar a ninios y adolescentes",
+    "Editorial": "Achenbach Foundation for Graphic Arts",
+    "Autor": "FALLA, ERNESTO",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13423,
+    "Anio": 1928,
+    "Idioma": "Espaniol",
+    "Titulo": "Au pays du Nep et de la TchEka; dans les prisons de l'U.R.S.S.",
+    "Editorial": "ACME",
+    "Autor": "FALLA, JUAN JOSE",
+    "Edicion": 5,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13425,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Juan de Dios Mayorga y Lanuza, procer y martir de la independencia de Centro AmErica",
+    "Editorial": "ACNUR",
+    "Autor": "FALLA, SALVADOR",
+    "Edicion": 5,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13426,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Teculutan historico",
+    "Editorial": "ACOME",
+    "Autor": "FALLA, SALVADOR",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13427,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "In der Schule des Schmerzes",
+    "Editorial": "ACOUSTIC COMMUNICATIONS GROUP",
+    "Autor": "FALLACI, ORIANA",
+    "Edicion": 8,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13428,
+    "Anio": 2002,
+    "Idioma": "Aleman",
+    "Titulo": "Analisis del concepto de derecho",
+    "Editorial": "ACPD",
+    "Autor": "FALLAS SIBAJA, CARLOS LUIS",
+    "Edicion": 8,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13429,
+    "Anio": 1854,
+    "Idioma": "Espaniol",
+    "Titulo": "Estudios filosoficos sobre el cristianismo, tomo 1 / por Augusto Nicolas",
+    "Editorial": "ACRIBIA",
+    "Autor": "FALS BORDA, ORLANDO",
+    "Edicion": 8,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13430,
+    "Anio": 1986,
+    "Idioma": "Ingles",
+    "Titulo": "Poesia tradicional de los judios espanioles",
+    "Editorial": "Acropolis",
+    "Autor": "FAMILIA ZEA BATRES",
+    "Edicion": 7,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13431,
+    "Anio": 1979,
+    "Idioma": "Frances",
+    "Titulo": "Home and workshop guide to glues and adhesives",
+    "Editorial": "Actar",
+    "Autor": "FAMILY OF THE AMERICAS FOUNDATION",
+    "Edicion": 6,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13433,
+    "Anio": 1988,
+    "Idioma": "Espaniol",
+    "Titulo": "Corporate Finance",
+    "Editorial": "Actualidad Economica",
+    "Autor": "FAMILY OF THE AMERICAS FOUNDATIONS",
+    "Edicion": 5,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13434,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Manual de bioEtica",
+    "Editorial": "Acuity Productions",
+    "Autor": "FANELLI, GIOVANNI",
+    "Edicion": 4,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13435,
+    "Anio": 1996,
+    "Idioma": "Espaniol",
+    "Titulo": "Leyendas de Guatemala / Miguel Angel Asturias.",
+    "Editorial": "Ad Qualite",
+    "Autor": "FANFANI, AMINTORE",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13436,
+    "Anio": 1949,
+    "Idioma": "Espaniol",
+    "Titulo": "Homonomia (la nueva ciencia cosmica)",
+    "Editorial": "Ad-Hoc",
+    "Autor": "FANJUL, OSCAR",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13437,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Historia de la Universidad de San Carlos de Guatemala; Epoca republicana : (1821-1994)",
+    "Editorial": "ADAE",
+    "Autor": "FANON, FRANTZ",
+    "Edicion": 3,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13441,
+    "Anio": 1990,
+    "Idioma": "Espaniol",
+    "Titulo": "Catecismo constitucional",
+    "Editorial": "Adams",
+    "Autor": "FARACE, JOE",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13446,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Dinero y banca",
+    "Editorial": "Addison Wesley",
+    "Autor": "FARADAY, MICHAEL",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13448,
+    "Anio": 1995,
+    "Idioma": "Espaniol",
+    "Titulo": "Introduction to mathematical programming",
+    "Editorial": "ADDISON WESLEY LONGMAN",
+    "Autor": "FARAUDO GENER, XAVIER",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13449,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Serie obras selectas del derecho procesal, v 1 Nocion de acto jurisdiccional",
+    "Editorial": "ADDISON WESLEY-LONGMAN",
+    "Autor": "FARB, PETER",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13450,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Serie obras selectas del derecho procesal, v 2: Naturaleza de la cosa juzgada",
+    "Editorial": "ADDISON-WESLEY",
+    "Autor": "FARBER, JERRY",
+    "Edicion": 2,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13461,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "Vulnerabilidad de la seguridad hotelera debido a la alta rotacion de personal",
+    "Editorial": "ADDISON-WESLEY IBEROAMERICANA",
+    "Autor": "FARBER, MARIO",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13462,
+    "Anio": 2002,
+    "Idioma": "Aleman",
+    "Titulo": "Estudio de mercado para profesionales de la industria hotelera",
+    "Editorial": "Adelphi",
+    "Autor": "FARBER, RAYMOND G",
+    "Edicion": 2,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13463,
+    "Anio": 1985,
+    "Idioma": "Espaniol",
+    "Titulo": "Keynes",
+    "Editorial": "ADEMATE",
+    "Autor": "FARDO, STEPEHEN W",
+    "Edicion": 1,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13464,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "Estudio de factibilidad de residencias para personas de la tercera edad en Guatemala",
+    "Editorial": "ADESCA",
+    "Autor": "FARE, MARIO",
+    "Edicion": 1,
+    "Categoria": "Sagas"
+  },
+  {
+    "ISBN": 13465,
+    "Anio": 2002,
+    "Idioma": "Frances",
+    "Titulo": "Restauracion y rehabilitacion del edificio de la Casa del Ninio No. 1",
+    "Editorial": "ADESDEG",
+    "Autor": "FARFAN CONTRERAS, RITA MARLENY",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13467,
+    "Anio": 2000,
+    "Idioma": "Frances",
+    "Titulo": "Centro cultural en Hacienda JosE Milla y Vidaurre; Quezada, Jutiapa",
+    "Editorial": "ADEU",
+    "Autor": "FARFAN PAZ, PAOLA MISHELLE",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13471,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Casa de la cultura en Salama, Baja Verapaz",
+    "Editorial": "Administracion Libreria de Victoriano Suarez",
+    "Autor": "FARFAN ROSALES, JORGE FERNANDO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13472,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "Centro de capacitacion para personas con Sindrome Down",
+    "Editorial": "Adobe Press",
+    "Autor": "FARFAN, OSCAR MANOLO",
+    "Edicion": 1,
+    "Categoria": "Consulta"
+  },
+  {
+    "ISBN": 13473,
+    "Anio": 2001,
+    "Idioma": "Aleman",
+    "Titulo": "Criterios de disenio para un parque de rehabilitacion y recreacion, enfocado al minusvalido",
+    "Editorial": "ADPLEX AmEricas",
+    "Autor": "FARGE, OLIVER LA",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13483,
+    "Anio": 2001,
+    "Idioma": "Espaniol",
+    "Titulo": "El derecho del trabajo en la globalizacion de la economia",
+    "Editorial": "AECI",
+    "Autor": "FARHOOMAND, ALI",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13485,
+    "Anio": 2001,
+    "Idioma": "Ingles",
+    "Titulo": "La Universidad de la Companiia de Jesus a la luz del carisma ignaciano",
+    "Editorial": "AECID",
+    "Autor": "FARIA, A.J",
+    "Edicion": 2,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13486,
+    "Anio": 2001,
+    "Idioma": "Frances",
+    "Titulo": "Carta democratica interamericana",
+    "Editorial": "AEDOS",
+    "Autor": "FARIA, J. RAFAEL",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13487,
+    "Anio": 1985,
+    "Idioma": "Frances",
+    "Titulo": "Carlos MErida, precursor del arte contemporaneo latinoamericano",
+    "Editorial": "AEJMC",
+    "Autor": "FARIAS GALIANO, VICTOR MANUEL",
+    "Edicion": 4,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13488,
+    "Anio": 1970,
+    "Idioma": "Espaniol",
+    "Titulo": "Sistema de estructuras",
+    "Editorial": "AENOR",
+    "Autor": "FARIAS RODIL, SOFIA",
+    "Edicion": 3,
+    "Categoria": "Informativos"
+  },
+  {
+    "ISBN": 13506,
+    "Anio": 1962,
+    "Idioma": "Espaniol",
+    "Titulo": "La Evolucion de la humanidad, v 142: El periodico: origenes, evolucion y funcion de la prensa periodica / Georges Weill ; traduccion al espaniol por Virgilio Belendez.",
+    "Editorial": "AFANES",
+    "Autor": "FARIAS, JAVIER",
+    "Edicion": 4,
+    "Categoria": "Biografia"
+  },
+  {
+    "ISBN": 13507,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "La evolucion de la humanidad; v 44: Jesus",
+    "Editorial": "AFHA",
+    "Autor": "FARIAS, PRISCILA L",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13508,
+    "Anio": 1959,
+    "Idioma": "Espaniol",
+    "Titulo": "La evolucion de la humanidad, v 43: El mundo judio hacia los tiempos de Jesus",
+    "Editorial": "AFHA Internacional",
+    "Autor": "FARINA, MARIO V",
+    "Edicion": 2,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13511,
+    "Anio": 1961,
+    "Idioma": "Ruso",
+    "Titulo": "La Evolucion de la humanidad, v 45: Cristo",
+    "Editorial": "Afinidades",
+    "Autor": "FARINA, RAFAEL",
+    "Edicion": 4,
+    "Categoria": "Literatura"
+  },
+  {
+    "ISBN": 13532,
+    "Anio": 1955,
+    "Idioma": "Mandarin",
+    "Titulo": "La evolucion de la humanidad, v 1 La tierra antes de la historia; los origenes de la vida y del hombre",
+    "Editorial": "AFRODISIO AGUADO",
+    "Autor": "FARMER, GENE",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13533,
+    "Anio": 1960,
+    "Idioma": "Ingles",
+    "Titulo": "La evolucion de la humanidad, v 12: El genio griego en la religion",
+    "Editorial": "AFS",
+    "Autor": "FARMER, LAURENCE",
+    "Edicion": 2,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13534,
+    "Anio": 1959,
+    "Idioma": "Espaniol",
+    "Titulo": "La evolucion de la humanidad, v 29 La civilizacion china; la vida publica y la vida privada",
+    "Editorial": "Agata",
+    "Autor": "FARNSWORTH, E. ALLAN",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13537,
+    "Anio": 1956,
+    "Idioma": "Espaniol",
+    "Titulo": "La Evolucion de la humanidad, v 41: Israel: desde los origenes hasta mediados del siglo VIII (a. de C.)",
+    "Editorial": "AGAYC",
+    "Autor": "FARRAN, ANDREU",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13540,
+    "Anio": 1952,
+    "Idioma": "Ruso",
+    "Titulo": "Exequias de la lengua castellana",
+    "Editorial": "Agencia Alemana de Energia",
+    "Autor": "FARRAR, GILBERT P",
+    "Edicion": 4,
+    "Categoria": "Ensayo"
+  },
+  {
+    "ISBN": 13541,
+    "Anio": 1949,
+    "Idioma": "Mandarin",
+    "Titulo": "La Ruta del doctor Shannon / A. J. Cronin.",
+    "Editorial": "Agencia de Comunicacion Internacional de los Estados Unidos de AmErica",
+    "Autor": "FARRE, LUIS",
+    "Edicion": 4,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13545,
+    "Anio": 1975,
+    "Idioma": "Ingles",
+    "Titulo": "El comedor; consejos practicos y ejemplos de instalacion",
+    "Editorial": "Agencia EFE",
+    "Autor": "FARRELL, WALTER",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13546,
+    "Anio": 1997,
+    "Idioma": "Espaniol",
+    "Titulo": "Kitchens; the best of fine homebuilding",
+    "Editorial": "Agencia Espaniola de Cooperacion Internacional para el Desarrollo, AECID",
+    "Autor": "FARRINGTON, BENJAMIN",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13547,
+    "Anio": 1971,
+    "Idioma": "Espaniol",
+    "Titulo": "Lazarillo de Tormes. El diablo cojuelo",
+    "Editorial": "AGENCIA ESPANIOLA DE COOPERACION INTERNACIONAL, AECI",
+    "Autor": "FASAL, JOHN H",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13548,
+    "Anio": 1945,
+    "Idioma": "Ruso",
+    "Titulo": "Napoleon",
+    "Editorial": "Agencia Internacional de Libreria",
+    "Autor": "FASHION ON STAGE",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13549,
+    "Anio": 1998,
+    "Idioma": "Mandarin",
+    "Titulo": "Introduccion al codigo procesal penal",
+    "Editorial": "Agencia para la Planeacion del Desarrollo Urbano de Nuevo Leon",
+    "Autor": "FAST, HOWARD MELVIN",
+    "Edicion": 1,
+    "Categoria": "Lirico"
+  },
+  {
+    "ISBN": 13550,
+    "Anio": 1996,
+    "Idioma": "Ingles",
+    "Titulo": "Future libraries, future catalogues",
+    "Editorial": "AGENGIA ESPANIOLA DE COOPERACION INTERNACIONAL / OIT",
+    "Autor": "FAT, CHOW YUN",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13551,
+    "Anio": 2000,
+    "Idioma": "Espaniol",
+    "Titulo": "La revalorizacion del art nouveau en Guatemala (un caso : la casa FEnix)",
+    "Editorial": "AGEXPRONT",
+    "Autor": "FATAS, GUILLERMO",
+    "Edicion": 1,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13552,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "Logica y nociones de teoria del conocimiento",
+    "Editorial": "Agfa-Gevaert",
+    "Autor": "FATONE, VICENTE",
+    "Edicion": 3,
+    "Categoria": "Epico"
+  },
+  {
+    "ISBN": 13553,
+    "Anio": 1954,
+    "Idioma": "Ruso",
+    "Titulo": "The Ramayana",
+    "Editorial": "Agora",
+    "Autor": "FAUCHOIS, GEORGES",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13554,
+    "Anio": 1953,
+    "Idioma": "Mandarin",
+    "Titulo": "El problema del conocimiento en la filosofia y en la ciencia moderna 1 : El renacer del problema del conocimiento. El descubrimiento del concepto de la naturaleza. Los fundamentos del idealismo",
+    "Editorial": "Agrifor Consult",
+    "Autor": "FAULKNER, WILLIAM",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13555,
+    "Anio": 1967,
+    "Idioma": "Ingles",
+    "Titulo": "Introduccion a la filosofia de la educacion : analisis de las teorias modernas",
+    "Editorial": "AGUADO",
+    "Autor": "FAUNCE, SARAH",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13556,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "Cuentos de Belice",
+    "Editorial": "Aguila",
+    "Autor": "FAURE, EDGAR",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13557,
+    "Anio": 1961,
+    "Idioma": "Espaniol",
+    "Titulo": "Adolescencia",
+    "Editorial": "20th Century Fox",
+    "Autor": "FAURE, GABRIEL",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13559,
+    "Anio": 1960,
+    "Idioma": "Ruso",
+    "Titulo": "Chinto; o sea la historia de Jacinto Gorza Pinielas, contada por El mismo",
+    "Editorial": "3M Espania",
+    "Autor": "FAUS BELAU, ANGEL",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13563,
+    "Anio": 1944,
+    "Idioma": "Mandarin",
+    "Titulo": "Lincoln",
+    "Editorial": "3R EDITORES",
+    "Autor": "FAUSTLE, ALFRED",
+    "Edicion": 1,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13565,
+    "Anio": 1962,
+    "Idioma": "Espaniol",
+    "Titulo": "El trotamundos",
+    "Editorial": "A New Directions Book",
+    "Autor": "FAVERGER, G",
+    "Edicion": 10,
+    "Categoria": "Drama"
+  },
+  {
+    "ISBN": 13566,
+    "Anio": 1978,
+    "Idioma": "Espaniol",
+    "Titulo": "El principe / Nicolas Maquiavelo.",
+    "Editorial": "A Plume Book",
+    "Autor": "FAW, TERRY",
+    "Edicion": 9,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13569,
+    "Anio": 1951,
+    "Idioma": "Ruso",
+    "Titulo": "El principe / Nicolas Maquiavelo ; comentarios Napoleon Bonaparte.",
+    "Editorial": "A&E Home Video",
+    "Autor": "FAY, BERNARD",
+    "Edicion": 5,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13570,
+    "Anio": 1957,
+    "Idioma": "Espaniol",
+    "Titulo": "Napoleon (pasion-grandeza-tragedia)",
+    "Editorial": "A&E Mundo",
+    "Autor": "FAY, MARIANNE",
+    "Edicion": 5,
+    "Categoria": "Revista"
+  },
+  {
+    "ISBN": 13571,
+    "Anio": 1960,
+    "Idioma": "Espaniol",
+    "Titulo": "Doctor Zhivago",
+    "Editorial": "A&E TELEVISION NETWORK",
+    "Autor": "FAYET, MICHELLE",
+    "Edicion": 5,
+    "Categoria": "Sagas"
+  }
+]
